@@ -1,0 +1,7 @@
+date,time_utc,record,status,lat,lng,max_wind_kt,min_pressure_mb,34kt_wind_radius_nm_ne,34kt_wind_radius_nm_se,34kt_wind_radius_nm_nw,34kt_wind_radius_nm_sw,50kt_wind_radius_nm_ne,50kt_wind_radius_nm_se,50kt_wind_radius_nm_nw,50kt_wind_radius_nm_sw,64kt_wind_radius_nm_ne,64kt_wind_radius_nm_se,64kt_wind_radius_nm_nw,64kt_wind_radius_nm_sw,max_wind_radius_nm20050628, 1800,  , TD, 19.7N,  95.4W,  30, 1006,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20050628, 2235, I, TS, 19.9N,  95.7W,  35, 1002, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999
+20050629, 0000,  , TS, 20.0N,  95.8W,  35, 1005,   20,   30,   30,   20,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20050629, 0600,  , TS, 20.4N,  96.4W,  35, 1005,   30,   30,   30,   30,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20050629, 1200, L, TS, 20.8N,  97.3W,  35, 1005,   30,   30,   30,   30,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20050629, 1800,  , TD, 21.4N,  98.1W,  25, 1007,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20050630, 0000,  , TD, 22.0N,  98.5W,  25, 1008,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999

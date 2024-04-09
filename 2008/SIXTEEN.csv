@@ -1,0 +1,8 @@
+date,time_utc,record,status,lat,lng,max_wind_kt,min_pressure_mb,34kt_wind_radius_nm_ne,34kt_wind_radius_nm_se,34kt_wind_radius_nm_nw,34kt_wind_radius_nm_sw,50kt_wind_radius_nm_ne,50kt_wind_radius_nm_se,50kt_wind_radius_nm_nw,50kt_wind_radius_nm_sw,64kt_wind_radius_nm_ne,64kt_wind_radius_nm_se,64kt_wind_radius_nm_nw,64kt_wind_radius_nm_sw,max_wind_radius_nm20081014, 1200,  , TD, 15.5N,  82.8W,  25, 1004,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20081014, 1800,  , TD, 15.9N,  83.2W,  25, 1005,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20081015, 0000,  , TD, 16.0N,  83.6W,  25, 1005,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20081015, 0600,  , TD, 16.0N,  84.0W,  25, 1005,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20081015, 1200,  , TD, 15.9N,  84.4W,  25, 1005,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20081015, 1230, L, TD, 15.9N,  84.5W,  25, 1005,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20081015, 1800,  , TD, 15.6N,  85.0W,  25, 1006,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20081016, 0000,  , LO, 15.3N,  85.6W,  25, 1006,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
