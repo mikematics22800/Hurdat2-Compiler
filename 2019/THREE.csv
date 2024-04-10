@@ -1,0 +1,6 @@
+date,time_utc,record,status,lat,lng,max_wind_kt,min_pressure_mb,34kt_wind_radius_nm_ne,34kt_wind_radius_nm_se,34kt_wind_radius_nm_nw,34kt_wind_radius_nm_sw,50kt_wind_radius_nm_ne,50kt_wind_radius_nm_se,50kt_wind_radius_nm_nw,50kt_wind_radius_nm_sw,64kt_wind_radius_nm_ne,64kt_wind_radius_nm_se,64kt_wind_radius_nm_nw,64kt_wind_radius_nm_sw,max_wind_radius_nm
+20190722, 1200,  , TD, 24.6N,  77.4W,  25, 1013,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20190722, 1800,  , TD, 25.0N,  78.4W,  25, 1013,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20190723, 0000,  , TD, 25.7N,  79.3W,  25, 1013,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20190723, 0600,  , TD, 26.9N,  79.6W,  30, 1013,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
+20190723, 1200,  , TD, 28.6N,  80.0W,  30, 1014,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0, -999
