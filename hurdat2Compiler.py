@@ -73,7 +73,7 @@ with open(f"hurdat2JS/index.js", "a") as file:
     file.write('\n')
     file.write(f"const hurdat2 = [\n")
     for year in years:
-        file.write(f"   hurdat2_{year}\n")
+        file.write(f"   hurdat2_{year},\n")
     file.write(']\n')
     file.write('\n')
     file.write('export default hurdat2')
