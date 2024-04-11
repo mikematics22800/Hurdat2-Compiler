@@ -56,6 +56,8 @@ for line in lines:
         name = name[0] + name[1:].lower()
         if name in names:
             name = f"{name}_2"
+        if "-" in name:
+            name = name.replace("-", "_")
         names.append(name)
         if not os.path.exists(f"hurdat2CSV/{year}"):
             os.makedirs(f"hurdat2CSV/{year}")

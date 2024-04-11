@@ -20,7 +20,7 @@ import Nineteen from './Nineteen'
 import Stan from './Stan'
 import Unnamed_1 from './Unnamed_1'
 import Tammy from './Tammy'
-import Twenty-two from './Twenty-two'
+import Twenty_two from './Twenty_two'
 import Vince from './Vince'
 import Wilma from './Wilma'
 import Alpha from './Alpha'
@@ -53,7 +53,7 @@ const hurdat2_2005 = [
    Stan,
    Unnamed_1,
    Tammy,
-   Twenty-two,
+   Twenty_two,
    Vince,
    Wilma,
    Alpha,
