@@ -14,7 +14,16 @@ for line in lines:
         values = line.strip().split(",")
         if year != "" and name != "":
             with open(f"hurdat2CSV/{year}/{name}.csv", "r", newline="") as file:
-                data = list(csv.DictReader(file))
+                data=[]
+                reader = csv.DictReader(file)
+                for row in reader:
+                    for key, value in row.items():
+                        value = value.replace(" ", "")
+                        if value.isdigit() or value[1:].isdigit():
+                            row[key] = int(value)
+                        else:
+                            row[key] = value
+                    data.append(row)
             with open(f"hurdat2JSON/{year}/{name}.json", "w") as file:
                 json.dump(data, file, indent=2)
             with open(f"hurdat2JS/{year}/{name}.js", "w") as file:
