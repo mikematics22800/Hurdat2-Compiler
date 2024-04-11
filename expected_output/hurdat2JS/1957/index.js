@@ -5,7 +5,7 @@ import Carrie from './Carrie'
 import Debbie from './Debbie'
 import Esther from './Esther'
 import Frieda from './Frieda'
-import Unnamed_8 from './Unnamed_8'
+import Unnamed_2 from './Unnamed_2'
 
 const hurdat2_1957 = [
    Unnamed_1,
@@ -15,7 +15,7 @@ const hurdat2_1957 = [
    Debbie,
    Esther,
    Frieda,
-   Unnamed_8,
+   Unnamed_2,
 ]
 
 export default hurdat2_1957

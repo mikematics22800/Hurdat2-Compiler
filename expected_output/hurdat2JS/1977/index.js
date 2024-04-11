@@ -5,14 +5,14 @@ import Unnamed_4 from './Unnamed_4'
 import Anita from './Anita'
 import Babe from './Babe'
 import Clara from './Clara'
-import Unnamed_8 from './Unnamed_8'
-import Unnamed_9 from './Unnamed_9'
+import Unnamed_5 from './Unnamed_5'
+import Unnamed_6 from './Unnamed_6'
 import Dorothy from './Dorothy'
-import Unnamed_11 from './Unnamed_11'
-import Unnamed_12 from './Unnamed_12'
+import Unnamed_7 from './Unnamed_7'
+import Unnamed_8 from './Unnamed_8'
 import Evelyn from './Evelyn'
 import Frieda from './Frieda'
-import Unnamed_15 from './Unnamed_15'
+import Unnamed_9 from './Unnamed_9'
 
 const hurdat2_1977 = [
    Unnamed_1,
@@ -22,14 +22,14 @@ const hurdat2_1977 = [
    Anita,
    Babe,
    Clara,
-   Unnamed_8,
-   Unnamed_9,
+   Unnamed_5,
+   Unnamed_6,
    Dorothy,
-   Unnamed_11,
-   Unnamed_12,
+   Unnamed_7,
+   Unnamed_8,
    Evelyn,
    Frieda,
-   Unnamed_15,
+   Unnamed_9,
 ]
 
 export default hurdat2_1977

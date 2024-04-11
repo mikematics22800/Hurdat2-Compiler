@@ -3,13 +3,13 @@ import Betsy from './Betsy'
 import Carla from './Carla'
 import Debbie from './Debbie'
 import Esther from './Esther'
-import Unnamed_6 from './Unnamed_6'
+import Unnamed_1 from './Unnamed_1'
 import Frances from './Frances'
 import Gerda from './Gerda'
 import Hattie from './Hattie'
 import Jenny from './Jenny'
 import Inga from './Inga'
-import Unnamed_12 from './Unnamed_12'
+import Unnamed_2 from './Unnamed_2'
 
 const hurdat2_1961 = [
    Anna,
@@ -17,13 +17,13 @@ const hurdat2_1961 = [
    Carla,
    Debbie,
    Esther,
-   Unnamed_6,
+   Unnamed_1,
    Frances,
    Gerda,
    Hattie,
    Jenny,
    Inga,
-   Unnamed_12,
+   Unnamed_2,
 ]
 
 export default hurdat2_1961

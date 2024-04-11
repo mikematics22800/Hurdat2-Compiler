@@ -9,7 +9,7 @@ import George from './George'
 import How from './How'
 import Item from './Item'
 import Jig from './Jig'
-import Unnamed_12 from './Unnamed_12'
+import Unnamed_2 from './Unnamed_2'
 
 const hurdat2_1951 = [
    Unnamed_1,
@@ -23,7 +23,7 @@ const hurdat2_1951 = [
    How,
    Item,
    Jig,
-   Unnamed_12,
+   Unnamed_2,
 ]
 
 export default hurdat2_1951

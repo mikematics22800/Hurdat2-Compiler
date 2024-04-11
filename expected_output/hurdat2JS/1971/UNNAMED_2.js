@@ -1,11 +1,11 @@
 const Unnamed_2 = [
   {
-    "date": 19710707,
+    "date": 19710710,
     "time_utc": 1200,
     "record": "",
     "status": "TD",
-    "lat": "29.0N",
-    "lng": "92.0W",
+    "lat": "27.0N",
+    "lng": "97.0W",
     "max_wind_kt": 20,
     "min_pressure_mb": -999,
     "34kt_wind_radius_nm_ne": -999,
@@ -23,12 +23,12 @@ const Unnamed_2 = [
     "max_wind_radius_nm": -999
   },
   {
-    "date": 19710707,
+    "date": 19710710,
     "time_utc": 1800,
     "record": "",
     "status": "TD",
-    "lat": "29.4N",
-    "lng": "93.0W",
+    "lat": "27.0N",
+    "lng": "97.5W",
     "max_wind_kt": 25,
     "min_pressure_mb": -999,
     "34kt_wind_radius_nm_ne": -999,
@@ -46,12 +46,12 @@ const Unnamed_2 = [
     "max_wind_radius_nm": -999
   },
   {
-    "date": 19710708,
+    "date": 19710711,
     "time_utc": 0,
     "record": "",
     "status": "TD",
-    "lat": "29.8N",
-    "lng": "94.0W",
+    "lat": "27.0N",
+    "lng": "98.0W",
     "max_wind_kt": 25,
     "min_pressure_mb": -999,
     "34kt_wind_radius_nm_ne": -999,
@@ -69,12 +69,12 @@ const Unnamed_2 = [
     "max_wind_radius_nm": -999
   },
   {
-    "date": 19710708,
+    "date": 19710711,
     "time_utc": 600,
     "record": "",
     "status": "TD",
-    "lat": "30.2N",
-    "lng": "95.0W",
+    "lat": "27.0N",
+    "lng": "98.5W",
     "max_wind_kt": 25,
     "min_pressure_mb": -999,
     "34kt_wind_radius_nm_ne": -999,
@@ -92,12 +92,12 @@ const Unnamed_2 = [
     "max_wind_radius_nm": -999
   },
   {
-    "date": 19710708,
+    "date": 19710711,
     "time_utc": 1200,
     "record": "",
     "status": "TD",
-    "lat": "30.5N",
-    "lng": "96.0W",
+    "lat": "27.0N",
+    "lng": "99.0W",
     "max_wind_kt": -99,
     "min_pressure_mb": -999,
     "34kt_wind_radius_nm_ne": -999,

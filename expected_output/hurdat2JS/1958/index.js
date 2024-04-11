@@ -8,8 +8,8 @@ import Gerda from './Gerda'
 import Helene from './Helene'
 import Ilsa from './Ilsa'
 import Janice from './Janice'
-import Unnamed_11 from './Unnamed_11'
-import Unnamed_12 from './Unnamed_12'
+import Unnamed_1 from './Unnamed_1'
+import Unnamed_2 from './Unnamed_2'
 
 const hurdat2_1958 = [
    Alma,
@@ -22,8 +22,8 @@ const hurdat2_1958 = [
    Helene,
    Ilsa,
    Janice,
-   Unnamed_11,
-   Unnamed_12,
+   Unnamed_1,
+   Unnamed_2,
 ]
 
 export default hurdat2_1958

@@ -9,12 +9,12 @@ import Hallie from './Hallie'
 import Inez from './Inez'
 import Judith from './Judith'
 import Lois from './Lois'
-import Unnamed_12 from './Unnamed_12'
-import Unnamed_13 from './Unnamed_13'
-import Unnamed_14 from './Unnamed_14'
+import Unnamed_1 from './Unnamed_1'
+import Unnamed_2 from './Unnamed_2'
+import Unnamed_3 from './Unnamed_3'
 import Kendra from './Kendra'
-import Unnamed_16 from './Unnamed_16'
-import Unnamed_17 from './Unnamed_17'
+import Unnamed_4 from './Unnamed_4'
+import Unnamed_5 from './Unnamed_5'
 
 const hurdat2_1966 = [
    Alma,
@@ -28,12 +28,12 @@ const hurdat2_1966 = [
    Inez,
    Judith,
    Lois,
-   Unnamed_12,
-   Unnamed_13,
-   Unnamed_14,
+   Unnamed_1,
+   Unnamed_2,
+   Unnamed_3,
    Kendra,
-   Unnamed_16,
-   Unnamed_17,
+   Unnamed_4,
+   Unnamed_5,
 ]
 
 export default hurdat2_1966

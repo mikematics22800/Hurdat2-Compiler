@@ -101,7 +101,6 @@ import hurdat2_1950 from './1950'
 import hurdat2_1951 from './1951'
 import hurdat2_1952 from './1952'
 import hurdat2_1953 from './1953'
-import hurdat2_1954 from './1954'
 import hurdat2_1955 from './1955'
 import hurdat2_1956 from './1956'
 import hurdat2_1957 from './1957'
@@ -275,7 +274,6 @@ const hurdat2 = [
    hurdat2_1951,
    hurdat2_1952,
    hurdat2_1953,
-   hurdat2_1954,
    hurdat2_1955,
    hurdat2_1956,
    hurdat2_1957,

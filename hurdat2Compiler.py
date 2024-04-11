@@ -48,13 +48,16 @@ for line in lines:
         if year != values[0][-4:]:
             i=0
             names = []
-        i+=1
         year = values[0][-4:]
         name = values[1].replace(" ", "")
         if name == "UNNAMED":
+            i+=1
             name = f"{name}_{i}"
         name = name[0] + name[1:].lower()
-        names.append(name)
+        if name in names:
+            year = str(int(year) + 1)
+        else:
+            names.append(name)
         if not os.path.exists(f"hurdat2CSV/{year}"):
             os.makedirs(f"hurdat2CSV/{year}")
         with open(f"hurdat2CSV/{year}/{name}.csv", "w", newline="") as file:

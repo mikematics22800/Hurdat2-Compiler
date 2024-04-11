@@ -5,7 +5,7 @@ import Andrew from './Andrew'
 import Bonnie from './Bonnie'
 import Charley from './Charley'
 import Danielle from './Danielle'
-import Unnamed_8 from './Unnamed_8'
+import Unnamed_4 from './Unnamed_4'
 import Earl from './Earl'
 import Frances from './Frances'
 
@@ -17,7 +17,7 @@ const hurdat2_1992 = [
    Bonnie,
    Charley,
    Danielle,
-   Unnamed_8,
+   Unnamed_4,
    Earl,
    Frances,
 ]

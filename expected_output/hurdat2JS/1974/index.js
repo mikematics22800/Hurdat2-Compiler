@@ -5,19 +5,19 @@ import Unnamed_4 from './Unnamed_4'
 import Unnamed_5 from './Unnamed_5'
 import Unnamed_6 from './Unnamed_6'
 import Alma from './Alma'
-import Unnamed_8 from './Unnamed_8'
+import Unnamed_7 from './Unnamed_7'
 import Becky from './Becky'
 import Carmen from './Carmen'
-import Unnamed_11 from './Unnamed_11'
+import Unnamed_8 from './Unnamed_8'
 import Dolly from './Dolly'
 import Elaine from './Elaine'
 import Fifi from './Fifi'
-import Unnamed_15 from './Unnamed_15'
-import Unnamed_16 from './Unnamed_16'
+import Unnamed_9 from './Unnamed_9'
+import Unnamed_10 from './Unnamed_10'
 import Gertrude from './Gertrude'
-import Unnamed_18 from './Unnamed_18'
-import Unnamed_19 from './Unnamed_19'
-import Unnamed_20 from './Unnamed_20'
+import Unnamed_11 from './Unnamed_11'
+import Unnamed_12 from './Unnamed_12'
+import Unnamed_13 from './Unnamed_13'
 
 const hurdat2_1974 = [
    Unnamed_1,
@@ -27,19 +27,19 @@ const hurdat2_1974 = [
    Unnamed_5,
    Unnamed_6,
    Alma,
-   Unnamed_8,
+   Unnamed_7,
    Becky,
    Carmen,
-   Unnamed_11,
+   Unnamed_8,
    Dolly,
    Elaine,
    Fifi,
-   Unnamed_15,
-   Unnamed_16,
+   Unnamed_9,
+   Unnamed_10,
    Gertrude,
-   Unnamed_18,
-   Unnamed_19,
-   Unnamed_20,
+   Unnamed_11,
+   Unnamed_12,
+   Unnamed_13,
 ]
 
 export default hurdat2_1974

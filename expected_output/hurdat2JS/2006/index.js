@@ -1,5 +1,5 @@
 import Alberto from './Alberto'
-import Unnamed_2 from './Unnamed_2'
+import Unnamed_1 from './Unnamed_1'
 import Beryl from './Beryl'
 import Chris from './Chris'
 import Debby from './Debby'
@@ -11,7 +11,7 @@ import Isaac from './Isaac'
 
 const hurdat2_2006 = [
    Alberto,
-   Unnamed_2,
+   Unnamed_1,
    Beryl,
    Chris,
    Debby,

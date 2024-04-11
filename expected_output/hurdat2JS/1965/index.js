@@ -4,10 +4,10 @@ import Betsy from './Betsy'
 import Carol from './Carol'
 import Debbie from './Debbie'
 import Elena from './Elena'
-import Unnamed_7 from './Unnamed_7'
-import Unnamed_8 from './Unnamed_8'
-import Unnamed_9 from './Unnamed_9'
-import Unnamed_10 from './Unnamed_10'
+import Unnamed_2 from './Unnamed_2'
+import Unnamed_3 from './Unnamed_3'
+import Unnamed_4 from './Unnamed_4'
+import Unnamed_5 from './Unnamed_5'
 
 const hurdat2_1965 = [
    Unnamed_1,
@@ -16,10 +16,10 @@ const hurdat2_1965 = [
    Carol,
    Debbie,
    Elena,
-   Unnamed_7,
-   Unnamed_8,
-   Unnamed_9,
-   Unnamed_10,
+   Unnamed_2,
+   Unnamed_3,
+   Unnamed_4,
+   Unnamed_5,
 ]
 
 export default hurdat2_1965

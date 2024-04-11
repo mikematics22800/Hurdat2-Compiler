@@ -6,7 +6,7 @@ import Unnamed_5 from './Unnamed_5'
 import Arthur from './Arthur'
 import Bertha from './Bertha'
 import Cesar from './Cesar'
-import Unnamed_9 from './Unnamed_9'
+import Unnamed_6 from './Unnamed_6'
 import Diana from './Diana'
 import Edouard from './Edouard'
 import Fran from './Fran'
@@ -14,9 +14,9 @@ import Gustav from './Gustav'
 import Hortense from './Hortense'
 import Isidore from './Isidore'
 import Josephine from './Josephine'
-import Unnamed_17 from './Unnamed_17'
+import Unnamed_7 from './Unnamed_7'
 import Klaus from './Klaus'
-import Unnamed_19 from './Unnamed_19'
+import Unnamed_8 from './Unnamed_8'
 import Lili from './Lili'
 
 const hurdat2_1984 = [
@@ -28,7 +28,7 @@ const hurdat2_1984 = [
    Arthur,
    Bertha,
    Cesar,
-   Unnamed_9,
+   Unnamed_6,
    Diana,
    Edouard,
    Fran,
@@ -36,9 +36,9 @@ const hurdat2_1984 = [
    Hortense,
    Isidore,
    Josephine,
-   Unnamed_17,
+   Unnamed_7,
    Klaus,
-   Unnamed_19,
+   Unnamed_8,
    Lili,
 ]
 

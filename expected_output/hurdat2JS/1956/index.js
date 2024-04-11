@@ -6,10 +6,10 @@ import Dora from './Dora'
 import Ethel from './Ethel'
 import Flossy from './Flossy'
 import Greta from './Greta'
-import Unnamed_9 from './Unnamed_9'
-import Unnamed_10 from './Unnamed_10'
-import Unnamed_11 from './Unnamed_11'
-import Unnamed_12 from './Unnamed_12'
+import Unnamed_2 from './Unnamed_2'
+import Unnamed_3 from './Unnamed_3'
+import Unnamed_4 from './Unnamed_4'
+import Unnamed_5 from './Unnamed_5'
 
 const hurdat2_1956 = [
    Unnamed_1,
@@ -20,10 +20,10 @@ const hurdat2_1956 = [
    Ethel,
    Flossy,
    Greta,
-   Unnamed_9,
-   Unnamed_10,
-   Unnamed_11,
-   Unnamed_12,
+   Unnamed_2,
+   Unnamed_3,
+   Unnamed_4,
+   Unnamed_5,
 ]
 
 export default hurdat2_1956

@@ -5,7 +5,7 @@ import Cleo from './Cleo'
 import Donna from './Donna'
 import Ethel from './Ethel'
 import Florence from './Florence'
-import Unnamed_8 from './Unnamed_8'
+import Unnamed_2 from './Unnamed_2'
 
 const hurdat2_1960 = [
    Unnamed_1,
@@ -15,7 +15,7 @@ const hurdat2_1960 = [
    Donna,
    Ethel,
    Florence,
-   Unnamed_8,
+   Unnamed_2,
 ]
 
 export default hurdat2_1960

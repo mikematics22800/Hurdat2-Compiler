@@ -6,21 +6,21 @@ import Debbie from './Debbie'
 import Camille from './Camille'
 import Eve from './Eve'
 import Francelia from './Francelia'
-import Unnamed_9 from './Unnamed_9'
+import Unnamed_3 from './Unnamed_3'
 import Gerda from './Gerda'
 import Holly from './Holly'
-import Unnamed_12 from './Unnamed_12'
+import Unnamed_4 from './Unnamed_4'
 import Inga from './Inga'
-import Unnamed_14 from './Unnamed_14'
-import Unnamed_15 from './Unnamed_15'
-import Unnamed_16 from './Unnamed_16'
+import Unnamed_5 from './Unnamed_5'
+import Unnamed_6 from './Unnamed_6'
+import Unnamed_7 from './Unnamed_7'
 import Jenny from './Jenny'
 import Kara from './Kara'
 import Laurie from './Laurie'
-import Unnamed_20 from './Unnamed_20'
-import Unnamed_21 from './Unnamed_21'
+import Unnamed_8 from './Unnamed_8'
+import Unnamed_9 from './Unnamed_9'
 import Martha from './Martha'
-import Unnamed_23 from './Unnamed_23'
+import Unnamed_10 from './Unnamed_10'
 
 const hurdat2_1969 = [
    Unnamed_1,
@@ -31,21 +31,21 @@ const hurdat2_1969 = [
    Camille,
    Eve,
    Francelia,
-   Unnamed_9,
+   Unnamed_3,
    Gerda,
    Holly,
-   Unnamed_12,
+   Unnamed_4,
    Inga,
-   Unnamed_14,
-   Unnamed_15,
-   Unnamed_16,
+   Unnamed_5,
+   Unnamed_6,
+   Unnamed_7,
    Jenny,
    Kara,
    Laurie,
-   Unnamed_20,
-   Unnamed_21,
+   Unnamed_8,
+   Unnamed_9,
    Martha,
-   Unnamed_23,
+   Unnamed_10,
 ]
 
 export default hurdat2_1969

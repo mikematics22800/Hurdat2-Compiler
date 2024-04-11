@@ -9,11 +9,11 @@ import How from './How'
 import Item from './Item'
 import Jig from './Jig'
 import King from './King'
-import Unnamed_12 from './Unnamed_12'
+import Unnamed_1 from './Unnamed_1'
 import Love from './Love'
 import Mike from './Mike'
-import Unnamed_15 from './Unnamed_15'
-import Unnamed_16 from './Unnamed_16'
+import Unnamed_2 from './Unnamed_2'
+import Unnamed_3 from './Unnamed_3'
 
 const hurdat2_1950 = [
    Able,
@@ -27,11 +27,11 @@ const hurdat2_1950 = [
    Item,
    Jig,
    King,
-   Unnamed_12,
+   Unnamed_1,
    Love,
    Mike,
-   Unnamed_15,
-   Unnamed_16,
+   Unnamed_2,
+   Unnamed_3,
 ]
 
 export default hurdat2_1950

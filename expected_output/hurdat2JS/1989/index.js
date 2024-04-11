@@ -3,14 +3,14 @@ import Allison from './Allison'
 import Barry from './Barry'
 import Chantal from './Chantal'
 import Dean from './Dean'
-import Unnamed_6 from './Unnamed_6'
+import Unnamed_2 from './Unnamed_2'
 import Erin from './Erin'
 import Felix from './Felix'
-import Unnamed_9 from './Unnamed_9'
+import Unnamed_3 from './Unnamed_3'
 import Gabrielle from './Gabrielle'
 import Hugo from './Hugo'
 import Iris from './Iris'
-import Unnamed_13 from './Unnamed_13'
+import Unnamed_4 from './Unnamed_4'
 import Jerry from './Jerry'
 import Karen from './Karen'
 
@@ -20,14 +20,14 @@ const hurdat2_1989 = [
    Barry,
    Chantal,
    Dean,
-   Unnamed_6,
+   Unnamed_2,
    Erin,
    Felix,
-   Unnamed_9,
+   Unnamed_3,
    Gabrielle,
    Hugo,
    Iris,
-   Unnamed_13,
+   Unnamed_4,
    Jerry,
    Karen,
 ]

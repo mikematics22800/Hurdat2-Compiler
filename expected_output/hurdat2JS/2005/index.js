@@ -18,7 +18,7 @@ import Philippe from './Philippe'
 import Rita from './Rita'
 import Nineteen from './Nineteen'
 import Stan from './Stan'
-import Unnamed_21 from './Unnamed_21'
+import Unnamed_1 from './Unnamed_1'
 import Tammy from './Tammy'
 import Twenty-two from './Twenty-two'
 import Vince from './Vince'
@@ -51,7 +51,7 @@ const hurdat2_2005 = [
    Rita,
    Nineteen,
    Stan,
-   Unnamed_21,
+   Unnamed_1,
    Tammy,
    Twenty-two,
    Vince,

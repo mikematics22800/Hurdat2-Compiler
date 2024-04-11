@@ -8,7 +8,7 @@ import Fran from './Fran'
 import Gustav from './Gustav'
 import Hortense from './Hortense'
 import Isidore from './Isidore'
-import Unnamed_11 from './Unnamed_11'
+import Unnamed_2 from './Unnamed_2'
 import Josephine from './Josephine'
 import Klaus from './Klaus'
 import Lili from './Lili'
@@ -26,7 +26,7 @@ const hurdat2_1990 = [
    Gustav,
    Hortense,
    Isidore,
-   Unnamed_11,
+   Unnamed_2,
    Josephine,
    Klaus,
    Lili,

@@ -3,7 +3,7 @@ import Barry from './Barry'
 import Chantal from './Chantal'
 import Dean from './Dean'
 import Erin from './Erin'
-import Unnamed_6 from './Unnamed_6'
+import Unnamed_1 from './Unnamed_1'
 import Felix from './Felix'
 import Gabrielle from './Gabrielle'
 import Humberto from './Humberto'
@@ -11,7 +11,7 @@ import Iris from './Iris'
 import Jerry from './Jerry'
 import Karen from './Karen'
 import Luis from './Luis'
-import Unnamed_14 from './Unnamed_14'
+import Unnamed_2 from './Unnamed_2'
 import Marilyn from './Marilyn'
 import Noel from './Noel'
 import Opal from './Opal'
@@ -26,7 +26,7 @@ const hurdat2_1995 = [
    Chantal,
    Dean,
    Erin,
-   Unnamed_6,
+   Unnamed_1,
    Felix,
    Gabrielle,
    Humberto,
@@ -34,7 +34,7 @@ const hurdat2_1995 = [
    Jerry,
    Karen,
    Luis,
-   Unnamed_14,
+   Unnamed_2,
    Marilyn,
    Noel,
    Opal,

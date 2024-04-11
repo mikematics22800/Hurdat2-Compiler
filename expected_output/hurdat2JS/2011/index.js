@@ -10,7 +10,7 @@ import Irene from './Irene'
 import Ten from './Ten'
 import Jose from './Jose'
 import Katia from './Katia'
-import Unnamed_13 from './Unnamed_13'
+import Unnamed_1 from './Unnamed_1'
 import Lee from './Lee'
 import Maria from './Maria'
 import Nate from './Nate'
@@ -32,7 +32,7 @@ const hurdat2_2011 = [
    Ten,
    Jose,
    Katia,
-   Unnamed_13,
+   Unnamed_1,
    Lee,
    Maria,
    Nate,
