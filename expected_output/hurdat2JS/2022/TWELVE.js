@@ -1,4 +1,4 @@
-const TWELVE = [
+const Twelve = [
   {
     "date": "20221004",
     "time_utc": " 1200",
@@ -230,4 +230,4 @@ const TWELVE = [
     "max_wind_radius_nm": "   60"
   }
 ]
-export default TWELVE
+export default Twelve

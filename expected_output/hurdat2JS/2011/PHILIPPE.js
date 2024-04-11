@@ -1,4 +1,4 @@
-const PHILIPPE = [
+const Philippe = [
   {
     "date": "20110923",
     "time_utc": " 0000",
@@ -1495,4 +1495,4 @@ const PHILIPPE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default PHILIPPE
+export default Philippe

@@ -1,4 +1,4 @@
-const DOG = [
+const Dog = [
   {
     "date": "19500830",
     "time_utc": " 1800",
@@ -1702,4 +1702,4 @@ const DOG = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DOG
+export default Dog

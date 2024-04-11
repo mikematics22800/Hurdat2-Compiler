@@ -1,4 +1,4 @@
-const REBEKAH = [
+const Rebekah = [
   {
     "date": "20191027",
     "time_utc": " 0000",
@@ -529,4 +529,4 @@ const REBEKAH = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default REBEKAH
+export default Rebekah

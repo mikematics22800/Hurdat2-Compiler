@@ -1,4 +1,4 @@
-const MINDY = [
+const Mindy = [
   {
     "date": "20031010",
     "time_utc": " 1800",
@@ -322,4 +322,4 @@ const MINDY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default MINDY
+export default Mindy

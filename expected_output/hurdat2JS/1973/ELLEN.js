@@ -1,4 +1,4 @@
-const ELLEN = [
+const Ellen = [
   {
     "date": "19730914",
     "time_utc": " 1200",
@@ -851,4 +851,4 @@ const ELLEN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ELLEN
+export default Ellen

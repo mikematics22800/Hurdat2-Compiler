@@ -1,4 +1,4 @@
-const LISA = [
+const Lisa = [
   {
     "date": "19981005",
     "time_utc": " 0000",
@@ -483,4 +483,4 @@ const LISA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LISA
+export default Lisa

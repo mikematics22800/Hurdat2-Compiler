@@ -1,4 +1,4 @@
-const DELIA = [
+const Delia = [
   {
     "date": "19730901",
     "time_utc": " 1800",
@@ -529,4 +529,4 @@ const DELIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DELIA
+export default Delia

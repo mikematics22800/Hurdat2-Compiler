@@ -1,4 +1,4 @@
-const FRANCELIA = [
+const Francelia = [
   {
     "date": "19690829",
     "time_utc": " 0000",
@@ -644,4 +644,4 @@ const FRANCELIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FRANCELIA
+export default Francelia

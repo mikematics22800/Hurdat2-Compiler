@@ -1,4 +1,4 @@
-const GRACE = [
+const Grace = [
   {
     "date": "20150905",
     "time_utc": " 0600",
@@ -391,4 +391,4 @@ const GRACE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GRACE
+export default Grace

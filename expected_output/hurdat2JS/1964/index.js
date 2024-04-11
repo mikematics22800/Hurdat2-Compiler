@@ -1,17 +1,17 @@
-import UNNAMED_1 from './UNNAMED_1'
-import UNNAMED_2 from './UNNAMED_2'
-import ABBY from './ABBY'
-import BRENDA from './BRENDA'
-import CLEO from './CLEO'
-import DORA from './DORA'
-import ETHEL from './ETHEL'
-import FLORENCE from './FLORENCE'
-import GLADYS from './GLADYS'
-import HILDA from './HILDA'
-import ISBELL from './ISBELL'
-import UNNAMED_12 from './UNNAMED_12'
-import UNNAMED_13 from './UNNAMED_13'
+import Unnamed_1 from './Unnamed_1'
+import Unnamed_2 from './Unnamed_2'
+import Abby from './Abby'
+import Brenda from './Brenda'
+import Cleo from './Cleo'
+import Dora from './Dora'
+import Ethel from './Ethel'
+import Florence from './Florence'
+import Gladys from './Gladys'
+import Hilda from './Hilda'
+import Isbell from './Isbell'
+import Unnamed_12 from './Unnamed_12'
+import Unnamed_13 from './Unnamed_13'
 
-const hurdat2_1964 = [UNNAMED_1, UNNAMED_2, ABBY, BRENDA, CLEO, DORA, ETHEL, FLORENCE, GLADYS, HILDA, ISBELL, UNNAMED_12, UNNAMED_13]
+const hurdat2_1964 = [Unnamed_1, Unnamed_2, Abby, Brenda, Cleo, Dora, Ethel, Florence, Gladys, Hilda, Isbell, Unnamed_12, Unnamed_13]
 
 export default hurdat2_1964

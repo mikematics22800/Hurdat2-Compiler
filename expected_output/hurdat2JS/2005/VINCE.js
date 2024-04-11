@@ -1,4 +1,4 @@
-const VINCE = [
+const Vince = [
   {
     "date": "20051008",
     "time_utc": " 0600",
@@ -345,4 +345,4 @@ const VINCE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default VINCE
+export default Vince

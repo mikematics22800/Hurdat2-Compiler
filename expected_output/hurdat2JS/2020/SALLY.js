@@ -1,4 +1,4 @@
-const SALLY = [
+const Sally = [
   {
     "date": "20200911",
     "time_utc": " 1800",
@@ -644,4 +644,4 @@ const SALLY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default SALLY
+export default Sally

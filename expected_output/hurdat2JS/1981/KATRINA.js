@@ -1,4 +1,4 @@
-const KATRINA = [
+const Katrina = [
   {
     "date": "19811103",
     "time_utc": " 0000",
@@ -460,4 +460,4 @@ const KATRINA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KATRINA
+export default Katrina

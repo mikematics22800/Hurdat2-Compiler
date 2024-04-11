@@ -1,4 +1,4 @@
-const JANICE = [
+const Janice = [
   {
     "date": "19581004",
     "time_utc": " 1200",
@@ -897,4 +897,4 @@ const JANICE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JANICE
+export default Janice

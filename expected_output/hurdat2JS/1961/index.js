@@ -1,16 +1,16 @@
-import ANNA from './ANNA'
-import BETSY from './BETSY'
-import CARLA from './CARLA'
-import DEBBIE from './DEBBIE'
-import ESTHER from './ESTHER'
-import UNNAMED_6 from './UNNAMED_6'
-import FRANCES from './FRANCES'
-import GERDA from './GERDA'
-import HATTIE from './HATTIE'
-import JENNY from './JENNY'
-import INGA from './INGA'
-import UNNAMED_12 from './UNNAMED_12'
+import Anna from './Anna'
+import Betsy from './Betsy'
+import Carla from './Carla'
+import Debbie from './Debbie'
+import Esther from './Esther'
+import Unnamed_6 from './Unnamed_6'
+import Frances from './Frances'
+import Gerda from './Gerda'
+import Hattie from './Hattie'
+import Jenny from './Jenny'
+import Inga from './Inga'
+import Unnamed_12 from './Unnamed_12'
 
-const hurdat2_1961 = [ANNA, BETSY, CARLA, DEBBIE, ESTHER, UNNAMED_6, FRANCES, GERDA, HATTIE, JENNY, INGA, UNNAMED_12]
+const hurdat2_1961 = [Anna, Betsy, Carla, Debbie, Esther, Unnamed_6, Frances, Gerda, Hattie, Jenny, Inga, Unnamed_12]
 
 export default hurdat2_1961

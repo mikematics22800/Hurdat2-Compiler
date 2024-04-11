@@ -1,4 +1,4 @@
-const JANET = [
+const Janet = [
   {
     "date": "19550921",
     "time_utc": " 1200",
@@ -920,4 +920,4 @@ const JANET = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JANET
+export default Janet

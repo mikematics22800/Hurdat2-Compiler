@@ -1,17 +1,17 @@
-import BRENDA from './BRENDA'
-import CONNIE from './CONNIE'
-import DIANE from './DIANE'
-import EDITH from './EDITH'
-import UNNAMED_5 from './UNNAMED_5'
-import FLORA from './FLORA'
-import GLADYS from './GLADYS'
-import IONE from './IONE'
-import HILDA from './HILDA'
-import JANET from './JANET'
-import UNNAMED_11 from './UNNAMED_11'
-import UNNAMED_12 from './UNNAMED_12'
-import KATIE from './KATIE'
+import Brenda from './Brenda'
+import Connie from './Connie'
+import Diane from './Diane'
+import Edith from './Edith'
+import Unnamed_5 from './Unnamed_5'
+import Flora from './Flora'
+import Gladys from './Gladys'
+import Ione from './Ione'
+import Hilda from './Hilda'
+import Janet from './Janet'
+import Unnamed_11 from './Unnamed_11'
+import Unnamed_12 from './Unnamed_12'
+import Katie from './Katie'
 
-const hurdat2_1955 = [BRENDA, CONNIE, DIANE, EDITH, UNNAMED_5, FLORA, GLADYS, IONE, HILDA, JANET, UNNAMED_11, UNNAMED_12, KATIE]
+const hurdat2_1955 = [Brenda, Connie, Diane, Edith, Unnamed_5, Flora, Gladys, Ione, Hilda, Janet, Unnamed_11, Unnamed_12, Katie]
 
 export default hurdat2_1955

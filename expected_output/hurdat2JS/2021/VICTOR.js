@@ -1,4 +1,4 @@
-const VICTOR = [
+const Victor = [
   {
     "date": "20210929",
     "time_utc": " 0000",
@@ -506,4 +506,4 @@ const VICTOR = [
     "max_wind_radius_nm": "   70"
   }
 ]
-export default VICTOR
+export default Victor

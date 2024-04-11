@@ -1,4 +1,4 @@
-const MARIA = [
+const Maria = [
   {
     "date": "20170916",
     "time_utc": " 1200",
@@ -1564,4 +1564,4 @@ const MARIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default MARIA
+export default Maria

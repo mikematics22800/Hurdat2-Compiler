@@ -1,4 +1,4 @@
-const KRISTY = [
+const Kristy = [
   {
     "date": "19711018",
     "time_utc": " 0000",
@@ -368,4 +368,4 @@ const KRISTY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KRISTY
+export default Kristy

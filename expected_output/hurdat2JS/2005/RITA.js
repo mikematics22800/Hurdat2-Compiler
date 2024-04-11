@@ -1,4 +1,4 @@
-const RITA = [
+const Rita = [
   {
     "date": "20050918",
     "time_utc": " 0000",
@@ -828,4 +828,4 @@ const RITA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default RITA
+export default Rita

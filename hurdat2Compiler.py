@@ -42,6 +42,7 @@ for line in lines:
         name = values[1].replace(" ", "")
         if name == "UNNAMED":
             name = f"{name}_{i}"
+        name = name[0] + name[1:].lower()
         names.append(name)
         if not os.path.exists(f"hurdat2CSV/{year}"):
             os.makedirs(f"hurdat2CSV/{year}")

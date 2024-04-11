@@ -1,4 +1,4 @@
-const ERIN = [
+const Erin = [
   {
     "date": "19950731",
     "time_utc": " 0000",
@@ -690,4 +690,4 @@ const ERIN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ERIN
+export default Erin

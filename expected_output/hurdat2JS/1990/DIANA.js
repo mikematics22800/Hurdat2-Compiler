@@ -1,4 +1,4 @@
-const DIANA = [
+const Diana = [
   {
     "date": "19900804",
     "time_utc": " 0000",
@@ -575,4 +575,4 @@ const DIANA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DIANA
+export default Diana

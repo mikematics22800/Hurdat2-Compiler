@@ -1,4 +1,4 @@
-const MATTHEW = [
+const Matthew = [
   {
     "date": "20160928",
     "time_utc": " 1200",
@@ -1150,4 +1150,4 @@ const MATTHEW = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default MATTHEW
+export default Matthew

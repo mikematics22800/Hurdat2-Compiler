@@ -1,4 +1,4 @@
-const BELLE = [
+const Belle = [
   {
     "date": "19760806",
     "time_utc": " 0600",
@@ -414,4 +414,4 @@ const BELLE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BELLE
+export default Belle

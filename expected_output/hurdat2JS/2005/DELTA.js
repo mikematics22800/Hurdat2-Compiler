@@ -1,4 +1,4 @@
-const DELTA = [
+const Delta = [
   {
     "date": "20051119",
     "time_utc": " 1200",
@@ -966,4 +966,4 @@ const DELTA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DELTA
+export default Delta

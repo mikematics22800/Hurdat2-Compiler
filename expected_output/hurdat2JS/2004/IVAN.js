@@ -1,4 +1,4 @@
-const IVAN = [
+const Ivan = [
   {
     "date": "20040902",
     "time_utc": " 1800",
@@ -2162,4 +2162,4 @@ const IVAN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IVAN
+export default Ivan

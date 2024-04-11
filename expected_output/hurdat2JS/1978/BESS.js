@@ -1,4 +1,4 @@
-const BESS = [
+const Bess = [
   {
     "date": "19780805",
     "time_utc": " 1200",
@@ -299,4 +299,4 @@ const BESS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BESS
+export default Bess

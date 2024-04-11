@@ -1,4 +1,4 @@
-const ANITA = [
+const Anita = [
   {
     "date": "19770829",
     "time_utc": " 1200",
@@ -460,4 +460,4 @@ const ANITA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ANITA
+export default Anita

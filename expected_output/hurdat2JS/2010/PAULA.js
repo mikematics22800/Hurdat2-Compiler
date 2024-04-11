@@ -1,4 +1,4 @@
-const PAULA = [
+const Paula = [
   {
     "date": "20101011",
     "time_utc": " 0000",
@@ -483,4 +483,4 @@ const PAULA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default PAULA
+export default Paula

@@ -1,4 +1,4 @@
-const LARRY = [
+const Larry = [
   {
     "date": "20210831",
     "time_utc": " 1800",
@@ -1058,4 +1058,4 @@ const LARRY = [
     "max_wind_radius_nm": "   70"
   }
 ]
-export default LARRY
+export default Larry

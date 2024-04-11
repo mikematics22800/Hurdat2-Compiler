@@ -1,4 +1,4 @@
-const LORENZO = [
+const Lorenzo = [
   {
     "date": "20070925",
     "time_utc": " 1800",
@@ -322,4 +322,4 @@ const LORENZO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LORENZO
+export default Lorenzo

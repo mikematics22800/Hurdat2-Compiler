@@ -1,4 +1,4 @@
-const NICOLE = [
+const Nicole = [
   {
     "date": "20161004",
     "time_utc": " 0600",
@@ -1449,4 +1449,4 @@ const NICOLE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default NICOLE
+export default Nicole

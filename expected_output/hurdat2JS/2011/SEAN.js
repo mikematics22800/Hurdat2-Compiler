@@ -1,4 +1,4 @@
-const SEAN = [
+const Sean = [
   {
     "date": "20111106",
     "time_utc": " 0000",
@@ -644,4 +644,4 @@ const SEAN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default SEAN
+export default Sean

@@ -1,4 +1,4 @@
-const EDOUARD = [
+const Edouard = [
   {
     "date": "20140910",
     "time_utc": " 1800",
@@ -1081,4 +1081,4 @@ const EDOUARD = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EDOUARD
+export default Edouard

@@ -1,4 +1,4 @@
-const FIFI = [
+const Fifi = [
   {
     "date": "19580904",
     "time_utc": " 1200",
@@ -690,4 +690,4 @@ const FIFI = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FIFI
+export default Fifi

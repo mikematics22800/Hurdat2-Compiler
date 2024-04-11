@@ -1,4 +1,4 @@
-const ALLEN = [
+const Allen = [
   {
     "date": "19800731",
     "time_utc": " 1200",
@@ -1058,4 +1058,4 @@ const ALLEN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ALLEN
+export default Allen

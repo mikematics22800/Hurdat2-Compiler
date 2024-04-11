@@ -1,4 +1,4 @@
-const LESLIE = [
+const Leslie = [
   {
     "date": "20180922",
     "time_utc": " 0000",
@@ -2047,4 +2047,4 @@ const LESLIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LESLIE
+export default Leslie

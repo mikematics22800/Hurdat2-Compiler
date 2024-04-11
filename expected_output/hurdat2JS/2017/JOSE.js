@@ -1,4 +1,4 @@
-const JOSE = [
+const Jose = [
   {
     "date": "20170904",
     "time_utc": " 0600",
@@ -1955,4 +1955,4 @@ const JOSE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JOSE
+export default Jose

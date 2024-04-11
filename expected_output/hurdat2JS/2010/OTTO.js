@@ -1,4 +1,4 @@
-const OTTO = [
+const Otto = [
   {
     "date": "20101006",
     "time_utc": " 0600",
@@ -1081,4 +1081,4 @@ const OTTO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default OTTO
+export default Otto

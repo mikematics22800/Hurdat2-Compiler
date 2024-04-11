@@ -1,4 +1,4 @@
-const MARCO = [
+const Marco = [
   {
     "date": "20081006",
     "time_utc": " 0000",
@@ -184,4 +184,4 @@ const MARCO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default MARCO
+export default Marco

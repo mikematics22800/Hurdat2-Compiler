@@ -1,4 +1,4 @@
-const HEIDI = [
+const Heidi = [
   {
     "date": "19710911",
     "time_utc": " 0000",
@@ -391,4 +391,4 @@ const HEIDI = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HEIDI
+export default Heidi

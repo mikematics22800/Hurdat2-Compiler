@@ -1,4 +1,4 @@
-const AUDREY = [
+const Audrey = [
   {
     "date": "19570624",
     "time_utc": " 1200",
@@ -460,4 +460,4 @@ const AUDREY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default AUDREY
+export default Audrey

@@ -1,4 +1,4 @@
-const AMELIA = [
+const Amelia = [
   {
     "date": "19780730",
     "time_utc": " 1800",
@@ -138,4 +138,4 @@ const AMELIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default AMELIA
+export default Amelia

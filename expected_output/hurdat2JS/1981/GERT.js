@@ -1,4 +1,4 @@
-const GERT = [
+const Gert = [
   {
     "date": "19810907",
     "time_utc": " 0000",
@@ -828,4 +828,4 @@ const GERT = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GERT
+export default Gert

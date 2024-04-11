@@ -1,4 +1,4 @@
-const CHRIS = [
+const Chris = [
   {
     "date": "19880821",
     "time_utc": " 1200",
@@ -897,4 +897,4 @@ const CHRIS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CHRIS
+export default Chris

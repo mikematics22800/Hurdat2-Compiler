@@ -1,4 +1,4 @@
-const RAFAEL = [
+const Rafael = [
   {
     "date": "20121012",
     "time_utc": " 1800",
@@ -1288,4 +1288,4 @@ const RAFAEL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default RAFAEL
+export default Rafael

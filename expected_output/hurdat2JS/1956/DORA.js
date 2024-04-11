@@ -1,4 +1,4 @@
-const DORA = [
+const Dora = [
   {
     "date": "19560910",
     "time_utc": " 0600",
@@ -276,4 +276,4 @@ const DORA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DORA
+export default Dora

@@ -1,4 +1,4 @@
-const TAMMY = [
+const Tammy = [
   {
     "date": "20051005",
     "time_utc": " 0600",
@@ -207,4 +207,4 @@ const TAMMY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default TAMMY
+export default Tammy

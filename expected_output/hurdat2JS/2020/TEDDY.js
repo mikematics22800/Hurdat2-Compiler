@@ -1,4 +1,4 @@
-const TEDDY = [
+const Teddy = [
   {
     "date": "20200912",
     "time_utc": " 0600",
@@ -1127,4 +1127,4 @@ const TEDDY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default TEDDY
+export default Teddy

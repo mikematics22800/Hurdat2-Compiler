@@ -1,4 +1,4 @@
-const GABRIELLE = [
+const Gabrielle = [
   {
     "date": "20130904",
     "time_utc": " 1800",
@@ -828,4 +828,4 @@ const GABRIELLE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GABRIELLE
+export default Gabrielle

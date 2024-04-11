@@ -1,4 +1,4 @@
-const EASY = [
+const Easy = [
   {
     "date": "19521006",
     "time_utc": " 1200",
@@ -483,4 +483,4 @@ const EASY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EASY
+export default Easy

@@ -1,4 +1,4 @@
-const NADINE = [
+const Nadine = [
   {
     "date": "20120910",
     "time_utc": " 1200",
@@ -2208,4 +2208,4 @@ const NADINE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default NADINE
+export default Nadine

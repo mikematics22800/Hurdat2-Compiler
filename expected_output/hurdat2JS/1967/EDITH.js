@@ -1,4 +1,4 @@
-const EDITH = [
+const Edith = [
   {
     "date": "19670926",
     "time_utc": " 1200",
@@ -437,4 +437,4 @@ const EDITH = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EDITH
+export default Edith

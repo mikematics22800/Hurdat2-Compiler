@@ -1,4 +1,4 @@
-const CRISTOBAL = [
+const Cristobal = [
   {
     "date": "20080719",
     "time_utc": " 0000",
@@ -414,4 +414,4 @@ const CRISTOBAL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CRISTOBAL
+export default Cristobal

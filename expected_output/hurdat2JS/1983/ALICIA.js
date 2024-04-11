@@ -1,4 +1,4 @@
-const ALICIA = [
+const Alicia = [
   {
     "date": "19830815",
     "time_utc": " 1200",
@@ -575,4 +575,4 @@ const ALICIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ALICIA
+export default Alicia

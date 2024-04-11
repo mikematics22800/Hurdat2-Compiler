@@ -1,4 +1,4 @@
-const INEZ = [
+const Inez = [
   {
     "date": "19660921",
     "time_utc": " 1200",
@@ -2024,4 +2024,4 @@ const INEZ = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default INEZ
+export default Inez

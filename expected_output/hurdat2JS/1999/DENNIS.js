@@ -1,4 +1,4 @@
-const DENNIS = [
+const Dennis = [
   {
     "date": "19990824",
     "time_utc": " 0000",
@@ -1518,4 +1518,4 @@ const DENNIS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DENNIS
+export default Dennis

@@ -1,4 +1,4 @@
-const FAITH = [
+const Faith = [
   {
     "date": "19660821",
     "time_utc": " 0000",
@@ -2208,4 +2208,4 @@ const FAITH = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FAITH
+export default Faith

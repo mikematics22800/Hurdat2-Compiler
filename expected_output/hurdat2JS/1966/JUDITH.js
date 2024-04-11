@@ -1,4 +1,4 @@
-const JUDITH = [
+const Judith = [
   {
     "date": "19660927",
     "time_utc": " 0000",
@@ -345,4 +345,4 @@ const JUDITH = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JUDITH
+export default Judith

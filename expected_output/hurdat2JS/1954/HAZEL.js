@@ -1,4 +1,4 @@
-const HAZEL = [
+const Hazel = [
   {
     "date": "19541005",
     "time_utc": " 0600",
@@ -1288,4 +1288,4 @@ const HAZEL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HAZEL
+export default Hazel

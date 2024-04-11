@@ -1,4 +1,4 @@
-const ANA = [
+const Ana = [
   {
     "date": "20090810",
     "time_utc": " 0600",
@@ -598,4 +598,4 @@ const ANA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ANA
+export default Ana

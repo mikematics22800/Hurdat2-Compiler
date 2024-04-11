@@ -1,4 +1,4 @@
-const KATIE = [
+const Katie = [
   {
     "date": "19551014",
     "time_utc": " 1800",
@@ -460,4 +460,4 @@ const KATIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KATIE
+export default Katie

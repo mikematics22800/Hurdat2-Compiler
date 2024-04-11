@@ -1,4 +1,4 @@
-const JULIAN = [
+const Julian = [
   {
     "date": "20210828",
     "time_utc": " 1200",
@@ -299,4 +299,4 @@ const JULIAN = [
     "max_wind_radius_nm": "   70"
   }
 ]
-export default JULIAN
+export default Julian

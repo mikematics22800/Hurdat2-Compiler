@@ -1,4 +1,4 @@
-const EMILY = [
+const Emily = [
   {
     "date": "19990824",
     "time_utc": " 0600",
@@ -414,4 +414,4 @@ const EMILY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EMILY
+export default Emily

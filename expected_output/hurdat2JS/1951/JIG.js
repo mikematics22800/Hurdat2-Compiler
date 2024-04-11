@@ -1,4 +1,4 @@
-const JIG = [
+const Jig = [
   {
     "date": "19511015",
     "time_utc": " 0600",
@@ -460,4 +460,4 @@ const JIG = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JIG
+export default Jig

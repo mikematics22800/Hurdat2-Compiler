@@ -1,4 +1,4 @@
-const CLAUDETTE = [
+const Claudette = [
   {
     "date": "19910904",
     "time_utc": " 1200",
@@ -989,4 +989,4 @@ const CLAUDETTE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CLAUDETTE
+export default Claudette

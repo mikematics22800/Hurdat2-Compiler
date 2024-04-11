@@ -1,4 +1,4 @@
-const FELICE = [
+const Felice = [
   {
     "date": "19700912",
     "time_utc": " 0000",
@@ -759,4 +759,4 @@ const FELICE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FELICE
+export default Felice

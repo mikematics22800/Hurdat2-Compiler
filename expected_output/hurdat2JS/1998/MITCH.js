@@ -1,4 +1,4 @@
-const MITCH = [
+const Mitch = [
   {
     "date": "19981022",
     "time_utc": " 0000",
@@ -1794,4 +1794,4 @@ const MITCH = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default MITCH
+export default Mitch

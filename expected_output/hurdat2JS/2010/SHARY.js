@@ -1,4 +1,4 @@
-const SHARY = [
+const Shary = [
   {
     "date": "20101028",
     "time_utc": " 1800",
@@ -207,4 +207,4 @@ const SHARY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default SHARY
+export default Shary

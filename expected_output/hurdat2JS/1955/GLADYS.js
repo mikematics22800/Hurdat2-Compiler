@@ -1,4 +1,4 @@
-const GLADYS = [
+const Gladys = [
   {
     "date": "19550903",
     "time_utc": " 1800",
@@ -322,4 +322,4 @@ const GLADYS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GLADYS
+export default Gladys

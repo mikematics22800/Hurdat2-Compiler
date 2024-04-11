@@ -1,4 +1,4 @@
-const FIONA = [
+const Fiona = [
   {
     "date": "20220914",
     "time_utc": " 0600",
@@ -1403,4 +1403,4 @@ const FIONA = [
     "max_wind_radius_nm": "   60"
   }
 ]
-export default FIONA
+export default Fiona

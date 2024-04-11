@@ -1,4 +1,4 @@
-const DOTTIE = [
+const Dottie = [
   {
     "date": "19760818",
     "time_utc": " 0000",
@@ -345,4 +345,4 @@ const DOTTIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DOTTIE
+export default Dottie

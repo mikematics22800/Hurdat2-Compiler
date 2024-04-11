@@ -1,4 +1,4 @@
-const GAMMA = [
+const Gamma = [
   {
     "date": "20201002",
     "time_utc": " 0000",
@@ -483,4 +483,4 @@ const GAMMA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GAMMA
+export default Gamma

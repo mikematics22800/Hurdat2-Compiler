@@ -1,4 +1,4 @@
-const KYLE = [
+const Kyle = [
   {
     "date": "20020920",
     "time_utc": " 1800",
@@ -2070,4 +2070,4 @@ const KYLE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KYLE
+export default Kyle

@@ -1,4 +1,4 @@
-const ROSE = [
+const Rose = [
   {
     "date": "20210919",
     "time_utc": " 0000",
@@ -506,4 +506,4 @@ const ROSE = [
     "max_wind_radius_nm": "   90"
   }
 ]
-export default ROSE
+export default Rose

@@ -1,4 +1,4 @@
-const FOX = [
+const Fox = [
   {
     "date": "19510902",
     "time_utc": " 1800",
@@ -805,4 +805,4 @@ const FOX = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FOX
+export default Fox

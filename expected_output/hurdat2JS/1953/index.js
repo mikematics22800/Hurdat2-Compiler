@@ -1,18 +1,18 @@
-import ALICE from './ALICE'
-import UNNAMED_2 from './UNNAMED_2'
-import BARBARA from './BARBARA'
-import CAROL from './CAROL'
-import UNNAMED_5 from './UNNAMED_5'
-import DOLLY from './DOLLY'
-import EDNA from './EDNA'
-import UNNAMED_8 from './UNNAMED_8'
-import FLORENCE from './FLORENCE'
-import GAIL from './GAIL'
-import UNNAMED_11 from './UNNAMED_11'
-import HAZEL from './HAZEL'
-import UNNAMED_13 from './UNNAMED_13'
-import UNNAMED_14 from './UNNAMED_14'
+import Alice from './Alice'
+import Unnamed_2 from './Unnamed_2'
+import Barbara from './Barbara'
+import Carol from './Carol'
+import Unnamed_5 from './Unnamed_5'
+import Dolly from './Dolly'
+import Edna from './Edna'
+import Unnamed_8 from './Unnamed_8'
+import Florence from './Florence'
+import Gail from './Gail'
+import Unnamed_11 from './Unnamed_11'
+import Hazel from './Hazel'
+import Unnamed_13 from './Unnamed_13'
+import Unnamed_14 from './Unnamed_14'
 
-const hurdat2_1953 = [ALICE, UNNAMED_2, BARBARA, CAROL, UNNAMED_5, DOLLY, EDNA, UNNAMED_8, FLORENCE, GAIL, UNNAMED_11, HAZEL, UNNAMED_13, UNNAMED_14]
+const hurdat2_1953 = [Alice, Unnamed_2, Barbara, Carol, Unnamed_5, Dolly, Edna, Unnamed_8, Florence, Gail, Unnamed_11, Hazel, Unnamed_13, Unnamed_14]
 
 export default hurdat2_1953

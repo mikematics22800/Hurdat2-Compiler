@@ -1,15 +1,15 @@
-import UNNAMED_1 from './UNNAMED_1'
-import ABLE from './ABLE'
-import UNNAMED_3 from './UNNAMED_3'
-import BAKER from './BAKER'
-import UNNAMED_5 from './UNNAMED_5'
-import CHARLIE from './CHARLIE'
-import DOG from './DOG'
-import UNNAMED_8 from './UNNAMED_8'
-import EASY from './EASY'
-import FOX from './FOX'
-import UNNAMED_11 from './UNNAMED_11'
+import Unnamed_1 from './Unnamed_1'
+import Able from './Able'
+import Unnamed_3 from './Unnamed_3'
+import Baker from './Baker'
+import Unnamed_5 from './Unnamed_5'
+import Charlie from './Charlie'
+import Dog from './Dog'
+import Unnamed_8 from './Unnamed_8'
+import Easy from './Easy'
+import Fox from './Fox'
+import Unnamed_11 from './Unnamed_11'
 
-const hurdat2_1952 = [UNNAMED_1, ABLE, UNNAMED_3, BAKER, UNNAMED_5, CHARLIE, DOG, UNNAMED_8, EASY, FOX, UNNAMED_11]
+const hurdat2_1952 = [Unnamed_1, Able, Unnamed_3, Baker, Unnamed_5, Charlie, Dog, Unnamed_8, Easy, Fox, Unnamed_11]
 
 export default hurdat2_1952

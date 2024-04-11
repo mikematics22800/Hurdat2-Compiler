@@ -1,4 +1,4 @@
-const INGA = [
+const Inga = [
   {
     "date": "19611104",
     "time_utc": " 0000",
@@ -460,4 +460,4 @@ const INGA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default INGA
+export default Inga

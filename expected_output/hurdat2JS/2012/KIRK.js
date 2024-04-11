@@ -1,4 +1,4 @@
-const KIRK = [
+const Kirk = [
   {
     "date": "20120828",
     "time_utc": " 1800",
@@ -506,4 +506,4 @@ const KIRK = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KIRK
+export default Kirk

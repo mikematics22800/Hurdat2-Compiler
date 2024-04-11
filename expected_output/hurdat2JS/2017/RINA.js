@@ -1,4 +1,4 @@
-const RINA = [
+const Rina = [
   {
     "date": "20171104",
     "time_utc": " 1200",
@@ -483,4 +483,4 @@ const RINA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default RINA
+export default Rina

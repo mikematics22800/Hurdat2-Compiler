@@ -1,4 +1,4 @@
-const LILI = [
+const Lili = [
   {
     "date": "19901006",
     "time_utc": " 0600",
@@ -874,4 +874,4 @@ const LILI = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LILI
+export default Lili

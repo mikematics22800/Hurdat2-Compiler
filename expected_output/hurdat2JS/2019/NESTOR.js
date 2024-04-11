@@ -1,4 +1,4 @@
-const NESTOR = [
+const Nestor = [
   {
     "date": "20191017",
     "time_utc": " 1200",
@@ -345,4 +345,4 @@ const NESTOR = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default NESTOR
+export default Nestor

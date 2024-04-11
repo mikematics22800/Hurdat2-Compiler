@@ -1,4 +1,4 @@
-const IOTA = [
+const Iota = [
   {
     "date": "20201112",
     "time_utc": " 1200",
@@ -598,4 +598,4 @@ const IOTA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IOTA
+export default Iota

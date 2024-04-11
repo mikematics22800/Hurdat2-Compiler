@@ -1,4 +1,4 @@
-const THREE = [
+const Three = [
   {
     "date": "20190722",
     "time_utc": " 1200",
@@ -115,4 +115,4 @@ const THREE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default THREE
+export default Three

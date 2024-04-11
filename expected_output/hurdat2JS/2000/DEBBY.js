@@ -1,4 +1,4 @@
-const DEBBY = [
+const Debby = [
   {
     "date": "20000819",
     "time_utc": " 1800",
@@ -529,4 +529,4 @@ const DEBBY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DEBBY
+export default Debby

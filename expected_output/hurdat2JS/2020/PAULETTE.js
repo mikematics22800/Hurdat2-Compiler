@@ -1,4 +1,4 @@
-const PAULETTE = [
+const Paulette = [
   {
     "date": "20200907",
     "time_utc": " 0000",
@@ -2024,4 +2024,4 @@ const PAULETTE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default PAULETTE
+export default Paulette

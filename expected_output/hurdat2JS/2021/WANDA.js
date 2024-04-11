@@ -1,4 +1,4 @@
-const WANDA = [
+const Wanda = [
   {
     "date": "20211025",
     "time_utc": " 1800",
@@ -1242,4 +1242,4 @@ const WANDA = [
     "max_wind_radius_nm": "   40"
   }
 ]
-export default WANDA
+export default Wanda

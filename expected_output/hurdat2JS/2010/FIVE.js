@@ -1,4 +1,4 @@
-const FIVE = [
+const Five = [
   {
     "date": "20100810",
     "time_utc": " 0600",
@@ -736,4 +736,4 @@ const FIVE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FIVE
+export default Five

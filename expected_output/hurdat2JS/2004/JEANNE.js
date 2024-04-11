@@ -1,4 +1,4 @@
-const JEANNE = [
+const Jeanne = [
   {
     "date": "20040913",
     "time_utc": " 1800",
@@ -1587,4 +1587,4 @@ const JEANNE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JEANNE
+export default Jeanne

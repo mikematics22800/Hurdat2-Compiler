@@ -1,4 +1,4 @@
-const EVE = [
+const Eve = [
   {
     "date": "19690824",
     "time_utc": " 1800",
@@ -253,4 +253,4 @@ const EVE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EVE
+export default Eve

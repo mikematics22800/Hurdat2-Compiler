@@ -1,4 +1,4 @@
-const JOAQUIN = [
+const Joaquin = [
   {
     "date": "20150926",
     "time_utc": " 1800",
@@ -1748,4 +1748,4 @@ const JOAQUIN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JOAQUIN
+export default Joaquin

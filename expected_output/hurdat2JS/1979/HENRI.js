@@ -1,4 +1,4 @@
-const HENRI = [
+const Henri = [
   {
     "date": "19790915",
     "time_utc": " 0000",
@@ -897,4 +897,4 @@ const HENRI = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HENRI
+export default Henri

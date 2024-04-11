@@ -1,4 +1,4 @@
-const KARA = [
+const Kara = [
   {
     "date": "19691007",
     "time_utc": " 1200",
@@ -1104,4 +1104,4 @@ const KARA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KARA
+export default Kara

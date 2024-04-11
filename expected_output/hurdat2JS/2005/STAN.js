@@ -1,4 +1,4 @@
-const STAN = [
+const Stan = [
   {
     "date": "20051001",
     "time_utc": " 1200",
@@ -391,4 +391,4 @@ const STAN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default STAN
+export default Stan

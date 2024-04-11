@@ -1,4 +1,4 @@
-const TEN = [
+const Ten = [
   {
     "date": "20110825",
     "time_utc": " 0000",
@@ -207,4 +207,4 @@ const TEN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default TEN
+export default Ten

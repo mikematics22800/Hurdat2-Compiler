@@ -1,4 +1,4 @@
-const EMMY = [
+const Emmy = [
   {
     "date": "19760820",
     "time_utc": " 1200",
@@ -1426,4 +1426,4 @@ const EMMY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EMMY
+export default Emmy

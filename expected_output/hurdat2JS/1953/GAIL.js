@@ -1,4 +1,4 @@
-const GAIL = [
+const Gail = [
   {
     "date": "19531002",
     "time_utc": " 0600",
@@ -943,4 +943,4 @@ const GAIL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GAIL
+export default Gail

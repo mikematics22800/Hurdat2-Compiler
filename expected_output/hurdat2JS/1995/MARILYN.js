@@ -1,4 +1,4 @@
-const MARILYN = [
+const Marilyn = [
   {
     "date": "19950912",
     "time_utc": " 1800",
@@ -1817,4 +1817,4 @@ const MARILYN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default MARILYN
+export default Marilyn

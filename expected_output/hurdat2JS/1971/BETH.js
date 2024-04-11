@@ -1,4 +1,4 @@
-const BETH = [
+const Beth = [
   {
     "date": "19710810",
     "time_utc": " 1200",
@@ -667,4 +667,4 @@ const BETH = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BETH
+export default Beth

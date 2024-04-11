@@ -1,4 +1,4 @@
-const GERTRUDE = [
+const Gertrude = [
   {
     "date": "19740927",
     "time_utc": " 1200",
@@ -621,4 +621,4 @@ const GERTRUDE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GERTRUDE
+export default Gertrude

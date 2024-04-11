@@ -1,4 +1,4 @@
-const OSCAR = [
+const Oscar = [
   {
     "date": "20181026",
     "time_utc": " 1800",
@@ -828,4 +828,4 @@ const OSCAR = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default OSCAR
+export default Oscar

@@ -1,4 +1,4 @@
-const DORIS = [
+const Doris = [
   {
     "date": "19750828",
     "time_utc": " 1200",
@@ -667,4 +667,4 @@ const DORIS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DORIS
+export default Doris

@@ -1,4 +1,4 @@
-const ISIDORE = [
+const Isidore = [
   {
     "date": "20020914",
     "time_utc": " 1800",
@@ -1265,4 +1265,4 @@ const ISIDORE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ISIDORE
+export default Isidore

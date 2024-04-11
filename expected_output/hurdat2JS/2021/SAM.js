@@ -1,4 +1,4 @@
-const SAM = [
+const Sam = [
   {
     "date": "20210922",
     "time_utc": " 1800",
@@ -1357,4 +1357,4 @@ const SAM = [
     "max_wind_radius_nm": "   80"
   }
 ]
-export default SAM
+export default Sam

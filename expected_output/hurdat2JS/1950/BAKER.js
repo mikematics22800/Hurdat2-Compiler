@@ -1,4 +1,4 @@
-const BAKER = [
+const Baker = [
   {
     "date": "19500818",
     "time_utc": " 1200",
@@ -1380,4 +1380,4 @@ const BAKER = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BAKER
+export default Baker

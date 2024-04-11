@@ -1,4 +1,4 @@
-const GRETA = [
+const Greta = [
   {
     "date": "19780913",
     "time_utc": " 1800",
@@ -598,4 +598,4 @@ const GRETA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GRETA
+export default Greta

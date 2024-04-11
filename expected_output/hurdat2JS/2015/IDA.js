@@ -1,4 +1,4 @@
-const IDA = [
+const Ida = [
   {
     "date": "20150915",
     "time_utc": " 1200",
@@ -1173,4 +1173,4 @@ const IDA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IDA
+export default Ida

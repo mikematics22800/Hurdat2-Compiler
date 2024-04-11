@@ -1,15 +1,15 @@
-import ONE from './ONE'
-import ANA from './ANA'
-import BILL from './BILL'
-import CLAUDETTE from './CLAUDETTE'
-import DANNY from './DANNY'
-import ERIKA from './ERIKA'
-import FRED from './FRED'
-import EIGHT from './EIGHT'
-import GRACE from './GRACE'
-import HENRI from './HENRI'
-import IDA from './IDA'
+import One from './One'
+import Ana from './Ana'
+import Bill from './Bill'
+import Claudette from './Claudette'
+import Danny from './Danny'
+import Erika from './Erika'
+import Fred from './Fred'
+import Eight from './Eight'
+import Grace from './Grace'
+import Henri from './Henri'
+import Ida from './Ida'
 
-const hurdat2_2009 = [ONE, ANA, BILL, CLAUDETTE, DANNY, ERIKA, FRED, EIGHT, GRACE, HENRI, IDA]
+const hurdat2_2009 = [One, Ana, Bill, Claudette, Danny, Erika, Fred, Eight, Grace, Henri, Ida]
 
 export default hurdat2_2009

@@ -1,4 +1,4 @@
-const CONNIE = [
+const Connie = [
   {
     "date": "19550803",
     "time_utc": " 0600",
@@ -1127,4 +1127,4 @@ const CONNIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CONNIE
+export default Connie

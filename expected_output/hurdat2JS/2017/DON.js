@@ -1,4 +1,4 @@
-const DON = [
+const Don = [
   {
     "date": "20170717",
     "time_utc": " 0000",
@@ -161,4 +161,4 @@ const DON = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DON
+export default Don

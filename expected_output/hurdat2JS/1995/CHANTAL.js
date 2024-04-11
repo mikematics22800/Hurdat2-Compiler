@@ -1,4 +1,4 @@
-const CHANTAL = [
+const Chantal = [
   {
     "date": "19950712",
     "time_utc": " 0000",
@@ -943,4 +943,4 @@ const CHANTAL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CHANTAL
+export default Chantal

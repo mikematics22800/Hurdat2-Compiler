@@ -1,4 +1,4 @@
-const GASTON = [
+const Gaston = [
   {
     "date": "20040827",
     "time_utc": " 1200",
@@ -644,4 +644,4 @@ const GASTON = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GASTON
+export default Gaston

@@ -1,4 +1,4 @@
-const PALOMA = [
+const Paloma = [
   {
     "date": "20081105",
     "time_utc": " 1800",
@@ -828,4 +828,4 @@ const PALOMA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default PALOMA
+export default Paloma

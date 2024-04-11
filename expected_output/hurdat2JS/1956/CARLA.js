@@ -1,4 +1,4 @@
-const CARLA = [
+const Carla = [
   {
     "date": "19560907",
     "time_utc": " 0000",
@@ -874,4 +874,4 @@ const CARLA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CARLA
+export default Carla

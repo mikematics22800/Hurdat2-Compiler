@@ -1,4 +1,4 @@
-const EVELYN = [
+const Evelyn = [
   {
     "date": "19771013",
     "time_utc": " 1800",
@@ -230,4 +230,4 @@ const EVELYN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EVELYN
+export default Evelyn

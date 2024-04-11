@@ -1,4 +1,4 @@
-const LOVE = [
+const Love = [
   {
     "date": "19501018",
     "time_utc": " 0000",
@@ -483,4 +483,4 @@ const LOVE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LOVE
+export default Love

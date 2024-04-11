@@ -1,4 +1,4 @@
-const JENNY = [
+const Jenny = [
   {
     "date": "19691001",
     "time_utc": " 1200",
@@ -368,4 +368,4 @@ const JENNY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JENNY
+export default Jenny

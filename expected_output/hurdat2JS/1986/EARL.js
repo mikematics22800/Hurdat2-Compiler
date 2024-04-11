@@ -1,4 +1,4 @@
-const EARL = [
+const Earl = [
   {
     "date": "19860910",
     "time_utc": " 1800",
@@ -874,4 +874,4 @@ const EARL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EARL
+export default Earl

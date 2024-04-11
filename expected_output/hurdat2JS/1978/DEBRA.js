@@ -1,4 +1,4 @@
-const DEBRA = [
+const Debra = [
   {
     "date": "19780826",
     "time_utc": " 1200",
@@ -322,4 +322,4 @@ const DEBRA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DEBRA
+export default Debra

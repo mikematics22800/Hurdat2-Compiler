@@ -1,4 +1,4 @@
-const LEE = [
+const Lee = [
   {
     "date": "20050828",
     "time_utc": " 1200",
@@ -598,4 +598,4 @@ const LEE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LEE
+export default Lee

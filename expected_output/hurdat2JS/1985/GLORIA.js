@@ -1,4 +1,4 @@
-const GLORIA = [
+const Gloria = [
   {
     "date": "19850916",
     "time_utc": " 1200",
@@ -1495,4 +1495,4 @@ const GLORIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GLORIA
+export default Gloria

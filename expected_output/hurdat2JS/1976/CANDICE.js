@@ -1,4 +1,4 @@
-const CANDICE = [
+const Candice = [
   {
     "date": "19760818",
     "time_utc": " 1200",
@@ -575,4 +575,4 @@ const CANDICE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CANDICE
+export default Candice

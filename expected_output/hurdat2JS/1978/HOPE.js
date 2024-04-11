@@ -1,4 +1,4 @@
-const HOPE = [
+const Hope = [
   {
     "date": "19780912",
     "time_utc": " 0000",
@@ -897,4 +897,4 @@ const HOPE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HOPE
+export default Hope

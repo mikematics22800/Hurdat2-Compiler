@@ -1,4 +1,4 @@
-const JOSEPHINE = [
+const Josephine = [
   {
     "date": "20080902",
     "time_utc": " 0000",
@@ -759,4 +759,4 @@ const JOSEPHINE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JOSEPHINE
+export default Josephine

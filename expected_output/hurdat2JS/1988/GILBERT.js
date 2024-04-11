@@ -1,4 +1,4 @@
-const GILBERT = [
+const Gilbert = [
   {
     "date": "19880908",
     "time_utc": " 1800",
@@ -1127,4 +1127,4 @@ const GILBERT = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GILBERT
+export default Gilbert

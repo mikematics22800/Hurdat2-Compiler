@@ -1,4 +1,4 @@
-const IRMA = [
+const Irma = [
   {
     "date": "19781002",
     "time_utc": " 1200",
@@ -322,4 +322,4 @@ const IRMA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IRMA
+export default Irma

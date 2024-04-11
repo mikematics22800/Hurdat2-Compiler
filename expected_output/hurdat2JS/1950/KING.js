@@ -1,4 +1,4 @@
-const KING = [
+const King = [
   {
     "date": "19501013",
     "time_utc": " 0600",
@@ -713,4 +713,4 @@ const KING = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KING
+export default King

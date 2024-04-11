@@ -1,4 +1,4 @@
-const BERYL = [
+const Beryl = [
   {
     "date": "20000813",
     "time_utc": " 1800",
@@ -207,4 +207,4 @@ const BERYL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BERYL
+export default Beryl

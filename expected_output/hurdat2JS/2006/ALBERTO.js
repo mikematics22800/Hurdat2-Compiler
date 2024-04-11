@@ -1,4 +1,4 @@
-const ALBERTO = [
+const Alberto = [
   {
     "date": "20060610",
     "time_utc": " 0600",
@@ -874,4 +874,4 @@ const ALBERTO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ALBERTO
+export default Alberto

@@ -1,4 +1,4 @@
-const HATTIE = [
+const Hattie = [
   {
     "date": "19611026",
     "time_utc": " 0000",
@@ -598,4 +598,4 @@ const HATTIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HATTIE
+export default Hattie

@@ -1,4 +1,4 @@
-const FERNAND = [
+const Fernand = [
   {
     "date": "20190903",
     "time_utc": " 0600",
@@ -207,4 +207,4 @@ const FERNAND = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FERNAND
+export default Fernand

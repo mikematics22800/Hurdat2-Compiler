@@ -1,4 +1,4 @@
-const ISABEL = [
+const Isabel = [
   {
     "date": "19851007",
     "time_utc": " 0000",
@@ -828,4 +828,4 @@ const ISABEL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ISABEL
+export default Isabel

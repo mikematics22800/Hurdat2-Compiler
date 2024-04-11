@@ -1,4 +1,4 @@
-const ODETTE = [
+const Odette = [
   {
     "date": "20210916",
     "time_utc": " 0600",
@@ -989,4 +989,4 @@ const ODETTE = [
     "max_wind_radius_nm": "   60"
   }
 ]
-export default ODETTE
+export default Odette

@@ -1,4 +1,4 @@
-const BLANCHE = [
+const Blanche = [
   {
     "date": "19690810",
     "time_utc": " 1800",
@@ -391,4 +391,4 @@ const BLANCHE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BLANCHE
+export default Blanche

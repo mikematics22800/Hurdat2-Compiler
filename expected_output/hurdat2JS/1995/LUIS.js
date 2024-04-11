@@ -1,4 +1,4 @@
-const LUIS = [
+const Luis = [
   {
     "date": "19950828",
     "time_utc": " 1800",
@@ -1403,4 +1403,4 @@ const LUIS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LUIS
+export default Luis

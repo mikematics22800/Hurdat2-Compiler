@@ -1,4 +1,4 @@
-const ERNESTO = [
+const Ernesto = [
   {
     "date": "20060824",
     "time_utc": " 1800",
@@ -1081,4 +1081,4 @@ const ERNESTO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ERNESTO
+export default Ernesto

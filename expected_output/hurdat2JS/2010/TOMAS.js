@@ -1,4 +1,4 @@
-const TOMAS = [
+const Tomas = [
   {
     "date": "20101029",
     "time_utc": " 0600",
@@ -1242,4 +1242,4 @@ const TOMAS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default TOMAS
+export default Tomas

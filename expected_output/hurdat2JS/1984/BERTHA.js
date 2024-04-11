@@ -1,4 +1,4 @@
-const BERTHA = [
+const Bertha = [
   {
     "date": "19840830",
     "time_utc": " 1200",
@@ -506,4 +506,4 @@ const BERTHA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BERTHA
+export default Bertha

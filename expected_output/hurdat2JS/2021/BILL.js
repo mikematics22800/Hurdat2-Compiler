@@ -1,4 +1,4 @@
-const BILL = [
+const Bill = [
   {
     "date": "20210613",
     "time_utc": " 1800",
@@ -230,4 +230,4 @@ const BILL = [
     "max_wind_radius_nm": "   60"
   }
 ]
-export default BILL
+export default Bill

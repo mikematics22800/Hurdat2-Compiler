@@ -1,4 +1,4 @@
-const LOIS = [
+const Lois = [
   {
     "date": "19661104",
     "time_utc": " 1200",
@@ -920,4 +920,4 @@ const LOIS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LOIS
+export default Lois

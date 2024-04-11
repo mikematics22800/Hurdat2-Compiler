@@ -1,4 +1,4 @@
-const HOW = [
+const How = [
   {
     "date": "19510929",
     "time_utc": " 0000",
@@ -1219,4 +1219,4 @@ const HOW = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HOW
+export default How

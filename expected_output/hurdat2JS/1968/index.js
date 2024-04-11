@@ -1,17 +1,17 @@
-import ABBY from './ABBY'
-import BRENDA from './BRENDA'
-import CANDY from './CANDY'
-import DOLLY from './DOLLY'
-import UNNAMED_5 from './UNNAMED_5'
-import EDNA from './EDNA'
-import UNNAMED_7 from './UNNAMED_7'
-import UNNAMED_8 from './UNNAMED_8'
-import FRANCES from './FRANCES'
-import UNNAMED_10 from './UNNAMED_10'
-import GLADYS from './GLADYS'
-import UNNAMED_12 from './UNNAMED_12'
-import UNNAMED_13 from './UNNAMED_13'
+import Abby from './Abby'
+import Brenda from './Brenda'
+import Candy from './Candy'
+import Dolly from './Dolly'
+import Unnamed_5 from './Unnamed_5'
+import Edna from './Edna'
+import Unnamed_7 from './Unnamed_7'
+import Unnamed_8 from './Unnamed_8'
+import Frances from './Frances'
+import Unnamed_10 from './Unnamed_10'
+import Gladys from './Gladys'
+import Unnamed_12 from './Unnamed_12'
+import Unnamed_13 from './Unnamed_13'
 
-const hurdat2_1968 = [ABBY, BRENDA, CANDY, DOLLY, UNNAMED_5, EDNA, UNNAMED_7, UNNAMED_8, FRANCES, UNNAMED_10, GLADYS, UNNAMED_12, UNNAMED_13]
+const hurdat2_1968 = [Abby, Brenda, Candy, Dolly, Unnamed_5, Edna, Unnamed_7, Unnamed_8, Frances, Unnamed_10, Gladys, Unnamed_12, Unnamed_13]
 
 export default hurdat2_1968

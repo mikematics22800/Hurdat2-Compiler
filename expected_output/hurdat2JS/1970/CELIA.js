@@ -1,4 +1,4 @@
-const CELIA = [
+const Celia = [
   {
     "date": "19700731",
     "time_utc": " 0000",
@@ -575,4 +575,4 @@ const CELIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CELIA
+export default Celia

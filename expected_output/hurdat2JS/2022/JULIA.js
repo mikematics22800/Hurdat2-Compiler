@@ -1,4 +1,4 @@
-const JULIA = [
+const Julia = [
   {
     "date": "20221006",
     "time_utc": " 1200",
@@ -483,4 +483,4 @@ const JULIA = [
     "max_wind_radius_nm": "   30"
   }
 ]
-export default JULIA
+export default Julia

@@ -1,4 +1,4 @@
-const IGOR = [
+const Igor = [
   {
     "date": "20100908",
     "time_utc": " 0600",
@@ -1403,4 +1403,4 @@ const IGOR = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IGOR
+export default Igor

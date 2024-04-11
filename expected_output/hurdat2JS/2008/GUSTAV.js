@@ -1,4 +1,4 @@
-const GUSTAV = [
+const Gustav = [
   {
     "date": "20080825",
     "time_utc": " 0000",
@@ -1150,4 +1150,4 @@ const GUSTAV = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GUSTAV
+export default Gustav

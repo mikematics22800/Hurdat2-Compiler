@@ -1,4 +1,4 @@
-const BARBARA = [
+const Barbara = [
   {
     "date": "19540727",
     "time_utc": " 1200",
@@ -322,4 +322,4 @@ const BARBARA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BARBARA
+export default Barbara

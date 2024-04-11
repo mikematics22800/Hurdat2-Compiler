@@ -1,4 +1,4 @@
-const FRED = [
+const Fred = [
   {
     "date": "20150830",
     "time_utc": " 0000",
@@ -713,4 +713,4 @@ const FRED = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FRED
+export default Fred

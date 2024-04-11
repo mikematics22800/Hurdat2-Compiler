@@ -1,4 +1,4 @@
-const IKE = [
+const Ike = [
   {
     "date": "20080901",
     "time_utc": " 0600",
@@ -1426,4 +1426,4 @@ const IKE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IKE
+export default Ike

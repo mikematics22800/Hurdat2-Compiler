@@ -1,4 +1,4 @@
-const FLOYD = [
+const Floyd = [
   {
     "date": "19871009",
     "time_utc": " 0600",
@@ -483,4 +483,4 @@ const FLOYD = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FLOYD
+export default Floyd

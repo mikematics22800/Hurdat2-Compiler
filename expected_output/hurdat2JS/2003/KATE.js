@@ -1,4 +1,4 @@
-const KATE = [
+const Kate = [
   {
     "date": "20030925",
     "time_utc": " 1800",
@@ -1334,4 +1334,4 @@ const KATE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KATE
+export default Kate

@@ -1,4 +1,4 @@
-const ABLE = [
+const Able = [
   {
     "date": "19510516",
     "time_utc": " 0000",
@@ -828,4 +828,4 @@ const ABLE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ABLE
+export default Able

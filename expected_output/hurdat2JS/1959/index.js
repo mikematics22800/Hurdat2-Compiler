@@ -1,18 +1,18 @@
-import ARLENE from './ARLENE'
-import BEULAH from './BEULAH'
-import UNNAMED_3 from './UNNAMED_3'
-import CINDY from './CINDY'
-import DEBRA from './DEBRA'
-import EDITH from './EDITH'
-import FLORA from './FLORA'
-import GRACIE from './GRACIE'
-import HANNAH from './HANNAH'
-import IRENE from './IRENE'
-import JUDITH from './JUDITH'
-import UNNAMED_12 from './UNNAMED_12'
-import UNNAMED_13 from './UNNAMED_13'
-import UNNAMED_14 from './UNNAMED_14'
+import Arlene from './Arlene'
+import Beulah from './Beulah'
+import Unnamed_3 from './Unnamed_3'
+import Cindy from './Cindy'
+import Debra from './Debra'
+import Edith from './Edith'
+import Flora from './Flora'
+import Gracie from './Gracie'
+import Hannah from './Hannah'
+import Irene from './Irene'
+import Judith from './Judith'
+import Unnamed_12 from './Unnamed_12'
+import Unnamed_13 from './Unnamed_13'
+import Unnamed_14 from './Unnamed_14'
 
-const hurdat2_1959 = [ARLENE, BEULAH, UNNAMED_3, CINDY, DEBRA, EDITH, FLORA, GRACIE, HANNAH, IRENE, JUDITH, UNNAMED_12, UNNAMED_13, UNNAMED_14]
+const hurdat2_1959 = [Arlene, Beulah, Unnamed_3, Cindy, Debra, Edith, Flora, Gracie, Hannah, Irene, Judith, Unnamed_12, Unnamed_13, Unnamed_14]
 
 export default hurdat2_1959

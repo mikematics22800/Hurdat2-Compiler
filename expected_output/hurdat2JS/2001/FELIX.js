@@ -1,4 +1,4 @@
-const FELIX = [
+const Felix = [
   {
     "date": "20010907",
     "time_utc": " 1800",
@@ -1058,4 +1058,4 @@ const FELIX = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FELIX
+export default Felix

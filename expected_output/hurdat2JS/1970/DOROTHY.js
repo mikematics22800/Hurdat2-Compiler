@@ -1,4 +1,4 @@
-const DOROTHY = [
+const Dorothy = [
   {
     "date": "19700818",
     "time_utc": " 0000",
@@ -414,4 +414,4 @@ const DOROTHY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DOROTHY
+export default Dorothy

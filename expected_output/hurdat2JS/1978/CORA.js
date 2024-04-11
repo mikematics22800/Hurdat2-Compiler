@@ -1,4 +1,4 @@
-const CORA = [
+const Cora = [
   {
     "date": "19780807",
     "time_utc": " 1200",
@@ -437,4 +437,4 @@ const CORA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CORA
+export default Cora

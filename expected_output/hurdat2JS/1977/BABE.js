@@ -1,4 +1,4 @@
-const BABE = [
+const Babe = [
   {
     "date": "19770903",
     "time_utc": " 0600",
@@ -552,4 +552,4 @@ const BABE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BABE
+export default Babe

@@ -1,4 +1,4 @@
-const EIGHT = [
+const Eight = [
   {
     "date": "20160827",
     "time_utc": " 0000",
@@ -483,4 +483,4 @@ const EIGHT = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EIGHT
+export default Eight

@@ -1,4 +1,4 @@
-const DIANE = [
+const Diane = [
   {
     "date": "19550807",
     "time_utc": " 0600",
@@ -1541,4 +1541,4 @@ const DIANE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DIANE
+export default Diane

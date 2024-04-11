@@ -1,4 +1,4 @@
-const NATE = [
+const Nate = [
   {
     "date": "20110906",
     "time_utc": " 1800",
@@ -529,4 +529,4 @@ const NATE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default NATE
+export default Nate

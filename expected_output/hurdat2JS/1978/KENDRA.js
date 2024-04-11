@@ -1,4 +1,4 @@
-const KENDRA = [
+const Kendra = [
   {
     "date": "19781028",
     "time_utc": " 1800",
@@ -552,4 +552,4 @@ const KENDRA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KENDRA
+export default Kendra

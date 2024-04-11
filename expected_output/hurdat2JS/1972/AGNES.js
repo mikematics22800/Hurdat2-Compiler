@@ -1,4 +1,4 @@
-const AGNES = [
+const Agnes = [
   {
     "date": "19720614",
     "time_utc": " 1200",
@@ -805,4 +805,4 @@ const AGNES = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default AGNES
+export default Agnes

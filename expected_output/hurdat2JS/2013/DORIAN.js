@@ -1,4 +1,4 @@
-const DORIAN = [
+const Dorian = [
   {
     "date": "20130722",
     "time_utc": " 1800",
@@ -1173,4 +1173,4 @@ const DORIAN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DORIAN
+export default Dorian

@@ -1,4 +1,4 @@
-const ANDREA = [
+const Andrea = [
   {
     "date": "20190520",
     "time_utc": " 1800",
@@ -161,4 +161,4 @@ const ANDREA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ANDREA
+export default Andrea

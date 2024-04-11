@@ -1,15 +1,15 @@
-import UNNAMED_1 from './UNNAMED_1'
-import UNNAMED_2 from './UNNAMED_2'
-import UNNAMED_3 from './UNNAMED_3'
-import UNNAMED_4 from './UNNAMED_4'
-import UNNAMED_5 from './UNNAMED_5'
-import UNNAMED_6 from './UNNAMED_6'
-import UNNAMED_7 from './UNNAMED_7'
-import UNNAMED_8 from './UNNAMED_8'
-import UNNAMED_9 from './UNNAMED_9'
-import UNNAMED_10 from './UNNAMED_10'
-import UNNAMED_11 from './UNNAMED_11'
+import Unnamed_1 from './Unnamed_1'
+import Unnamed_2 from './Unnamed_2'
+import Unnamed_3 from './Unnamed_3'
+import Unnamed_4 from './Unnamed_4'
+import Unnamed_5 from './Unnamed_5'
+import Unnamed_6 from './Unnamed_6'
+import Unnamed_7 from './Unnamed_7'
+import Unnamed_8 from './Unnamed_8'
+import Unnamed_9 from './Unnamed_9'
+import Unnamed_10 from './Unnamed_10'
+import Unnamed_11 from './Unnamed_11'
 
-const hurdat2_1924 = [UNNAMED_1, UNNAMED_2, UNNAMED_3, UNNAMED_4, UNNAMED_5, UNNAMED_6, UNNAMED_7, UNNAMED_8, UNNAMED_9, UNNAMED_10, UNNAMED_11]
+const hurdat2_1924 = [Unnamed_1, Unnamed_2, Unnamed_3, Unnamed_4, Unnamed_5, Unnamed_6, Unnamed_7, Unnamed_8, Unnamed_9, Unnamed_10, Unnamed_11]
 
 export default hurdat2_1924

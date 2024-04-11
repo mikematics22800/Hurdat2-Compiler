@@ -1,4 +1,4 @@
-const GINNY = [
+const Ginny = [
   {
     "date": "19631017",
     "time_utc": " 1800",
@@ -1196,4 +1196,4 @@ const GINNY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GINNY
+export default Ginny

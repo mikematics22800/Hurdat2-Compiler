@@ -1,4 +1,4 @@
-const BARRY = [
+const Barry = [
   {
     "date": "19950705",
     "time_utc": " 0600",
@@ -552,4 +552,4 @@ const BARRY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BARRY
+export default Barry

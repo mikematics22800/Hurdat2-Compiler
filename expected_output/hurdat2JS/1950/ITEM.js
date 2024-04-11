@@ -1,4 +1,4 @@
-const ITEM = [
+const Item = [
   {
     "date": "19501008",
     "time_utc": " 0600",
@@ -368,4 +368,4 @@ const ITEM = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ITEM
+export default Item

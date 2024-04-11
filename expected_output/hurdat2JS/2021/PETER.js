@@ -1,4 +1,4 @@
-const PETER = [
+const Peter = [
   {
     "date": "20210919",
     "time_utc": " 0000",
@@ -368,4 +368,4 @@ const PETER = [
     "max_wind_radius_nm": "   70"
   }
 ]
-export default PETER
+export default Peter

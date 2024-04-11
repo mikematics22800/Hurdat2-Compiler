@@ -1,4 +1,4 @@
-const KATIA = [
+const Katia = [
   {
     "date": "20110828",
     "time_utc": " 0000",
@@ -1472,4 +1472,4 @@ const KATIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KATIA
+export default Katia

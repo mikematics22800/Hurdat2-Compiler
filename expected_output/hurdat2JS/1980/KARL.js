@@ -1,4 +1,4 @@
-const KARL = [
+const Karl = [
   {
     "date": "19801125",
     "time_utc": " 0000",
@@ -299,4 +299,4 @@ const KARL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KARL
+export default Karl

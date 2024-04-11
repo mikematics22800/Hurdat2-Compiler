@@ -1,4 +1,4 @@
-const COLIN = [
+const Colin = [
   {
     "date": "20220701",
     "time_utc": " 1800",
@@ -138,4 +138,4 @@ const COLIN = [
     "max_wind_radius_nm": "   50"
   }
 ]
-export default COLIN
+export default Colin

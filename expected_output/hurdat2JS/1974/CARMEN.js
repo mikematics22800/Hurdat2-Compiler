@@ -1,4 +1,4 @@
-const CARMEN = [
+const Carmen = [
   {
     "date": "19740829",
     "time_utc": " 0600",
@@ -1127,4 +1127,4 @@ const CARMEN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CARMEN
+export default Carmen

@@ -1,4 +1,4 @@
-const FERN = [
+const Fern = [
   {
     "date": "19710903",
     "time_utc": " 1200",
@@ -897,4 +897,4 @@ const FERN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FERN
+export default Fern

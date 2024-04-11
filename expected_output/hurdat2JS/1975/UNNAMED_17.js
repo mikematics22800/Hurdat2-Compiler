@@ -1,4 +1,4 @@
-const UNNAMED_17 = [
+const Unnamed_17 = [
   {
     "date": "19751003",
     "time_utc": " 1200",
@@ -207,4 +207,4 @@ const UNNAMED_17 = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default UNNAMED_17
+export default Unnamed_17

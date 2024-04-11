@@ -1,4 +1,4 @@
-const ELSA = [
+const Elsa = [
   {
     "date": "20210630",
     "time_utc": " 1800",
@@ -989,4 +989,4 @@ const ELSA = [
     "max_wind_radius_nm": "   70"
   }
 ]
-export default ELSA
+export default Elsa

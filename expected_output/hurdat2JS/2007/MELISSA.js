@@ -1,4 +1,4 @@
-const MELISSA = [
+const Melissa = [
   {
     "date": "20070928",
     "time_utc": " 0600",
@@ -713,4 +713,4 @@ const MELISSA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default MELISSA
+export default Melissa

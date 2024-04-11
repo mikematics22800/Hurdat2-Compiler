@@ -1,4 +1,4 @@
-const GORDON = [
+const Gordon = [
   {
     "date": "19941108",
     "time_utc": " 1200",
@@ -1357,4 +1357,4 @@ const GORDON = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GORDON
+export default Gordon

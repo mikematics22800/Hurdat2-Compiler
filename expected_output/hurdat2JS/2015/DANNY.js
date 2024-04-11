@@ -1,4 +1,4 @@
-const DANNY = [
+const Danny = [
   {
     "date": "20150817",
     "time_utc": " 0000",
@@ -713,4 +713,4 @@ const DANNY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DANNY
+export default Danny

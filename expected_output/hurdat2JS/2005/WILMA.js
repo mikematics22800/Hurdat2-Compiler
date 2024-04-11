@@ -1,4 +1,4 @@
-const WILMA = [
+const Wilma = [
   {
     "date": "20051015",
     "time_utc": " 1800",
@@ -1104,4 +1104,4 @@ const WILMA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default WILMA
+export default Wilma

@@ -1,4 +1,4 @@
-const ISAIAS = [
+const Isaias = [
   {
     "date": "20200728",
     "time_utc": " 1200",
@@ -828,4 +828,4 @@ const ISAIAS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ISAIAS
+export default Isaias

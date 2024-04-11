@@ -1,4 +1,4 @@
-const CANDY = [
+const Candy = [
   {
     "date": "19680622",
     "time_utc": " 0600",
@@ -460,4 +460,4 @@ const CANDY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CANDY
+export default Candy

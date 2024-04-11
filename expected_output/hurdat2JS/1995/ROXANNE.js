@@ -1,4 +1,4 @@
-const ROXANNE = [
+const Roxanne = [
   {
     "date": "19951007",
     "time_utc": " 1800",
@@ -1288,4 +1288,4 @@ const ROXANNE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ROXANNE
+export default Roxanne

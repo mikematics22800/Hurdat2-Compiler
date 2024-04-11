@@ -1,4 +1,4 @@
-const DAWN = [
+const Dawn = [
   {
     "date": "19720905",
     "time_utc": " 0000",
@@ -897,4 +897,4 @@ const DAWN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DAWN
+export default Dawn

@@ -1,4 +1,4 @@
-const ONE = [
+const One = [
   {
     "date": "20090526",
     "time_utc": " 1800",
@@ -345,4 +345,4 @@ const ONE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ONE
+export default One

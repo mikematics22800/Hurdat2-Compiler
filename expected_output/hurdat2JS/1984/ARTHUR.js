@@ -1,4 +1,4 @@
-const ARTHUR = [
+const Arthur = [
   {
     "date": "19840828",
     "time_utc": " 1800",
@@ -759,4 +759,4 @@ const ARTHUR = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ARTHUR
+export default Arthur

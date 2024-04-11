@@ -1,4 +1,4 @@
-const BETA = [
+const Beta = [
   {
     "date": "20051026",
     "time_utc": " 1800",
@@ -414,4 +414,4 @@ const BETA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BETA
+export default Beta

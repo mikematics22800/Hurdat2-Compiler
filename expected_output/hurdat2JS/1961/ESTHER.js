@@ -1,4 +1,4 @@
-const ESTHER = [
+const Esther = [
   {
     "date": "19610910",
     "time_utc": " 1200",
@@ -1610,4 +1610,4 @@ const ESTHER = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ESTHER
+export default Esther

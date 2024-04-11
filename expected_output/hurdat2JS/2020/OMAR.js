@@ -1,4 +1,4 @@
-const OMAR = [
+const Omar = [
   {
     "date": "20200830",
     "time_utc": " 1800",
@@ -621,4 +621,4 @@ const OMAR = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default OMAR
+export default Omar

@@ -1,4 +1,4 @@
-const VICKY = [
+const Vicky = [
   {
     "date": "20200914",
     "time_utc": " 0000",
@@ -552,4 +552,4 @@ const VICKY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default VICKY
+export default Vicky

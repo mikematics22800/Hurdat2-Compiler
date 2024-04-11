@@ -1,4 +1,4 @@
-const ELENA = [
+const Elena = [
   {
     "date": "19651012",
     "time_utc": " 1200",
@@ -759,4 +759,4 @@ const ELENA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ELENA
+export default Elena

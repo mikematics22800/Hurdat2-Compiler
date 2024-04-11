@@ -1,4 +1,4 @@
-const BRENDA = [
+const Brenda = [
   {
     "date": "19550731",
     "time_utc": " 0600",
@@ -322,4 +322,4 @@ const BRENDA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BRENDA
+export default Brenda

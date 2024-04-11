@@ -1,4 +1,4 @@
-const HILDA = [
+const Hilda = [
   {
     "date": "19550912",
     "time_utc": " 0000",
@@ -897,4 +897,4 @@ const HILDA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HILDA
+export default Hilda

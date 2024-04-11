@@ -1,4 +1,4 @@
-const NANA = [
+const Nana = [
   {
     "date": "20200901",
     "time_utc": " 0600",
@@ -299,4 +299,4 @@ const NANA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default NANA
+export default Nana

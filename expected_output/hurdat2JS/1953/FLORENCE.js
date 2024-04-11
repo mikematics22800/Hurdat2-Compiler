@@ -1,4 +1,4 @@
-const FLORENCE = [
+const Florence = [
   {
     "date": "19530923",
     "time_utc": " 1200",
@@ -437,4 +437,4 @@ const FLORENCE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FLORENCE
+export default Florence

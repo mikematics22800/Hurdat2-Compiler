@@ -1,4 +1,4 @@
-const ISAAC = [
+const Isaac = [
   {
     "date": "20060927",
     "time_utc": " 1800",
@@ -552,4 +552,4 @@ const ISAAC = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ISAAC
+export default Isaac

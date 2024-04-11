@@ -1,4 +1,4 @@
-const HUGO = [
+const Hugo = [
   {
     "date": "19890910",
     "time_utc": " 1200",
@@ -1472,4 +1472,4 @@ const HUGO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HUGO
+export default Hugo

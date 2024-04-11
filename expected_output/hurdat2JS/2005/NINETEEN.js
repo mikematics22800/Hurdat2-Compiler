@@ -1,4 +1,4 @@
-const NINETEEN = [
+const Nineteen = [
   {
     "date": "20050930",
     "time_utc": " 1200",
@@ -207,4 +207,4 @@ const NINETEEN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default NINETEEN
+export default Nineteen

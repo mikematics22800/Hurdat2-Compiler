@@ -1,4 +1,4 @@
-const TONY = [
+const Tony = [
   {
     "date": "20121021",
     "time_utc": " 1800",
@@ -460,4 +460,4 @@ const TONY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default TONY
+export default Tony

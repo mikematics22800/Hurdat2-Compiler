@@ -1,4 +1,4 @@
-const ALLISON = [
+const Allison = [
   {
     "date": "19950603",
     "time_utc": " 0000",
@@ -805,4 +805,4 @@ const ALLISON = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ALLISON
+export default Allison

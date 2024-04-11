@@ -1,4 +1,4 @@
-const TWO = [
+const Two = [
   {
     "date": "20140719",
     "time_utc": " 1200",
@@ -391,4 +391,4 @@ const TWO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default TWO
+export default Two

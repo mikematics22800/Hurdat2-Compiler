@@ -1,12 +1,12 @@
-import ALBERTO from './ALBERTO'
-import UNNAMED_2 from './UNNAMED_2'
-import BERYL from './BERYL'
-import UNNAMED_4 from './UNNAMED_4'
-import CHRIS from './CHRIS'
-import DEBBY from './DEBBY'
-import UNNAMED_7 from './UNNAMED_7'
-import ERNESTO from './ERNESTO'
+import Alberto from './Alberto'
+import Unnamed_2 from './Unnamed_2'
+import Beryl from './Beryl'
+import Unnamed_4 from './Unnamed_4'
+import Chris from './Chris'
+import Debby from './Debby'
+import Unnamed_7 from './Unnamed_7'
+import Ernesto from './Ernesto'
 
-const hurdat2_1982 = [ALBERTO, UNNAMED_2, BERYL, UNNAMED_4, CHRIS, DEBBY, UNNAMED_7, ERNESTO]
+const hurdat2_1982 = [Alberto, Unnamed_2, Beryl, Unnamed_4, Chris, Debby, Unnamed_7, Ernesto]
 
 export default hurdat2_1982

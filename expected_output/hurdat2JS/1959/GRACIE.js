@@ -1,4 +1,4 @@
-const GRACIE = [
+const Gracie = [
   {
     "date": "19590920",
     "time_utc": " 1200",
@@ -1150,4 +1150,4 @@ const GRACIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GRACIE
+export default Gracie

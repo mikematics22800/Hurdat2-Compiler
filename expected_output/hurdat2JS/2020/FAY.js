@@ -1,4 +1,4 @@
-const FAY = [
+const Fay = [
   {
     "date": "20200705",
     "time_utc": " 1200",
@@ -621,4 +621,4 @@ const FAY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FAY
+export default Fay

@@ -1,4 +1,4 @@
-const HUMBERTO = [
+const Humberto = [
   {
     "date": "20190912",
     "time_utc": " 1200",
@@ -782,4 +782,4 @@ const HUMBERTO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HUMBERTO
+export default Humberto

@@ -1,4 +1,4 @@
-const BECKY = [
+const Becky = [
   {
     "date": "19620827",
     "time_utc": " 0600",
@@ -460,4 +460,4 @@ const BECKY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BECKY
+export default Becky

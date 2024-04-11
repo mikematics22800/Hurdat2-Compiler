@@ -1,4 +1,4 @@
-const IRENE = [
+const Irene = [
   {
     "date": "19991012",
     "time_utc": " 1200",
@@ -782,4 +782,4 @@ const IRENE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IRENE
+export default Irene

@@ -1,4 +1,4 @@
-const FLORA = [
+const Flora = [
   {
     "date": "19630928",
     "time_utc": " 1200",
@@ -1817,4 +1817,4 @@ const FLORA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FLORA
+export default Flora

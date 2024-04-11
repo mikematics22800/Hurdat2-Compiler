@@ -1,4 +1,4 @@
-const JUAN = [
+const Juan = [
   {
     "date": "19851026",
     "time_utc": " 0000",
@@ -667,4 +667,4 @@ const JUAN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JUAN
+export default Juan

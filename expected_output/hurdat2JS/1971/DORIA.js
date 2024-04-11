@@ -1,4 +1,4 @@
-const DORIA = [
+const Doria = [
   {
     "date": "19710820",
     "time_utc": " 1200",
@@ -828,4 +828,4 @@ const DORIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DORIA
+export default Doria

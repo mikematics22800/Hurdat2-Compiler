@@ -1,4 +1,4 @@
-const FRANCES = [
+const Frances = [
   {
     "date": "19800906",
     "time_utc": " 0000",
@@ -1403,4 +1403,4 @@ const FRANCES = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FRANCES
+export default Frances

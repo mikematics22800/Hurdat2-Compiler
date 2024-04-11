@@ -1,4 +1,4 @@
-const RENE = [
+const Rene = [
   {
     "date": "20200906",
     "time_utc": " 1800",
@@ -736,4 +736,4 @@ const RENE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default RENE
+export default Rene

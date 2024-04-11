@@ -1,4 +1,4 @@
-const OLGA = [
+const Olga = [
   {
     "date": "20011123",
     "time_utc": " 0600",
@@ -1081,4 +1081,4 @@ const OLGA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default OLGA
+export default Olga

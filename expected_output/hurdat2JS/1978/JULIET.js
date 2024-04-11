@@ -1,4 +1,4 @@
-const JULIET = [
+const Juliet = [
   {
     "date": "19781007",
     "time_utc": " 1800",
@@ -368,4 +368,4 @@ const JULIET = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JULIET
+export default Juliet

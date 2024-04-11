@@ -1,4 +1,4 @@
-const KLAUS = [
+const Klaus = [
   {
     "date": "19841105",
     "time_utc": " 1800",
@@ -759,4 +759,4 @@ const KLAUS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KLAUS
+export default Klaus

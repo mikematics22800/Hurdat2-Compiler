@@ -1,4 +1,4 @@
-const NOEL = [
+const Noel = [
   {
     "date": "19950926",
     "time_utc": " 1800",
@@ -1035,4 +1035,4 @@ const NOEL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default NOEL
+export default Noel

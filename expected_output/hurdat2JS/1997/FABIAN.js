@@ -1,4 +1,4 @@
-const FABIAN = [
+const Fabian = [
   {
     "date": "19971004",
     "time_utc": " 1800",
@@ -391,4 +391,4 @@ const FABIAN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FABIAN
+export default Fabian

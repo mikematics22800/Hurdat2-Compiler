@@ -1,4 +1,4 @@
-const ELLA = [
+const Ella = [
   {
     "date": "19621014",
     "time_utc": " 0600",
@@ -1035,4 +1035,4 @@ const ELLA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ELLA
+export default Ella

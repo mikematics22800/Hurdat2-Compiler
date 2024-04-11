@@ -1,4 +1,4 @@
-const CAROL = [
+const Carol = [
   {
     "date": "19540825",
     "time_utc": " 1200",
@@ -690,4 +690,4 @@ const CAROL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CAROL
+export default Carol

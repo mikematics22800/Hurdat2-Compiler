@@ -1,4 +1,4 @@
-const THETA = [
+const Theta = [
   {
     "date": "20201108",
     "time_utc": " 1200",
@@ -759,4 +759,4 @@ const THETA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default THETA
+export default Theta

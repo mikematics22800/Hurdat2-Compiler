@@ -1,4 +1,4 @@
-const HANNAH = [
+const Hannah = [
   {
     "date": "19590927",
     "time_utc": " 1200",
@@ -1058,4 +1058,4 @@ const HANNAH = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HANNAH
+export default Hannah

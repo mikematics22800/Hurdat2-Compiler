@@ -1,4 +1,4 @@
-const GILDA = [
+const Gilda = [
   {
     "date": "19731016",
     "time_utc": " 0600",
@@ -1288,4 +1288,4 @@ const GILDA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GILDA
+export default Gilda

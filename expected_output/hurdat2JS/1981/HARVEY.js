@@ -1,4 +1,4 @@
-const HARVEY = [
+const Harvey = [
   {
     "date": "19810911",
     "time_utc": " 1800",
@@ -782,4 +782,4 @@ const HARVEY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HARVEY
+export default Harvey

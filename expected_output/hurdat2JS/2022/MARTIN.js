@@ -1,4 +1,4 @@
-const MARTIN = [
+const Martin = [
   {
     "date": "20221030",
     "time_utc": " 1800",
@@ -483,4 +483,4 @@ const MARTIN = [
     "max_wind_radius_nm": "   60"
   }
 ]
-export default MARTIN
+export default Martin

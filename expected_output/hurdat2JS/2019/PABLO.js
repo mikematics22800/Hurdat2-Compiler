@@ -1,4 +1,4 @@
-const PABLO = [
+const Pablo = [
   {
     "date": "20191023",
     "time_utc": " 1800",
@@ -506,4 +506,4 @@ const PABLO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default PABLO
+export default Pablo

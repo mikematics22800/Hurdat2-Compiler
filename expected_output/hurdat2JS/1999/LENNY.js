@@ -1,4 +1,4 @@
-const LENNY = [
+const Lenny = [
   {
     "date": "19991113",
     "time_utc": " 1800",
@@ -897,4 +897,4 @@ const LENNY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LENNY
+export default Lenny

@@ -1,4 +1,4 @@
-const CLARA = [
+const Clara = [
   {
     "date": "19770905",
     "time_utc": " 1200",
@@ -621,4 +621,4 @@ const CLARA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CLARA
+export default Clara

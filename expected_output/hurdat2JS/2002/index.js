@@ -1,18 +1,18 @@
-import ARTHUR from './ARTHUR'
-import BERTHA from './BERTHA'
-import CRISTOBAL from './CRISTOBAL'
-import DOLLY from './DOLLY'
-import EDOUARD from './EDOUARD'
-import FAY from './FAY'
-import UNNAMED_7 from './UNNAMED_7'
-import GUSTAV from './GUSTAV'
-import HANNA from './HANNA'
-import ISIDORE from './ISIDORE'
-import JOSEPHINE from './JOSEPHINE'
-import KYLE from './KYLE'
-import LILI from './LILI'
-import UNNAMED_14 from './UNNAMED_14'
+import Arthur from './Arthur'
+import Bertha from './Bertha'
+import Cristobal from './Cristobal'
+import Dolly from './Dolly'
+import Edouard from './Edouard'
+import Fay from './Fay'
+import Unnamed_7 from './Unnamed_7'
+import Gustav from './Gustav'
+import Hanna from './Hanna'
+import Isidore from './Isidore'
+import Josephine from './Josephine'
+import Kyle from './Kyle'
+import Lili from './Lili'
+import Unnamed_14 from './Unnamed_14'
 
-const hurdat2_2002 = [ARTHUR, BERTHA, CRISTOBAL, DOLLY, EDOUARD, FAY, UNNAMED_7, GUSTAV, HANNA, ISIDORE, JOSEPHINE, KYLE, LILI, UNNAMED_14]
+const hurdat2_2002 = [Arthur, Bertha, Cristobal, Dolly, Edouard, Fay, Unnamed_7, Gustav, Hanna, Isidore, Josephine, Kyle, Lili, Unnamed_14]
 
 export default hurdat2_2002

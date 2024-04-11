@@ -1,4 +1,4 @@
-const DEAN = [
+const Dean = [
   {
     "date": "19890731",
     "time_utc": " 0600",
@@ -874,4 +874,4 @@ const DEAN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DEAN
+export default Dean

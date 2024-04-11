@@ -1,4 +1,4 @@
-const FOUR = [
+const Four = [
   {
     "date": "20170705",
     "time_utc": " 1200",
@@ -207,4 +207,4 @@ const FOUR = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FOUR
+export default Four

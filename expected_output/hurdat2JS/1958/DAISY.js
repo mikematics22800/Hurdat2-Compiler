@@ -1,4 +1,4 @@
-const DAISY = [
+const Daisy = [
   {
     "date": "19580823",
     "time_utc": " 1800",
@@ -690,4 +690,4 @@ const DAISY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DAISY
+export default Daisy

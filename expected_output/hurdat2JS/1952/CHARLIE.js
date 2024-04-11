@@ -1,4 +1,4 @@
-const CHARLIE = [
+const Charlie = [
   {
     "date": "19520924",
     "time_utc": " 0000",
@@ -667,4 +667,4 @@ const CHARLIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CHARLIE
+export default Charlie

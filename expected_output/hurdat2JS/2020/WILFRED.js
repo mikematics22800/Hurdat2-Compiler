@@ -1,4 +1,4 @@
-const WILFRED = [
+const Wilfred = [
   {
     "date": "20200917",
     "time_utc": " 0000",
@@ -391,4 +391,4 @@ const WILFRED = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default WILFRED
+export default Wilfred

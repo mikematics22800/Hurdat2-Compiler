@@ -1,4 +1,4 @@
-const SANDY = [
+const Sandy = [
   {
     "date": "20121021",
     "time_utc": " 1800",
@@ -1035,4 +1035,4 @@ const SANDY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default SANDY
+export default Sandy

@@ -1,4 +1,4 @@
-const ETA = [
+const Eta = [
   {
     "date": "20201031",
     "time_utc": " 1800",
@@ -1334,4 +1334,4 @@ const ETA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ETA
+export default Eta

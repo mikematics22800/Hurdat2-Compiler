@@ -1,4 +1,4 @@
-const ISBELL = [
+const Isbell = [
   {
     "date": "19641009",
     "time_utc": " 0600",
@@ -782,4 +782,4 @@ const ISBELL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ISBELL
+export default Isbell

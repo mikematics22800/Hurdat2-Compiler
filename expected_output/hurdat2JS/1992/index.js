@@ -1,14 +1,14 @@
-import UNNAMED_1 from './UNNAMED_1'
-import UNNAMED_2 from './UNNAMED_2'
-import UNNAMED_3 from './UNNAMED_3'
-import ANDREW from './ANDREW'
-import BONNIE from './BONNIE'
-import CHARLEY from './CHARLEY'
-import DANIELLE from './DANIELLE'
-import UNNAMED_8 from './UNNAMED_8'
-import EARL from './EARL'
-import FRANCES from './FRANCES'
+import Unnamed_1 from './Unnamed_1'
+import Unnamed_2 from './Unnamed_2'
+import Unnamed_3 from './Unnamed_3'
+import Andrew from './Andrew'
+import Bonnie from './Bonnie'
+import Charley from './Charley'
+import Danielle from './Danielle'
+import Unnamed_8 from './Unnamed_8'
+import Earl from './Earl'
+import Frances from './Frances'
 
-const hurdat2_1992 = [UNNAMED_1, UNNAMED_2, UNNAMED_3, ANDREW, BONNIE, CHARLEY, DANIELLE, UNNAMED_8, EARL, FRANCES]
+const hurdat2_1992 = [Unnamed_1, Unnamed_2, Unnamed_3, Andrew, Bonnie, Charley, Danielle, Unnamed_8, Earl, Frances]
 
 export default hurdat2_1992

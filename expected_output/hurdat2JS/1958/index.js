@@ -1,16 +1,16 @@
-import ALMA from './ALMA'
-import BECKY from './BECKY'
-import CLEO from './CLEO'
-import DAISY from './DAISY'
-import ELLA from './ELLA'
-import FIFI from './FIFI'
-import GERDA from './GERDA'
-import HELENE from './HELENE'
-import ILSA from './ILSA'
-import JANICE from './JANICE'
-import UNNAMED_11 from './UNNAMED_11'
-import UNNAMED_12 from './UNNAMED_12'
+import Alma from './Alma'
+import Becky from './Becky'
+import Cleo from './Cleo'
+import Daisy from './Daisy'
+import Ella from './Ella'
+import Fifi from './Fifi'
+import Gerda from './Gerda'
+import Helene from './Helene'
+import Ilsa from './Ilsa'
+import Janice from './Janice'
+import Unnamed_11 from './Unnamed_11'
+import Unnamed_12 from './Unnamed_12'
 
-const hurdat2_1958 = [ALMA, BECKY, CLEO, DAISY, ELLA, FIFI, GERDA, HELENE, ILSA, JANICE, UNNAMED_11, UNNAMED_12]
+const hurdat2_1958 = [Alma, Becky, Cleo, Daisy, Ella, Fifi, Gerda, Helene, Ilsa, Janice, Unnamed_11, Unnamed_12]
 
 export default hurdat2_1958

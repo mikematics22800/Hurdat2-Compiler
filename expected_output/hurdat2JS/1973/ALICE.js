@@ -1,4 +1,4 @@
-const ALICE = [
+const Alice = [
   {
     "date": "19730701",
     "time_utc": " 1800",
@@ -506,4 +506,4 @@ const ALICE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ALICE
+export default Alice

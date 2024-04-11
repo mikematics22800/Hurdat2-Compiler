@@ -1,4 +1,4 @@
-const OPHELIA = [
+const Ophelia = [
   {
     "date": "20050906",
     "time_utc": " 0600",
@@ -1587,4 +1587,4 @@ const OPHELIA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default OPHELIA
+export default Ophelia

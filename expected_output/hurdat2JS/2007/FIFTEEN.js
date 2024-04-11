@@ -1,4 +1,4 @@
-const FIFTEEN = [
+const Fifteen = [
   {
     "date": "20071011",
     "time_utc": " 1200",
@@ -598,4 +598,4 @@ const FIFTEEN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FIFTEEN
+export default Fifteen

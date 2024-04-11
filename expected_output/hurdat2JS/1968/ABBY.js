@@ -1,4 +1,4 @@
-const ABBY = [
+const Abby = [
   {
     "date": "19680601",
     "time_utc": " 0600",
@@ -1196,4 +1196,4 @@ const ABBY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ABBY
+export default Abby

@@ -1,4 +1,4 @@
-const FRAN = [
+const Fran = [
   {
     "date": "19731008",
     "time_utc": " 1800",
@@ -460,4 +460,4 @@ const FRAN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FRAN
+export default Fran

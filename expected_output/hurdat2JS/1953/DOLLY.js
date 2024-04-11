@@ -1,4 +1,4 @@
-const DOLLY = [
+const Dolly = [
   {
     "date": "19530908",
     "time_utc": " 0600",
@@ -805,4 +805,4 @@ const DOLLY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DOLLY
+export default Dolly

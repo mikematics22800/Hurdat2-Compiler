@@ -1,4 +1,4 @@
-const HALLIE = [
+const Hallie = [
   {
     "date": "19751024",
     "time_utc": " 1800",
@@ -322,4 +322,4 @@ const HALLIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HALLIE
+export default Hallie

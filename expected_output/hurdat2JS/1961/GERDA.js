@@ -1,4 +1,4 @@
-const GERDA = [
+const Gerda = [
   {
     "date": "19611017",
     "time_utc": " 0000",
@@ -529,4 +529,4 @@ const GERDA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GERDA
+export default Gerda

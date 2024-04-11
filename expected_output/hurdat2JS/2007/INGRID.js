@@ -1,4 +1,4 @@
-const INGRID = [
+const Ingrid = [
   {
     "date": "20070912",
     "time_utc": " 0600",
@@ -598,4 +598,4 @@ const INGRID = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default INGRID
+export default Ingrid

@@ -1,4 +1,4 @@
-const GEORGES = [
+const Georges = [
   {
     "date": "19800901",
     "time_utc": " 0000",
@@ -736,4 +736,4 @@ const GEORGES = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GEORGES
+export default Georges

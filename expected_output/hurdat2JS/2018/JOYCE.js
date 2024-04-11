@@ -1,4 +1,4 @@
-const JOYCE = [
+const Joyce = [
   {
     "date": "20180912",
     "time_utc": " 0000",
@@ -897,4 +897,4 @@ const JOYCE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JOYCE
+export default Joyce

@@ -1,4 +1,4 @@
-const DAVID = [
+const David = [
   {
     "date": "19790825",
     "time_utc": " 1200",
@@ -1265,4 +1265,4 @@ const DAVID = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DAVID
+export default David

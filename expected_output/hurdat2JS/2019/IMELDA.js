@@ -1,4 +1,4 @@
-const IMELDA = [
+const Imelda = [
   {
     "date": "20190917",
     "time_utc": " 1200",
@@ -207,4 +207,4 @@ const IMELDA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IMELDA
+export default Imelda

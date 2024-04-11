@@ -1,4 +1,4 @@
-const HERMINE = [
+const Hermine = [
   {
     "date": "20220923",
     "time_utc": " 0600",
@@ -276,4 +276,4 @@ const HERMINE = [
     "max_wind_radius_nm": "  100"
   }
 ]
-export default HERMINE
+export default Hermine

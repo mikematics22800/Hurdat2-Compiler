@@ -1,4 +1,4 @@
-const FLOSSIE = [
+const Flossie = [
   {
     "date": "19780904",
     "time_utc": " 0000",
@@ -1150,4 +1150,4 @@ const FLOSSIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FLOSSIE
+export default Flossie

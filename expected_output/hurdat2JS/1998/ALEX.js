@@ -1,4 +1,4 @@
-const ALEX = [
+const Alex = [
   {
     "date": "19980727",
     "time_utc": " 1200",
@@ -598,4 +598,4 @@ const ALEX = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ALEX
+export default Alex

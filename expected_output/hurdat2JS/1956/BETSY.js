@@ -1,4 +1,4 @@
-const BETSY = [
+const Betsy = [
   {
     "date": "19560809",
     "time_utc": " 0600",
@@ -1150,4 +1150,4 @@ const BETSY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BETSY
+export default Betsy

@@ -1,4 +1,4 @@
-const OPAL = [
+const Opal = [
   {
     "date": "19950927",
     "time_utc": " 1800",
@@ -897,4 +897,4 @@ const OPAL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default OPAL
+export default Opal

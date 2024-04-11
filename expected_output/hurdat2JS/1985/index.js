@@ -1,18 +1,18 @@
-import ANA from './ANA'
-import BOB from './BOB'
-import CLAUDETTE from './CLAUDETTE'
-import DANNY from './DANNY'
-import ELENA from './ELENA'
-import UNNAMED_6 from './UNNAMED_6'
-import UNNAMED_7 from './UNNAMED_7'
-import FABIAN from './FABIAN'
-import GLORIA from './GLORIA'
-import HENRI from './HENRI'
-import ISABEL from './ISABEL'
-import JUAN from './JUAN'
-import KATE from './KATE'
-import UNNAMED_14 from './UNNAMED_14'
+import Ana from './Ana'
+import Bob from './Bob'
+import Claudette from './Claudette'
+import Danny from './Danny'
+import Elena from './Elena'
+import Unnamed_6 from './Unnamed_6'
+import Unnamed_7 from './Unnamed_7'
+import Fabian from './Fabian'
+import Gloria from './Gloria'
+import Henri from './Henri'
+import Isabel from './Isabel'
+import Juan from './Juan'
+import Kate from './Kate'
+import Unnamed_14 from './Unnamed_14'
 
-const hurdat2_1985 = [ANA, BOB, CLAUDETTE, DANNY, ELENA, UNNAMED_6, UNNAMED_7, FABIAN, GLORIA, HENRI, ISABEL, JUAN, KATE, UNNAMED_14]
+const hurdat2_1985 = [Ana, Bob, Claudette, Danny, Elena, Unnamed_6, Unnamed_7, Fabian, Gloria, Henri, Isabel, Juan, Kate, Unnamed_14]
 
 export default hurdat2_1985

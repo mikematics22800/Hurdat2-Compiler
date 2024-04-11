@@ -1,4 +1,4 @@
-const EDNA = [
+const Edna = [
   {
     "date": "19540905",
     "time_utc": " 0000",
@@ -943,4 +943,4 @@ const EDNA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EDNA
+export default Edna

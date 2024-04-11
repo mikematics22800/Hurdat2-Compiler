@@ -1,4 +1,4 @@
-const SIXTEEN = [
+const Sixteen = [
   {
     "date": "20081014",
     "time_utc": " 1200",
@@ -184,4 +184,4 @@ const SIXTEEN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default SIXTEEN
+export default Sixteen

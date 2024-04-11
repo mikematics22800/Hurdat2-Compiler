@@ -1,4 +1,4 @@
-const KAREN = [
+const Karen = [
   {
     "date": "19950826",
     "time_utc": " 1200",
@@ -713,4 +713,4 @@ const KAREN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default KAREN
+export default Karen

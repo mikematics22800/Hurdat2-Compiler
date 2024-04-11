@@ -1,4 +1,4 @@
-const ALMA = [
+const Alma = [
   {
     "date": "19580614",
     "time_utc": " 0600",
@@ -230,4 +230,4 @@ const ALMA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ALMA
+export default Alma

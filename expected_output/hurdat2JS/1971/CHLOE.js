@@ -1,4 +1,4 @@
-const CHLOE = [
+const Chloe = [
   {
     "date": "19710818",
     "time_utc": " 1200",
@@ -667,4 +667,4 @@ const CHLOE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CHLOE
+export default Chloe

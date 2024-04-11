@@ -1,4 +1,4 @@
-const DEBBIE = [
+const Debbie = [
   {
     "date": "19570907",
     "time_utc": " 0600",
@@ -230,4 +230,4 @@ const DEBBIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default DEBBIE
+export default Debbie

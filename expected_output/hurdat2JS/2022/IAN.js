@@ -1,4 +1,4 @@
-const IAN = [
+const Ian = [
   {
     "date": "20220922",
     "time_utc": " 1800",
@@ -920,4 +920,4 @@ const IAN = [
     "max_wind_radius_nm": "  180"
   }
 ]
-export default IAN
+export default Ian

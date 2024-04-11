@@ -1,4 +1,4 @@
-const ALPHA = [
+const Alpha = [
   {
     "date": "20200914",
     "time_utc": " 1200",
@@ -460,4 +460,4 @@ const ALPHA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ALPHA
+export default Alpha

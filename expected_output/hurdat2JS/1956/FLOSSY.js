@@ -1,4 +1,4 @@
-const FLOSSY = [
+const Flossy = [
   {
     "date": "19560920",
     "time_utc": " 1800",
@@ -1196,4 +1196,4 @@ const FLOSSY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FLOSSY
+export default Flossy

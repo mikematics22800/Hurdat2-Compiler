@@ -1,18 +1,18 @@
-import ALEX from './ALEX'
-import BONNIE from './BONNIE'
-import CHARLEY from './CHARLEY'
-import DANIELLE from './DANIELLE'
-import EARL from './EARL'
-import FRANCES from './FRANCES'
-import GEORGES from './GEORGES'
-import HERMINE from './HERMINE'
-import IVAN from './IVAN'
-import JEANNE from './JEANNE'
-import KARL from './KARL'
-import LISA from './LISA'
-import MITCH from './MITCH'
-import NICOLE from './NICOLE'
+import Alex from './Alex'
+import Bonnie from './Bonnie'
+import Charley from './Charley'
+import Danielle from './Danielle'
+import Earl from './Earl'
+import Frances from './Frances'
+import Georges from './Georges'
+import Hermine from './Hermine'
+import Ivan from './Ivan'
+import Jeanne from './Jeanne'
+import Karl from './Karl'
+import Lisa from './Lisa'
+import Mitch from './Mitch'
+import Nicole from './Nicole'
 
-const hurdat2_1998 = [ALEX, BONNIE, CHARLEY, DANIELLE, EARL, FRANCES, GEORGES, HERMINE, IVAN, JEANNE, KARL, LISA, MITCH, NICOLE]
+const hurdat2_1998 = [Alex, Bonnie, Charley, Danielle, Earl, Frances, Georges, Hermine, Ivan, Jeanne, Karl, Lisa, Mitch, Nicole]
 
 export default hurdat2_1998

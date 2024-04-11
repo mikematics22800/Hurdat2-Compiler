@@ -1,4 +1,4 @@
-const CAMILLE = [
+const Camille = [
   {
     "date": "19690814",
     "time_utc": " 0000",
@@ -851,4 +851,4 @@ const CAMILLE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CAMILLE
+export default Camille

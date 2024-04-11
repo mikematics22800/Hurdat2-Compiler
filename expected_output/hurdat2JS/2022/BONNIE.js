@@ -1,4 +1,4 @@
-const BONNIE = [
+const Bonnie = [
   {
     "date": "20220627",
     "time_utc": " 1800",
@@ -1265,4 +1265,4 @@ const BONNIE = [
     "max_wind_radius_nm": "   25"
   }
 ]
-export default BONNIE
+export default Bonnie

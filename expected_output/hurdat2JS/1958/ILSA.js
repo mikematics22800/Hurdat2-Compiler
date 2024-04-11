@@ -1,4 +1,4 @@
-const ILSA = [
+const Ilsa = [
   {
     "date": "19580924",
     "time_utc": " 0600",
@@ -598,4 +598,4 @@ const ILSA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ILSA
+export default Ilsa

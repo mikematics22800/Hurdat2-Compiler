@@ -1,4 +1,4 @@
-const CINDY = [
+const Cindy = [
   {
     "date": "20050703",
     "time_utc": " 1800",
@@ -782,4 +782,4 @@ const CINDY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CINDY
+export default Cindy

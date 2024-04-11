@@ -1,4 +1,4 @@
-const EPSILON = [
+const Epsilon = [
   {
     "date": "20051129",
     "time_utc": " 0600",
@@ -989,4 +989,4 @@ const EPSILON = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default EPSILON
+export default Epsilon

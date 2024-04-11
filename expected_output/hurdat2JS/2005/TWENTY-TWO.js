@@ -1,4 +1,4 @@
-const TWENTY-TWO = [
+const Twenty-two = [
   {
     "date": "20051008",
     "time_utc": " 0600",
@@ -621,4 +621,4 @@ const TWENTY-TWO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default TWENTY-TWO
+export default Twenty-two

@@ -1,4 +1,4 @@
-const HELENE = [
+const Helene = [
   {
     "date": "19580921",
     "time_utc": " 0600",
@@ -1242,4 +1242,4 @@ const HELENE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HELENE
+export default Helene

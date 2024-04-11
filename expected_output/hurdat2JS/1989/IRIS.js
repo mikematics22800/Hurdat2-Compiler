@@ -1,4 +1,4 @@
-const IRIS = [
+const Iris = [
   {
     "date": "19890916",
     "time_utc": " 1800",
@@ -483,4 +483,4 @@ const IRIS = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IRIS
+export default Iris

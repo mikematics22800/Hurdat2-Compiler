@@ -1,4 +1,4 @@
-const BOB = [
+const Bob = [
   {
     "date": "19850721",
     "time_utc": " 0600",
@@ -483,4 +483,4 @@ const BOB = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BOB
+export default Bob

@@ -1,4 +1,4 @@
-const HOLLY = [
+const Holly = [
   {
     "date": "19761022",
     "time_utc": " 1800",
@@ -598,4 +598,4 @@ const HOLLY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HOLLY
+export default Holly

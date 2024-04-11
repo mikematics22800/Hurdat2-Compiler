@@ -1,4 +1,4 @@
-const BEULAH = [
+const Beulah = [
   {
     "date": "19670905",
     "time_utc": " 1200",
@@ -1817,4 +1817,4 @@ const BEULAH = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BEULAH
+export default Beulah

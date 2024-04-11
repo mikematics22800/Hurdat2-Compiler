@@ -1,4 +1,4 @@
-const ZETA = [
+const Zeta = [
   {
     "date": "20051230",
     "time_utc": " 0000",
@@ -828,4 +828,4 @@ const ZETA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ZETA
+export default Zeta

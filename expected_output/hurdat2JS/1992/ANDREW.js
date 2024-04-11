@@ -1,4 +1,4 @@
-const ANDREW = [
+const Andrew = [
   {
     "date": "19920816",
     "time_utc": " 1800",
@@ -1196,4 +1196,4 @@ const ANDREW = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ANDREW
+export default Andrew

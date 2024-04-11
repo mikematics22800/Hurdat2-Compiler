@@ -1,4 +1,4 @@
-const FRANKLIN = [
+const Franklin = [
   {
     "date": "20110812",
     "time_utc": " 1200",
@@ -345,4 +345,4 @@ const FRANKLIN = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FRANKLIN
+export default Franklin

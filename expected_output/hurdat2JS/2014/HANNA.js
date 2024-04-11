@@ -1,4 +1,4 @@
-const HANNA = [
+const Hanna = [
   {
     "date": "20141021",
     "time_utc": " 0000",
@@ -851,4 +851,4 @@ const HANNA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HANNA
+export default Hanna

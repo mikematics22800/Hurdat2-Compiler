@@ -1,4 +1,4 @@
-const CARRIE = [
+const Carrie = [
   {
     "date": "19570902",
     "time_utc": " 0600",
@@ -2185,4 +2185,4 @@ const CARRIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CARRIE
+export default Carrie

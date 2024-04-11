@@ -1,4 +1,4 @@
-const CLEO = [
+const Cleo = [
   {
     "date": "19600817",
     "time_utc": " 1800",
@@ -322,4 +322,4 @@ const CLEO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default CLEO
+export default Cleo

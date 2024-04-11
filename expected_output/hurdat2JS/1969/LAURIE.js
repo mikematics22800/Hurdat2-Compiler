@@ -1,4 +1,4 @@
-const LAURIE = [
+const Laurie = [
   {
     "date": "19691017",
     "time_utc": " 0000",
@@ -966,4 +966,4 @@ const LAURIE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LAURIE
+export default Laurie

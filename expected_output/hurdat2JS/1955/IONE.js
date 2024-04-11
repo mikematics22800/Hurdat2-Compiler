@@ -1,4 +1,4 @@
-const IONE = [
+const Ione = [
   {
     "date": "19550910",
     "time_utc": " 0600",
@@ -1587,4 +1587,4 @@ const IONE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default IONE
+export default Ione

@@ -1,4 +1,4 @@
-const ELAINE = [
+const Elaine = [
   {
     "date": "19740904",
     "time_utc": " 1800",
@@ -874,4 +874,4 @@ const ELAINE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ELAINE
+export default Elaine

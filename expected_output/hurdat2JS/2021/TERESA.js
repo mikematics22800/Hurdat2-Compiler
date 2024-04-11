@@ -1,4 +1,4 @@
-const TERESA = [
+const Teresa = [
   {
     "date": "20210924",
     "time_utc": " 0600",
@@ -230,4 +230,4 @@ const TERESA = [
     "max_wind_radius_nm": "  100"
   }
 ]
-export default TERESA
+export default Teresa

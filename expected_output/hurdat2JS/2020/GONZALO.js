@@ -1,4 +1,4 @@
-const GONZALO = [
+const Gonzalo = [
   {
     "date": "20200720",
     "time_utc": " 1200",
@@ -529,4 +529,4 @@ const GONZALO = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GONZALO
+export default Gonzalo

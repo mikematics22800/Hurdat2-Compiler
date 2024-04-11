@@ -1,4 +1,4 @@
-const GINGER = [
+const Ginger = [
   {
     "date": "19710906",
     "time_utc": " 0000",
@@ -2714,4 +2714,4 @@ const GINGER = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GINGER
+export default Ginger

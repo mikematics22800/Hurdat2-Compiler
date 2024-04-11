@@ -1,4 +1,4 @@
-const MARTHA = [
+const Martha = [
   {
     "date": "19691120",
     "time_utc": " 1200",
@@ -483,4 +483,4 @@ const MARTHA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default MARTHA
+export default Martha

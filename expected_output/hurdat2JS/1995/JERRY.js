@@ -1,4 +1,4 @@
-const JERRY = [
+const Jerry = [
   {
     "date": "19950822",
     "time_utc": " 1800",
@@ -506,4 +506,4 @@ const JERRY = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default JERRY
+export default Jerry

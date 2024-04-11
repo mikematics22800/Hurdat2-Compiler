@@ -1,4 +1,4 @@
-const BRET = [
+const Bret = [
   {
     "date": "20170618",
     "time_utc": " 1800",
@@ -207,4 +207,4 @@ const BRET = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default BRET
+export default Bret

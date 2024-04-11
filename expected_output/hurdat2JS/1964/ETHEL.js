@@ -1,4 +1,4 @@
-const ETHEL = [
+const Ethel = [
   {
     "date": "19640904",
     "time_utc": " 0600",
@@ -1242,4 +1242,4 @@ const ETHEL = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ETHEL
+export default Ethel

@@ -1,4 +1,4 @@
-const GEORGE = [
+const George = [
   {
     "date": "19510919",
     "time_utc": " 1800",
@@ -253,4 +253,4 @@ const GEORGE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default GEORGE
+export default George

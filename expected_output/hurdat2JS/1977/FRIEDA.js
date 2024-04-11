@@ -1,4 +1,4 @@
-const FRIEDA = [
+const Frieda = [
   {
     "date": "19771016",
     "time_utc": " 1800",
@@ -230,4 +230,4 @@ const FRIEDA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default FRIEDA
+export default Frieda

@@ -1,4 +1,4 @@
-const ARLENE = [
+const Arlene = [
   {
     "date": "19590528",
     "time_utc": " 0600",
@@ -552,4 +552,4 @@ const ARLENE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default ARLENE
+export default Arlene

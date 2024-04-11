@@ -1,4 +1,4 @@
-const LAURA = [
+const Laura = [
   {
     "date": "20200820",
     "time_utc": " 0000",
@@ -966,4 +966,4 @@ const LAURA = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default LAURA
+export default Laura

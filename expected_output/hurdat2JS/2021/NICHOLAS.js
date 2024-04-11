@@ -1,4 +1,4 @@
-const NICHOLAS = [
+const Nicholas = [
   {
     "date": "20210912",
     "time_utc": " 1200",
@@ -483,4 +483,4 @@ const NICHOLAS = [
     "max_wind_radius_nm": "  100"
   }
 ]
-export default NICHOLAS
+export default Nicholas

@@ -1,4 +1,4 @@
-const HORTENSE = [
+const Hortense = [
   {
     "date": "19900825",
     "time_utc": " 0000",
@@ -598,4 +598,4 @@ const HORTENSE = [
     "max_wind_radius_nm": " -999"
   }
 ]
-export default HORTENSE
+export default Hortense
