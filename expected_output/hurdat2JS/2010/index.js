@@ -1,0 +1,25 @@
+import ALEX from './ALEX'
+import TWO from './TWO'
+import BONNIE from './BONNIE'
+import COLIN from './COLIN'
+import FIVE from './FIVE'
+import DANIELLE from './DANIELLE'
+import EARL from './EARL'
+import FIONA from './FIONA'
+import GASTON from './GASTON'
+import HERMINE from './HERMINE'
+import IGOR from './IGOR'
+import JULIA from './JULIA'
+import KARL from './KARL'
+import LISA from './LISA'
+import MATTHEW from './MATTHEW'
+import NICOLE from './NICOLE'
+import OTTO from './OTTO'
+import PAULA from './PAULA'
+import RICHARD from './RICHARD'
+import SHARY from './SHARY'
+import TOMAS from './TOMAS'
+
+const hurdat2_2010 = [ALEX, TWO, BONNIE, COLIN, FIVE, DANIELLE, EARL, FIONA, GASTON, HERMINE, IGOR, JULIA, KARL, LISA, MATTHEW, NICOLE, OTTO, PAULA, RICHARD, SHARY, TOMAS]
+
+export default hurdat2_2010

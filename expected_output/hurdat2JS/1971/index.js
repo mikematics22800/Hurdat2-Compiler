@@ -1,0 +1,26 @@
+import ARLENE from './ARLENE'
+import UNNAMED_2 from './UNNAMED_2'
+import UNNAMED_3 from './UNNAMED_3'
+import UNNAMED_4 from './UNNAMED_4'
+import UNNAMED_5 from './UNNAMED_5'
+import BETH from './BETH'
+import UNNAMED_7 from './UNNAMED_7'
+import CHLOE from './CHLOE'
+import DORIA from './DORIA'
+import UNNAMED_10 from './UNNAMED_10'
+import FERN from './FERN'
+import UNNAMED_12 from './UNNAMED_12'
+import EDITH from './EDITH'
+import GINGER from './GINGER'
+import UNNAMED_15 from './UNNAMED_15'
+import UNNAMED_16 from './UNNAMED_16'
+import HEIDI from './HEIDI'
+import IRENE from './IRENE'
+import JANICE from './JANICE'
+import UNNAMED_20 from './UNNAMED_20'
+import KRISTY from './KRISTY'
+import LAURA from './LAURA'
+
+const hurdat2_1971 = [ARLENE, UNNAMED_2, UNNAMED_3, UNNAMED_4, UNNAMED_5, BETH, UNNAMED_7, CHLOE, DORIA, UNNAMED_10, FERN, UNNAMED_12, EDITH, GINGER, UNNAMED_15, UNNAMED_16, HEIDI, IRENE, JANICE, UNNAMED_20, KRISTY, LAURA]
+
+export default hurdat2_1971

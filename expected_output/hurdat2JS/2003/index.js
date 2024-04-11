@@ -1,0 +1,25 @@
+import ANA from './ANA'
+import UNNAMED_2 from './UNNAMED_2'
+import BILL from './BILL'
+import CLAUDETTE from './CLAUDETTE'
+import DANNY from './DANNY'
+import UNNAMED_6 from './UNNAMED_6'
+import UNNAMED_7 from './UNNAMED_7'
+import ERIKA from './ERIKA'
+import UNNAMED_9 from './UNNAMED_9'
+import FABIAN from './FABIAN'
+import GRACE from './GRACE'
+import HENRI from './HENRI'
+import ISABEL from './ISABEL'
+import UNNAMED_14 from './UNNAMED_14'
+import JUAN from './JUAN'
+import KATE from './KATE'
+import LARRY from './LARRY'
+import MINDY from './MINDY'
+import NICHOLAS from './NICHOLAS'
+import ODETTE from './ODETTE'
+import PETER from './PETER'
+
+const hurdat2_2003 = [ANA, UNNAMED_2, BILL, CLAUDETTE, DANNY, UNNAMED_6, UNNAMED_7, ERIKA, UNNAMED_9, FABIAN, GRACE, HENRI, ISABEL, UNNAMED_14, JUAN, KATE, LARRY, MINDY, NICHOLAS, ODETTE, PETER]
+
+export default hurdat2_2003
