@@ -30,8 +30,10 @@ for line in lines:
                     for name in names:
                         file.write(f"import {name} from './{name}'\n")
                     file.write('\n')
-                    names = ", ".join(names)
-                    file.write(f"const hurdat2_{year} = [{names}]\n")
+                    file.write(f"const hurdat2_{year} = [\n")
+                    for name in names:                         
+                        file.write(f"   {name},\n")
+                    file.write(']\n')
                     file.write('\n')
                     file.write(f"export default hurdat2_{year}")
         if year != values[0][-4:]:
@@ -57,13 +59,12 @@ for line in lines:
             file.write(line)
 
 with open(f"hurdat2JS/index.js", "a") as file:
-    i=0
     for year in years:
         file.write(f"import hurdat2_{year} from './{year}'\n")
-        years[i]=f"hurdat2_{year}"  
-        i+=1
     file.write('\n')
-    years = ", ".join(years)
-    file.write(f"const hurdat2 = [{years}]\n")
+    file.write(f"const hurdat2 = [\n")
+    for year in years:
+        file.write(f"   hurdat2_{year}\n")
+    file.write(']\n')
     file.write('\n')
     file.write('export default hurdat2')
