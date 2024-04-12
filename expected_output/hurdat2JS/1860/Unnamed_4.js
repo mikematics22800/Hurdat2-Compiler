@@ -1,11 +1,11 @@
 const Unnamed_4 = [
   {
-    "date": 18600911,
-    "time_utc": 1200,
+    "date": "18600911",
+    "time_utc": "1200",
     "record": "",
     "status": "HU",
-    "lat": "40.0N",
-    "lng": "50.5W",
+    "lat": 40.0,
+    "lng": -50.5,
     "max_wind_kt": 70,
     "min_pressure_mb": -999,
     "34kt_wind_radius_nm_ne": -999,

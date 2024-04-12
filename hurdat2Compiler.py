@@ -19,10 +19,19 @@ for line in lines:
                 for row in reader:
                     for key, value in row.items():
                         value = value.replace(" ", "")
-                        if value.isdigit() or value[1:].isdigit():
-                            row[key] = int(value)
+                        if key == 'lat' or key == 'lng':
+                            if key == 'lat':
+                                row[key] = float(value[:-1])
+                            else:
+                                row[key] = -float(value[:-1])
                         else:
-                            row[key] = value
+                            if key != "date" and key != "time_utc":
+                                if value.isdigit() or value[1:].isdigit():
+                                    row[key] = int(value)
+                                else: 
+                                    row[key] = value
+                            else:
+                                row[key] = value
                     data.append(row)
             with open(f"hurdat2JSON/{year}/{name}.json", "w") as file:
                 json.dump(data, file, indent=2)

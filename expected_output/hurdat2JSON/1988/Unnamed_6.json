@@ -1,11 +1,11 @@
 [
   {
-    "date": 19880904,
-    "time_utc": 0,
+    "date": "19880904",
+    "time_utc": "0000",
     "record": "",
     "status": "TD",
-    "lat": "28.0N",
-    "lng": "93.5W",
+    "lat": 28.0,
+    "lng": -93.5,
     "max_wind_kt": 30,
     "min_pressure_mb": -999,
     "34kt_wind_radius_nm_ne": -999,
@@ -23,12 +23,12 @@
     "max_wind_radius_nm": -999
   },
   {
-    "date": 19880904,
-    "time_utc": 600,
+    "date": "19880904",
+    "time_utc": "0600",
     "record": "",
     "status": "TD",
-    "lat": "28.0N",
-    "lng": "92.5W",
+    "lat": 28.0,
+    "lng": -92.5,
     "max_wind_kt": 25,
     "min_pressure_mb": -999,
     "34kt_wind_radius_nm_ne": -999,

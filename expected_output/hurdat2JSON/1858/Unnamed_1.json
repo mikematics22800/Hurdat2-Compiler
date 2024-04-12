@@ -1,11 +1,11 @@
 [
   {
-    "date": 18580612,
-    "time_utc": 1200,
+    "date": "18580612",
+    "time_utc": "1200",
     "record": "",
     "status": "HU",
-    "lat": "19.0N",
-    "lng": "85.5W",
+    "lat": 19.0,
+    "lng": -85.5,
     "max_wind_kt": 70,
     "min_pressure_mb": -999,
     "34kt_wind_radius_nm_ne": -999,
