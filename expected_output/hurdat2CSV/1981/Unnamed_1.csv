@@ -1,6 +1,0 @@
-date,time_utc,record,status,lat,lng,max_wind_kt,min_pressure_mb,34kt_wind_radius_nm_ne,34kt_wind_radius_nm_se,34kt_wind_radius_nm_nw,34kt_wind_radius_nm_sw,50kt_wind_radius_nm_ne,50kt_wind_radius_nm_se,50kt_wind_radius_nm_nw,50kt_wind_radius_nm_sw,64kt_wind_radius_nm_ne,64kt_wind_radius_nm_se,64kt_wind_radius_nm_nw,64kt_wind_radius_nm_sw,max_wind_radius_nm
-19810406, 1200,  , TD, 21.0N,  61.5W,  25, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999
-19810406, 1800,  , TD, 20.2N,  62.1W,  30, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999
-19810407, 0000,  , TD, 19.7N,  62.9W,  30, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999
-19810407, 0600,  , TD, 18.9N,  63.4W,  25, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999
-19810407, 1200,  , TD, 18.0N,  64.0W,  20, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999, -999

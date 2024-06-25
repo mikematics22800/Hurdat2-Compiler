@@ -35,16 +35,9 @@ for line in lines:
                     data.append(row)
             with open(f"hurdat2JSON/{year}/{name}.json", "w") as file:
                 json.dump(data, file, indent=2)
-            with open(f"hurdat2JS/{year}/{name}.js", "w") as file:
-                file.write(f"const {name} = ")
-                with open(f"hurdat2JSON/{year}/{name}.json", "r") as jsonFile:
-                    for line in jsonFile:
-                        file.write(f"{line}")
-                file.write('\n')
-                file.write(f"export default {name}")
             if year != values[0][-4:]:
                 years.append(year)
-                with open(f"hurdat2JS/{year}/index.js", "a") as file:
+                with open(f"hurdat2JSON/{year}/index.js", "a") as file:
                     for name in names:
                         file.write(f"import {name} from './{name}'\n")
                     file.write('\n')
@@ -63,8 +56,6 @@ for line in lines:
             i+=1
             name = f"{name}_{i}"
         name = name[0] + name[1:].lower()
-        if name in names:
-            name = f"{name}_2"
         if "-" in name:
             name = name.replace("-", "_")
         names.append(name)
@@ -74,13 +65,10 @@ for line in lines:
             file.write("date,time_utc,record,status,lat,lng,max_wind_kt,min_pressure_mb,34kt_wind_radius_nm_ne,34kt_wind_radius_nm_se,34kt_wind_radius_nm_nw,34kt_wind_radius_nm_sw,50kt_wind_radius_nm_ne,50kt_wind_radius_nm_se,50kt_wind_radius_nm_nw,50kt_wind_radius_nm_sw,64kt_wind_radius_nm_ne,64kt_wind_radius_nm_se,64kt_wind_radius_nm_nw,64kt_wind_radius_nm_sw,max_wind_radius_nm\n")
         if not os.path.exists(f"hurdat2JSON/{year}"):
             os.makedirs(f"hurdat2JSON/{year}")
-        if not os.path.exists(f"hurdat2JS/{year}"):
-            os.makedirs(f"hurdat2JS/{year}")
     else:
         with open(f"hurdat2CSV/{year}/{name}.csv", "a", newline="") as file:
             file.write(line)
-
-with open(f"hurdat2JS/index.js", "a") as file:
+with open(f"hurdat2JSON/index.js", "a") as file:
     for year in years:
         file.write(f"import hurdat2_{year} from './{year}'\n")
     file.write('\n')
