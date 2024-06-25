@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL081957_Frieda",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19570920",
     "time_utc": "1200",
     "record": "",

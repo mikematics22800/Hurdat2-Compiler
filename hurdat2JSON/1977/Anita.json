@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL061977_Anita",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19770829",
     "time_utc": "1200",
     "record": "",

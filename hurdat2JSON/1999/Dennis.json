@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL061999_Dennis",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19990824",
     "time_utc": "0000",
     "record": "",

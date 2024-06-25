@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL132005_Katrina",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20050823",
     "time_utc": "1800",
     "record": "",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL161966_Kendra",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19661003",
     "time_utc": "1200",
     "record": "",

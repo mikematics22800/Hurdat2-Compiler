@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL072002_Fay",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20020905",
     "time_utc": "1800",
     "record": "",

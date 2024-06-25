@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL091958_Helene",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19580921",
     "time_utc": "0600",
     "record": "",

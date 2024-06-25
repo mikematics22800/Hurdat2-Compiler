@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL131968_Frances",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19680923",
     "time_utc": "1200",
     "record": "",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL051988_Debby",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19880831",
     "time_utc": "1800",
     "record": "",

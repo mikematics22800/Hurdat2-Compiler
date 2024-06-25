@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL101981_Cindy",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19810802",
     "time_utc": "1800",
     "record": "",

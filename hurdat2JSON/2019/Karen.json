@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL132019_Karen",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20190922",
     "time_utc": "0000",
     "record": "",

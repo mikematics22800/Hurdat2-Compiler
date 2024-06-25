@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL031963_Beulah",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19630820",
     "time_utc": "0000",
     "record": "",

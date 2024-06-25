@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL091976_Dottie",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19760818",
     "time_utc": "0000",
     "record": "",

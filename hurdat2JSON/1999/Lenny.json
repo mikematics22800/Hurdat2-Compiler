@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL012000_Lenny",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19991113",
     "time_utc": "1800",
     "record": "",

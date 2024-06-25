@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL192020_Rene",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20200906",
     "time_utc": "1800",
     "record": "",

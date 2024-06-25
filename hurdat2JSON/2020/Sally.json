@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL202020_Sally",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20200911",
     "time_utc": "1800",
     "record": "",

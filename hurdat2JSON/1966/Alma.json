@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL021966_Alma",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19660605",
     "time_utc": "0000",
     "record": "",

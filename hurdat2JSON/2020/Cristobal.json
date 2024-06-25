@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL042020_Cristobal",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20200601",
     "time_utc": "1800",
     "record": "",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL051960_Cleo",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19600817",
     "time_utc": "1800",
     "record": "",

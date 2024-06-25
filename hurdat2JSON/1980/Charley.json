@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL081980_Charley",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19800820",
     "time_utc": "1200",
     "record": "",

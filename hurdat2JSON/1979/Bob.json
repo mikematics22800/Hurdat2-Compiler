@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL051979_Bob",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19790709",
     "time_utc": "1200",
     "record": "",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL041957_Bertha",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19570808",
     "time_utc": "0000",
     "record": "",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL031998_Bonnie",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19980819",
     "time_utc": "1200",
     "record": "",

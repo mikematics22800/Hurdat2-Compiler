@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL271969_Laurie",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19691017",
     "time_utc": "0000",
     "record": "",

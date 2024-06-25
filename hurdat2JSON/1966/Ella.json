@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL061966_Ella",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19660722",
     "time_utc": "1200",
     "record": "",

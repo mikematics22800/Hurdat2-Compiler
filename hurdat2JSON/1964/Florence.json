@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL091964_Florence",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19640905",
     "time_utc": "0600",
     "record": "",

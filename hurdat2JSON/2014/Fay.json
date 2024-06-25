@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL082014_Fay",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20141010",
     "time_utc": "0000",
     "record": "",

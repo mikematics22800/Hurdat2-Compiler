@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL061997_Danny",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19970716",
     "time_utc": "1200",
     "record": "",

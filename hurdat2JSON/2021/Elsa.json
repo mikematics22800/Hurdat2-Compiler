@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL062021_Elsa",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20210630",
     "time_utc": "1800",
     "record": "",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL042008_Cristobal",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20080719",
     "time_utc": "0000",
     "record": "",

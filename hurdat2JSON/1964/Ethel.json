@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL081964_Ethel",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19640904",
     "time_utc": "0600",
     "record": "",

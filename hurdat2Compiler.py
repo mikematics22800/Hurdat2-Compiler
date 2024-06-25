@@ -14,7 +14,7 @@ for line in lines:
         values = line.strip().split(",")
         if year != "" and name != "":
             with open(f"hurdat2CSV/{year}/{name}.csv", "r", newline="") as file:
-                data=[]
+                csv_data=[]
                 reader = csv.DictReader(file)
                 for row in reader:
                     for key, value in row.items():
@@ -32,12 +32,25 @@ for line in lines:
                                     row[key] = value
                             else:
                                 row[key] = value
-                    data.append(row)
+                    csv_data.append(row)
             with open(f"hurdat2JSON/{year}/{name}.json", "w") as file:
-                json.dump(data, file, indent=2)
+                json.dump(csv_data, file, indent=2)
+            with open(f"hurdat2JSON/{year}/{name}.json", "r") as file:
+                json_data = json.load(file)
+            if 'Unnamed' in name:
+                name = 'Unnamed' 
+            json_data.insert(0, {
+                "id": f"{values[0]}_{name}",
+                "image": "",
+                "fatalaties": 0,
+                "cost_usd": 0,
+                "retired": "false"
+            })
+            with open(f"hurdat2JSON/{year}/{name}.json", "w") as file:
+                json.dump(json_data, file, indent=2)
             if year != values[0][-4:]:
                 years.append(year)
-                with open(f"hurdat2JSON/{year}/index.js", "a") as file:
+                with open(f"hurdat2JSON/{year}/index.js", "w") as file:
                     for name in names:
                         file.write(f"import {name} from './{name}'\n")
                     file.write('\n')
@@ -59,16 +72,13 @@ for line in lines:
         if "-" in name:
             name = name.replace("-", "_")
         names.append(name)
-        if not os.path.exists(f"hurdat2CSV/{year}"):
-            os.makedirs(f"hurdat2CSV/{year}")
         with open(f"hurdat2CSV/{year}/{name}.csv", "w", newline="") as file:
             file.write("date,time_utc,record,status,lat,lng,max_wind_kt,min_pressure_mb,34kt_wind_radius_nm_ne,34kt_wind_radius_nm_se,34kt_wind_radius_nm_nw,34kt_wind_radius_nm_sw,50kt_wind_radius_nm_ne,50kt_wind_radius_nm_se,50kt_wind_radius_nm_nw,50kt_wind_radius_nm_sw,64kt_wind_radius_nm_ne,64kt_wind_radius_nm_se,64kt_wind_radius_nm_nw,64kt_wind_radius_nm_sw,max_wind_radius_nm\n")
-        if not os.path.exists(f"hurdat2JSON/{year}"):
-            os.makedirs(f"hurdat2JSON/{year}")
     else:
         with open(f"hurdat2CSV/{year}/{name}.csv", "a", newline="") as file:
             file.write(line)
-with open(f"hurdat2JSON/index.js", "a") as file:
+
+with open(f"hurdat2JSON/index.js", "w") as file:
     for year in years:
         file.write(f"import hurdat2_{year} from './{year}'\n")
     file.write('\n')

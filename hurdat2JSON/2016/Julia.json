@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL122016_Julia",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20160913",
     "time_utc": "0600",
     "record": "L",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL171980_Jeanne",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19801107",
     "time_utc": "1800",
     "record": "",

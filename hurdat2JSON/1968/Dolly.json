@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL061968_Dolly",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19680810",
     "time_utc": "0600",
     "record": "",

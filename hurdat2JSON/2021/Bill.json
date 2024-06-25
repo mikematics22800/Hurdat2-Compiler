@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL032021_Bill",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20210613",
     "time_utc": "1800",
     "record": "",

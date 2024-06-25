@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL051968_Candy",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19680622",
     "time_utc": "0600",
     "record": "",

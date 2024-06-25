@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL011972_Laura",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19711112",
     "time_utc": "1200",
     "record": "",

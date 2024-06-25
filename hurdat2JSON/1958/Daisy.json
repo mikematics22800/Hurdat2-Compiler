@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL051958_Daisy",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19580823",
     "time_utc": "1800",
     "record": "",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL071969_Anna",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19690725",
     "time_utc": "0600",
     "record": "",

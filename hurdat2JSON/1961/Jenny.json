@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL111961_Jenny",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19611102",
     "time_utc": "0000",
     "record": "",

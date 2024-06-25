@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL152022_Karl",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20221011",
     "time_utc": "1200",
     "record": "",

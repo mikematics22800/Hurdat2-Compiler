@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL042018_Chris",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20180705",
     "time_utc": "0600",
     "record": "",

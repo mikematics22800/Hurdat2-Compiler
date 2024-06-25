@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL021970_Alma",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19700517",
     "time_utc": "1800",
     "record": "",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL171969_Gerda",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19690907",
     "time_utc": "0000",
     "record": "",

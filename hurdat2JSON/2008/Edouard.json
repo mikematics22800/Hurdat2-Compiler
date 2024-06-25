@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL062008_Edouard",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20080803",
     "time_utc": "1200",
     "record": "",

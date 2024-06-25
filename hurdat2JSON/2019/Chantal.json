@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL052019_Chantal",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20190820",
     "time_utc": "1800",
     "record": "",

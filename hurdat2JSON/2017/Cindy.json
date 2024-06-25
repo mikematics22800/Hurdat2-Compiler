@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL042017_Cindy",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20170619",
     "time_utc": "1800",
     "record": "",

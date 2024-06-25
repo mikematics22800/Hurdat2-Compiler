@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL151973_Fran",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19731008",
     "time_utc": "1800",
     "record": "",

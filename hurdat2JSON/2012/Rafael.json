@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL182012_Rafael",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20121012",
     "time_utc": "1800",
     "record": "",

@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL012019_Oscar",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "20181026",
     "time_utc": "1800",
     "record": "",

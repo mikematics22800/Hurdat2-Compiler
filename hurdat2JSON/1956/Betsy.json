@@ -1,5 +1,12 @@
 [
   {
+    "id": "AL041956_Betsy",
+    "image": "",
+    "fatalaties": 0,
+    "cost_usd": 0,
+    "retired": "false"
+  },
+  {
     "date": "19560809",
     "time_utc": "0600",
     "record": "",
