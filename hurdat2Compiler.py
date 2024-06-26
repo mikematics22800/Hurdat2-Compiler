@@ -13,6 +13,7 @@ for line in lines:
     values = [value.strip() for value in values]
     if len(values) == 4:
         if year != values[0][-4:]:
+            json_path = f"./hurdat2_json/{year}.json" 
             os.makedirs(os.path.dirname(json_path), exist_ok=True)
             with open(json_path, "w") as file:
                 json.dump(season, file, indent=2)
@@ -21,7 +22,6 @@ for line in lines:
         name = values[1]
         id = f"{values[0]}_{name}"
         csv_path = f"./hurdat2_csv/{year}/{id}.csv"
-        json_path = f"./hurdat2_json/{year}.json" 
         if os.path.exists(csv_path):
             data=[]
             with open(csv_path, "r", newline="") as file:
