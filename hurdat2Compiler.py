@@ -13,26 +13,9 @@ number = 0
 for line in lines:
     values = line.strip().split(",")
     if len(values) == 4:
-        if len(names) > 0:
-            if year < int(values[0][-4:]):
-                index_path = f"hurdat2JSON/{year}/index.js"
-                os.makedirs(os.path.dirname(index_path), exist_ok=True)
-                with open(index_path, "w") as file:
-                    for name in names:
-                        file.write(f"import {name} from './{name}'\n")
-                    file.write('\n')
-                    file.write(f"const hurdat2_{year} = [\n")
-                    for name in names:                         
-                        file.write(f"   {name},\n")
-                    file.write(']\n')
-                    file.write('\n')
-                    file.write(f"export default hurdat2_{year}")
-                years.append(year)
-                year+=1
-                names = []  
-                number = 0
+        if len(names) > 0: 
+            csv_data=[]
             with open(csv_path, "r", newline="") as file:
-                csv_data=[]
                 reader = csv.DictReader(file)
                 for row in reader:
                     for key, value in row.items():
@@ -44,7 +27,7 @@ for line in lines:
                                 row[key] = -float(value[:-1])
                         else:
                             if key != "date" and key != "time_utc":
-                                if value.isdigit() or value[1:].isdigit():
+                                if value.isdigit() or (value.startswith('-') and value[1:].isdigit()):
                                     row[key] = int(value)
                                 else: 
                                     row[key] = value
@@ -68,6 +51,23 @@ for line in lines:
             })
             with open(json_path, "w") as file:
                 json.dump(json_data, file, indent=2)
+            if year < int(values[0][-4:]):
+                index_path = f"hurdat2JSON/{year}/index.js"
+                os.makedirs(os.path.dirname(index_path), exist_ok=True)
+                with open(index_path, "w") as file:
+                    for name in names:
+                        file.write(f"import {name} from './{name}'\n")
+                    file.write('\n')
+                    file.write(f"const hurdat2_{year} = [\n")
+                    for name in names:                         
+                        file.write(f"   {name},\n")
+                    file.write(']\n')
+                    file.write('\n')
+                    file.write(f"export default hurdat2_{year}")
+                years.append(year)
+                year+=1
+                names = []  
+                number = 0
         name = values[1].replace(" ", "")
         if name == "UNNAMED":
             number+=1
