@@ -19,7 +19,7 @@ for line in lines:
                 json.dump(season, file, indent=2)
             season = []
         year = values[0][-4:]
-        name = values[1]
+        name = values[1].capitalize()
         id = f"{values[0]}_{name}"
         csv_path = f"./hurdat2_csv/{year}/{id}.csv"
         if os.path.exists(csv_path):
