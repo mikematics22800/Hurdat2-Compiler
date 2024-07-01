@@ -2,7 +2,7 @@
   {
     "id": "AL012005_Arlene",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -609,7 +609,7 @@
   {
     "id": "AL022005_Bret",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -779,7 +779,7 @@
   {
     "id": "AL032005_Cindy",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -1570,7 +1570,7 @@
   {
     "id": "AL042005_Dennis",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -2936,7 +2936,7 @@
   {
     "id": "AL052005_Emily",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3980,7 +3980,7 @@
   {
     "id": "AL062005_Franklin",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -4863,7 +4863,7 @@
   {
     "id": "AL072005_Gert",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -5079,7 +5079,7 @@
   {
     "id": "AL082005_Harvey",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -6146,7 +6146,7 @@
   {
     "id": "AL092005_Irene",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -7443,7 +7443,7 @@
   {
     "id": "AL102005_Ten",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -7935,7 +7935,7 @@
   {
     "id": "AL112005_Jose",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -8082,7 +8082,7 @@
   {
     "id": "AL122005_Katrina",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -8873,7 +8873,7 @@
   {
     "id": "AL132005_Lee",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -9480,7 +9480,7 @@
   {
     "id": "AL142005_Maria",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -10662,7 +10662,7 @@
   {
     "id": "AL152005_Nate",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -11338,7 +11338,7 @@
   {
     "id": "AL162005_Ophelia",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -12934,7 +12934,7 @@
   {
     "id": "AL172005_Philippe",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -13587,7 +13587,7 @@
   {
     "id": "AL182005_Rita",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -14424,7 +14424,7 @@
   {
     "id": "AL192005_Nineteen",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -14640,7 +14640,7 @@
   {
     "id": "AL202005_Stan",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -15040,7 +15040,7 @@
   {
     "id": "AL212005_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -15210,7 +15210,7 @@
   {
     "id": "AL222005_Tammy",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -15426,7 +15426,7 @@
   {
     "id": "AL232005_Twenty-two",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -16056,7 +16056,7 @@
   {
     "id": "AL242005_Vince",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -16410,7 +16410,7 @@
   {
     "id": "AL252005_Wilma",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -17523,7 +17523,7 @@
   {
     "id": "AL262005_Alpha",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -17785,7 +17785,7 @@
   {
     "id": "AL272005_Beta",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -18208,7 +18208,7 @@
   {
     "id": "AL282005_Gamma",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -18976,7 +18976,7 @@
   {
     "id": "AL292005_Delta",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -19951,7 +19951,7 @@
   {
     "id": "AL302005_Epsilon",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -20949,7 +20949,7 @@
   {
     "id": "AL312005_Zeta",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [

@@ -2,7 +2,7 @@
   {
     "id": "AL011991_Ana",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -586,7 +586,7 @@
   {
     "id": "AL021991_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -733,7 +733,7 @@
   {
     "id": "AL031991_Bob",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -2007,7 +2007,7 @@
   {
     "id": "AL041991_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -2177,7 +2177,7 @@
   {
     "id": "AL051991_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -2485,7 +2485,7 @@
   {
     "id": "AL061991_Claudette",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3483,7 +3483,7 @@
   {
     "id": "AL071991_Danny",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3929,7 +3929,7 @@
   {
     "id": "AL081991_Erika",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -4352,7 +4352,7 @@
   {
     "id": "AL091991_Fabian",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -4614,7 +4614,7 @@
   {
     "id": "AL101991_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -4738,7 +4738,7 @@
   {
     "id": "AL111991_Grace",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -5161,7 +5161,7 @@
   {
     "id": "AL121991_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [

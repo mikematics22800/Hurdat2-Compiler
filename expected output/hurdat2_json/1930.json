@@ -2,7 +2,7 @@
   {
     "id": "AL011930_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -1161,7 +1161,7 @@
   {
     "id": "AL021930_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3033,7 +3033,7 @@
   {
     "id": "AL031930_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [

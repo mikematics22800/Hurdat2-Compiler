@@ -2,7 +2,7 @@
   {
     "id": "AL012002_Arthur",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -471,7 +471,7 @@
   {
     "id": "AL022002_Bertha",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -1009,7 +1009,7 @@
   {
     "id": "AL032002_Cristobal",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -1317,7 +1317,7 @@
   {
     "id": "AL042002_Dolly",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -1924,7 +1924,7 @@
   {
     "id": "AL052002_Edouard",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -2416,7 +2416,7 @@
   {
     "id": "AL062002_Fay",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -2954,7 +2954,7 @@
   {
     "id": "AL072002_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3078,7 +3078,7 @@
   {
     "id": "AL082002_Gustav",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3777,7 +3777,7 @@
   {
     "id": "AL092002_Hanna",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -4177,7 +4177,7 @@
   {
     "id": "AL102002_Isidore",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -5451,7 +5451,7 @@
   {
     "id": "AL112002_Josephine",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -5667,7 +5667,7 @@
   {
     "id": "AL122002_Kyle",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -7746,7 +7746,7 @@
   {
     "id": "AL132002_Lili",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -9066,7 +9066,7 @@
   {
     "id": "AL142002_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [

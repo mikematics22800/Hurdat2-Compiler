@@ -2,7 +2,7 @@
   {
     "id": "AL011995_Allison",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -816,7 +816,7 @@
   {
     "id": "AL021995_Barry",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -1377,7 +1377,7 @@
   {
     "id": "AL031995_Chantal",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -2329,7 +2329,7 @@
   {
     "id": "AL041995_Dean",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -2844,7 +2844,7 @@
   {
     "id": "AL051995_Erin",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3543,7 +3543,7 @@
   {
     "id": "AL061995_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3759,7 +3759,7 @@
   {
     "id": "AL071995_Felix",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -5355,7 +5355,7 @@
   {
     "id": "AL081995_Gabrielle",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -5617,7 +5617,7 @@
   {
     "id": "AL091995_Humberto",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -6569,7 +6569,7 @@
   {
     "id": "AL101995_Iris",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -8096,7 +8096,7 @@
   {
     "id": "AL111995_Jerry",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -8611,7 +8611,7 @@
   {
     "id": "AL121995_Karen",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -9333,7 +9333,7 @@
   {
     "id": "AL131995_Luis",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -10745,7 +10745,7 @@
   {
     "id": "AL141995_Unnamed",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -11145,7 +11145,7 @@
   {
     "id": "AL151995_Marilyn",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -12971,7 +12971,7 @@
   {
     "id": "AL161995_Noel",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -14015,7 +14015,7 @@
   {
     "id": "AL171995_Opal",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -14921,7 +14921,7 @@
   {
     "id": "AL181995_Pablo",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -15298,7 +15298,7 @@
   {
     "id": "AL191995_Roxanne",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -16595,7 +16595,7 @@
   {
     "id": "AL201995_Sebastien",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -17041,7 +17041,7 @@
   {
     "id": "AL211995_Tanya",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [

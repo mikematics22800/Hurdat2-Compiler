@@ -2,7 +2,7 @@
   {
     "id": "AL012020_Arthur",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -425,7 +425,7 @@
   {
     "id": "AL022020_Bertha",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -595,7 +595,7 @@
   {
     "id": "AL032020_Cristobal",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -1639,7 +1639,7 @@
   {
     "id": "AL042020_Dolly",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -1924,7 +1924,7 @@
   {
     "id": "AL052020_Edouard",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -2439,7 +2439,7 @@
   {
     "id": "AL062020_Fay",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3069,7 +3069,7 @@
   {
     "id": "AL072020_Gonzalo",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -3607,7 +3607,7 @@
   {
     "id": "AL082020_Hanna",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -4030,7 +4030,7 @@
   {
     "id": "AL092020_Isaias",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -4867,7 +4867,7 @@
   {
     "id": "AL102020_Ten",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -5198,7 +5198,7 @@
   {
     "id": "AL112020_Josephine",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -5759,7 +5759,7 @@
   {
     "id": "AL122020_Kyle",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -5929,7 +5929,7 @@
   {
     "id": "AL132020_Laura",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -6904,7 +6904,7 @@
   {
     "id": "AL142020_Marco",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -7396,7 +7396,7 @@
   {
     "id": "AL152020_Omar",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -8026,7 +8026,7 @@
   {
     "id": "AL162020_Nana",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -8334,7 +8334,7 @@
   {
     "id": "AL172020_Paulette",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -10367,7 +10367,7 @@
   {
     "id": "AL182020_Rene",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -11112,7 +11112,7 @@
   {
     "id": "AL192020_Sally",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -11765,7 +11765,7 @@
   {
     "id": "AL202020_Teddy",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -12901,7 +12901,7 @@
   {
     "id": "AL212020_Vicky",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -13462,7 +13462,7 @@
   {
     "id": "AL222020_Beta",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -14253,7 +14253,7 @@
   {
     "id": "AL232020_Wilfred",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -14653,7 +14653,7 @@
   {
     "id": "AL242020_Alpha",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -15122,7 +15122,7 @@
   {
     "id": "AL252020_Gamma",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -15614,7 +15614,7 @@
   {
     "id": "AL262020_Delta",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -16336,7 +16336,7 @@
   {
     "id": "AL272020_Epsilon",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -17288,7 +17288,7 @@
   {
     "id": "AL282020_Zeta",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -17872,7 +17872,7 @@
   {
     "id": "AL292020_Eta",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -19215,7 +19215,7 @@
   {
     "id": "AL302020_Theta",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -19983,7 +19983,7 @@
   {
     "id": "AL312020_Iota",
     "image": "",
-    "fatalaties": 0,
+    "fatalities": 0,
     "cost_usd": 0,
     "retired": "false",
     "data": [

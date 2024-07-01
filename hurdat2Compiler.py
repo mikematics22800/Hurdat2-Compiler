@@ -46,7 +46,7 @@ for line in lines:
             storm = {
                 "id": id,
                 "image": "",
-                "fatalaties": 0,
+                "fatalities": 0,
                 "cost_usd": 0,
                 "retired": "false",
                 "data": data
