@@ -85,6 +85,15 @@ for values in metadata:
         # Create a storm dictionary and append it to the season list
         storm = {
             "id": id,
+            "image": "",
+            "fatalities": 0,
+            "cost_usd": 0,
+            "retired": "false",
             "data": data
         }
         season.append(storm)
+
+# Write the JSON file for the last year
+json_path = f"./hurdat2_json/{year}.json"
+with open(json_path, "w") as json_file:
+    json.dump(season, json_file, indent=2)
