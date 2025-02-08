@@ -5,7 +5,7 @@
 - [Usage](#usage)
 - [License](#license)
 ## Description
-A python script that compiles hurdat2.txt into CSV, JSON, and JS files, and exports those files into neatly labeled directories and subdirectories.
+This script compiles and exports National Hurricane Center archives into CSV and JSON format. 
 ## Installation
 ```
 cd $directory
