@@ -13,7 +13,7 @@ git clone https://github.com/mikemedina22800/Hurdat2-Compilier
 cd Hurdat2-Compilier
 ```
 ## Usage
-After installation, run the application in an Anaconda environment. If the generated arrays are empty, run it once more.
+After installation, run the application in an Anaconda environment.
 
 ## License
 [![alt text](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
