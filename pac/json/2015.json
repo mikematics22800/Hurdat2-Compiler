@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012015_Andres",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150528",
@@ -1130,10 +1126,6 @@
   },
   {
     "id": "EP022015_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150531",
@@ -2231,10 +2223,6 @@
   },
   {
     "id": "EP032015_Carlos",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150610",
@@ -3136,10 +3124,6 @@
   },
   {
     "id": "EP042015_Ela",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150707",
@@ -3733,10 +3717,6 @@
   },
   {
     "id": "CP012015_Halola",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150706",
@@ -5982,10 +5962,6 @@
   },
   {
     "id": "CP022015_Iune",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150708",
@@ -6971,10 +6947,6 @@
   },
   {
     "id": "EP052015_Dolores",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150711",
@@ -8240,10 +8212,6 @@
   },
   {
     "id": "EP062015_Enrique",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150712",
@@ -9313,10 +9281,6 @@
   },
   {
     "id": "EP072015_Felicia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150722",
@@ -9938,10 +9902,6 @@
   },
   {
     "id": "EP082015_Eight",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150727",
@@ -10395,10 +10355,6 @@
   },
   {
     "id": "EP092015_Guillermo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150727",
@@ -11804,10 +11760,6 @@
   },
   {
     "id": "EP102015_Hilda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150806",
@@ -12821,10 +12773,6 @@
   },
   {
     "id": "EP112015_Eleven",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150816",
@@ -13306,10 +13254,6 @@
   },
   {
     "id": "CP032015_Kilo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150820",
@@ -15863,10 +15807,6 @@
   },
   {
     "id": "CP042015_Loke",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150819",
@@ -16768,10 +16708,6 @@
   },
   {
     "id": "EP122015_Ignacio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150823",
@@ -18569,10 +18505,6 @@
   },
   {
     "id": "EP132015_Jimena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150825",
@@ -20342,10 +20274,6 @@
   },
   {
     "id": "EP142015_Kevin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150831",
@@ -20995,10 +20923,6 @@
   },
   {
     "id": "EP152015_Linda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150904",
@@ -22152,10 +22076,6 @@
   },
   {
     "id": "CP052015_Malia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150917",
@@ -22833,10 +22753,6 @@
   },
   {
     "id": "EP162015_Sixteen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150920",
@@ -23038,10 +22954,6 @@
   },
   {
     "id": "CP062015_Niala",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150923",
@@ -23915,10 +23827,6 @@
   },
   {
     "id": "EP172015_Marty",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150926",
@@ -24428,10 +24336,6 @@
   },
   {
     "id": "CP072015_Oho",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20151001",
@@ -25501,10 +25405,6 @@
   },
   {
     "id": "CP082015_Eight",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20151002",
@@ -26042,10 +25942,6 @@
   },
   {
     "id": "EP182015_Nora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20151009",
@@ -26807,10 +26703,6 @@
   },
   {
     "id": "EP192015_Olaf",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20151015",
@@ -28356,10 +28248,6 @@
   },
   {
     "id": "EP202015_Patricia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20151020",
@@ -28897,10 +28785,6 @@
   },
   {
     "id": "EP212015_Rick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20151118",
@@ -29830,10 +29714,6 @@
   },
   {
     "id": "EP222015_Sandra",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20151123",
@@ -30539,10 +30419,6 @@
   },
   {
     "id": "CP092015_Nine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20151227",

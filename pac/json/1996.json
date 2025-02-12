@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011996_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960513",
@@ -160,10 +156,6 @@
   },
   {
     "id": "EP021996_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960515",
@@ -319,10 +311,6 @@
   },
   {
     "id": "EP031996_Alma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960620",
@@ -628,10 +616,6 @@
   },
   {
     "id": "EP041996_Boris",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960627",
@@ -827,10 +811,6 @@
   },
   {
     "id": "EP051996_Cristina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960701",
@@ -946,10 +926,6 @@
   },
   {
     "id": "EP061996_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960704",
@@ -1015,10 +991,6 @@
   },
   {
     "id": "EP071996_Douglas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960729",
@@ -1354,10 +1326,6 @@
   },
   {
     "id": "EP081996_Elida",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960830",
@@ -1653,10 +1621,6 @@
   },
   {
     "id": "CP011996_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960916",
@@ -1862,10 +1826,6 @@
   },
   {
     "id": "EP091996_Fausto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960910",
@@ -2081,10 +2041,6 @@
   },
   {
     "id": "EP101996_Genevieve",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960927",
@@ -2550,10 +2506,6 @@
   },
   {
     "id": "EP111996_Hernan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960930",
@@ -2759,10 +2711,6 @@
   },
   {
     "id": "EP121996_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19961107",

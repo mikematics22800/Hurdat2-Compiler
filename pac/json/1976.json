@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011976_Annette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760603",
@@ -470,10 +466,6 @@
   },
   {
     "id": "EP021976_Bonny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760626",
@@ -639,10 +631,6 @@
   },
   {
     "id": "EP031976_Celeste",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760714",
@@ -858,10 +846,6 @@
   },
   {
     "id": "EP041976_Diana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760716",
@@ -1167,10 +1151,6 @@
   },
   {
     "id": "EP051976_Estelle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760727",
@@ -1266,10 +1246,6 @@
   },
   {
     "id": "EP061976_Fernanda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760728",
@@ -1485,10 +1461,6 @@
   },
   {
     "id": "EP071976_Gwen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760805",
@@ -2034,10 +2006,6 @@
   },
   {
     "id": "EP081976_Hyacinth",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760806",
@@ -2353,10 +2321,6 @@
   },
   {
     "id": "EP091976_Iva",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760824",
@@ -2732,10 +2696,6 @@
   },
   {
     "id": "EP101976_Joanne",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760829",
@@ -3151,10 +3111,6 @@
   },
   {
     "id": "EP111976_Kathleen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760907",
@@ -3330,10 +3286,6 @@
   },
   {
     "id": "CP011976_Kate",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760922",
@@ -3759,10 +3711,6 @@
   },
   {
     "id": "EP121976_Liza",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760925",
@@ -4028,10 +3976,6 @@
   },
   {
     "id": "EP131976_Madeline",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19760929",
@@ -4437,10 +4381,6 @@
   },
   {
     "id": "EP141976_Naomi",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19761025",

@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011960_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19600622",
@@ -280,10 +276,6 @@
   },
   {
     "id": "AL021960_Abby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19600709",
@@ -629,10 +621,6 @@
   },
   {
     "id": "AL031960_Brenda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19600727",
@@ -1098,10 +1086,6 @@
   },
   {
     "id": "AL041960_Cleo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19600817",
@@ -1247,10 +1231,6 @@
   },
   {
     "id": "AL051960_Donna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19600829",
@@ -1976,10 +1956,6 @@
   },
   {
     "id": "AL061960_Ethel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19600912",
@@ -2205,10 +2181,6 @@
   },
   {
     "id": "AL071960_Florence",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19600917",
@@ -2614,10 +2586,6 @@
   },
   {
     "id": "AL081960_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19600901",

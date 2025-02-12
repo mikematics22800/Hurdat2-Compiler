@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012020_Arthur",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200516",
@@ -514,10 +510,6 @@
   },
   {
     "id": "AL022020_Bertha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200527",
@@ -719,10 +711,6 @@
   },
   {
     "id": "AL032020_Cristobal",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200601",
@@ -1988,10 +1976,6 @@
   },
   {
     "id": "AL042020_Dolly",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200622",
@@ -2333,10 +2317,6 @@
   },
   {
     "id": "AL052020_Edouard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200704",
@@ -2958,10 +2938,6 @@
   },
   {
     "id": "AL062020_Fay",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200705",
@@ -3723,10 +3699,6 @@
   },
   {
     "id": "AL072020_Gonzalo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200720",
@@ -4376,10 +4348,6 @@
   },
   {
     "id": "AL082020_Hanna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200723",
@@ -4889,10 +4857,6 @@
   },
   {
     "id": "AL092020_Isaias",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200728",
@@ -5906,10 +5870,6 @@
   },
   {
     "id": "AL102020_Ten",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200729",
@@ -6307,10 +6267,6 @@
   },
   {
     "id": "AL112020_Josephine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200810",
@@ -6988,10 +6944,6 @@
   },
   {
     "id": "AL122020_Kyle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200814",
@@ -7193,10 +7145,6 @@
   },
   {
     "id": "AL132020_Laura",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200820",
@@ -8378,10 +8326,6 @@
   },
   {
     "id": "AL142020_Marco",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200820",
@@ -8975,10 +8919,6 @@
   },
   {
     "id": "AL152020_Omar",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200830",
@@ -9740,10 +9680,6 @@
   },
   {
     "id": "AL162020_Nana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200901",
@@ -10113,10 +10049,6 @@
   },
   {
     "id": "AL172020_Paulette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200907",
@@ -12586,10 +12518,6 @@
   },
   {
     "id": "AL182020_Rene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200906",
@@ -13491,10 +13419,6 @@
   },
   {
     "id": "AL192020_Sally",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200911",
@@ -14284,10 +14208,6 @@
   },
   {
     "id": "AL202020_Teddy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200912",
@@ -15665,10 +15585,6 @@
   },
   {
     "id": "AL212020_Vicky",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200914",
@@ -16346,10 +16262,6 @@
   },
   {
     "id": "AL222020_Beta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200917",
@@ -17307,10 +17219,6 @@
   },
   {
     "id": "AL232020_Wilfred",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200917",
@@ -17792,10 +17700,6 @@
   },
   {
     "id": "AL242020_Alpha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200914",
@@ -18361,10 +18265,6 @@
   },
   {
     "id": "AL252020_Gamma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201002",
@@ -18958,10 +18858,6 @@
   },
   {
     "id": "AL262020_Delta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201004",
@@ -19835,10 +19731,6 @@
   },
   {
     "id": "AL272020_Epsilon",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201016",
@@ -20992,10 +20884,6 @@
   },
   {
     "id": "AL282020_Zeta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201024",
@@ -21701,10 +21589,6 @@
   },
   {
     "id": "AL292020_Eta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201031",
@@ -23334,10 +23218,6 @@
   },
   {
     "id": "AL302020_Theta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201108",
@@ -24267,10 +24147,6 @@
   },
   {
     "id": "AL312020_Iota",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201112",

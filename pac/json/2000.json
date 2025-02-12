@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012000_Aletta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000522",
@@ -240,10 +236,6 @@
   },
   {
     "id": "EP022000_Bud",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000613",
@@ -429,10 +421,6 @@
   },
   {
     "id": "EP032000_Carlotta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000618",
@@ -708,10 +696,6 @@
   },
   {
     "id": "EP042000_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000706",
@@ -767,10 +751,6 @@
   },
   {
     "id": "CP012000_Upana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000720",
@@ -956,10 +936,6 @@
   },
   {
     "id": "EP052000_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000722",
@@ -1035,10 +1011,6 @@
   },
   {
     "id": "EP062000_Daniel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000723",
@@ -1584,10 +1556,6 @@
   },
   {
     "id": "EP072000_Emilia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000726",
@@ -1753,10 +1721,6 @@
   },
   {
     "id": "EP082000_Fabio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000803",
@@ -1952,10 +1916,6 @@
   },
   {
     "id": "EP092000_Gilma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000805",
@@ -2211,10 +2171,6 @@
   },
   {
     "id": "EP102000_Hector",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000810",
@@ -2470,10 +2426,6 @@
   },
   {
     "id": "EP112000_Ileana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000813",
@@ -2619,10 +2571,6 @@
   },
   {
     "id": "CP022000_Wene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000816",
@@ -2688,10 +2636,6 @@
   },
   {
     "id": "EP122000_John",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000828",
@@ -2877,10 +2821,6 @@
   },
   {
     "id": "EP132000_Kristy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000831",
@@ -3016,10 +2956,6 @@
   },
   {
     "id": "EP142000_Lane",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000905",
@@ -3395,10 +3331,6 @@
   },
   {
     "id": "EP152000_Miriam",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000915",
@@ -3484,10 +3416,6 @@
   },
   {
     "id": "EP162000_Norman",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20000920",
@@ -3633,10 +3561,6 @@
   },
   {
     "id": "EP172000_Olivia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20001002",
@@ -3962,10 +3886,6 @@
   },
   {
     "id": "EP182000_Paul",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20001025",
@@ -4131,10 +4051,6 @@
   },
   {
     "id": "EP192000_Rosa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20001103",

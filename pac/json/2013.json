@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012013_Alvin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130513",
@@ -430,10 +426,6 @@
   },
   {
     "id": "EP022013_Barbara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130528",
@@ -747,10 +739,6 @@
   },
   {
     "id": "EP032013_Cosme",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130623",
@@ -1596,10 +1584,6 @@
   },
   {
     "id": "EP042013_Dalila",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130628",
@@ -2753,10 +2737,6 @@
   },
   {
     "id": "EP052013_Erick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130704",
@@ -3378,10 +3358,6 @@
   },
   {
     "id": "EP062013_Flossie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130725",
@@ -4031,10 +4007,6 @@
   },
   {
     "id": "EP072013_Gil",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130730",
@@ -4936,10 +4908,6 @@
   },
   {
     "id": "EP082013_Henriette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130802",
@@ -6093,10 +6061,6 @@
   },
   {
     "id": "CP012013_Pewa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130815",
@@ -7278,10 +7242,6 @@
   },
   {
     "id": "CP022013_Unala",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130812",
@@ -8099,10 +8059,6 @@
   },
   {
     "id": "CP032013_Three",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130809",
@@ -9452,10 +9408,6 @@
   },
   {
     "id": "EP092013_Ivo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130820",
@@ -10329,10 +10281,6 @@
   },
   {
     "id": "EP102013_Juliette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130828",
@@ -10646,10 +10594,6 @@
   },
   {
     "id": "EP112013_Kiko",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130829",
@@ -11299,10 +11243,6 @@
   },
   {
     "id": "EP122013_Lorena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130904",
@@ -11840,10 +11780,6 @@
   },
   {
     "id": "EP132013_Manuel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130913",
@@ -12577,10 +12513,6 @@
   },
   {
     "id": "EP142013_Narda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20131006",
@@ -13258,10 +13190,6 @@
   },
   {
     "id": "EP152013_Octave",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20131012",
@@ -13687,10 +13615,6 @@
   },
   {
     "id": "EP162013_Priscilla",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20131013",
@@ -14284,10 +14208,6 @@
   },
   {
     "id": "EP172013_Raymond",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20131019",
@@ -15693,10 +15613,6 @@
   },
   {
     "id": "EP182013_Sonia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20131101",

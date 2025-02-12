@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011961_Anna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610717",
@@ -330,10 +326,6 @@
   },
   {
     "id": "AL021961_Betsy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610902",
@@ -919,10 +911,6 @@
   },
   {
     "id": "AL031961_Carla",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610903",
@@ -1528,10 +1516,6 @@
   },
   {
     "id": "AL041961_Debbie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610905",
@@ -2087,10 +2071,6 @@
   },
   {
     "id": "AL051961_Esther",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610910",
@@ -2796,10 +2776,6 @@
   },
   {
     "id": "AL061961_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610912",
@@ -2955,10 +2931,6 @@
   },
   {
     "id": "AL071961_Frances",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610930",
@@ -3394,10 +3366,6 @@
   },
   {
     "id": "AL081961_Gerda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19611017",
@@ -3633,10 +3601,6 @@
   },
   {
     "id": "AL091961_Hattie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19611026",
@@ -3902,10 +3866,6 @@
   },
   {
     "id": "AL101961_Jenny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19611102",
@@ -4291,10 +4251,6 @@
   },
   {
     "id": "AL111961_Inga",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19611104",
@@ -4500,10 +4456,6 @@
   },
   {
     "id": "AL121961_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19611117",

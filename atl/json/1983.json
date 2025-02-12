@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011983_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830723",
@@ -230,10 +226,6 @@
   },
   {
     "id": "AL021983_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830727",
@@ -489,10 +481,6 @@
   },
   {
     "id": "AL031983_Alicia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830815",
@@ -748,10 +736,6 @@
   },
   {
     "id": "AL041983_Barry",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830823",
@@ -1017,10 +1001,6 @@
   },
   {
     "id": "AL051983_Chantal",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830910",
@@ -1226,10 +1206,6 @@
   },
   {
     "id": "AL061983_Dean",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830926",

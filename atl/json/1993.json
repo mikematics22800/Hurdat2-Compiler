@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011993_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930531",
@@ -120,10 +116,6 @@
   },
   {
     "id": "AL021993_Arlene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930618",
@@ -279,10 +271,6 @@
   },
   {
     "id": "AL031993_Bret",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930804",
@@ -618,10 +606,6 @@
   },
   {
     "id": "AL041993_Cindy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930814",
@@ -747,10 +731,6 @@
   },
   {
     "id": "AL051993_Emily",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930822",
@@ -1366,10 +1346,6 @@
   },
   {
     "id": "AL061993_Dennis",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930823",
@@ -1585,10 +1561,6 @@
   },
   {
     "id": "AL071993_Floyd",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930907",
@@ -1824,10 +1796,6 @@
   },
   {
     "id": "AL081993_Gert",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930914",
@@ -2133,10 +2101,6 @@
   },
   {
     "id": "AL091993_Harvey",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930918",
@@ -2272,10 +2236,6 @@
   },
   {
     "id": "AL101993_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19930929",

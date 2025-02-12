@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011951_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19510102",
@@ -420,10 +416,6 @@
   },
   {
     "id": "AL021951_Able",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19510516",
@@ -789,10 +781,6 @@
   },
   {
     "id": "AL031951_Baker",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19510802",
@@ -948,10 +936,6 @@
   },
   {
     "id": "AL041951_Charlie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19510812",
@@ -1477,10 +1461,6 @@
   },
   {
     "id": "AL051951_Dog",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19510827",
@@ -1866,10 +1846,6 @@
   },
   {
     "id": "AL061951_Easy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19510901",
@@ -2425,10 +2401,6 @@
   },
   {
     "id": "AL071951_Fox",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19510902",
@@ -2784,10 +2756,6 @@
   },
   {
     "id": "AL081951_George",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19510919",
@@ -2903,10 +2871,6 @@
   },
   {
     "id": "AL091951_How",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19510929",
@@ -3442,10 +3406,6 @@
   },
   {
     "id": "AL101951_Item",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19511012",
@@ -3681,10 +3641,6 @@
   },
   {
     "id": "AL111951_Jig",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19511015",
@@ -3890,10 +3846,6 @@
   },
   {
     "id": "AL121951_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19511203",

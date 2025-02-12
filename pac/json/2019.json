@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012019_Alvin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190625",
@@ -542,10 +538,6 @@
   },
   {
     "id": "EP022019_Barbara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190630",
@@ -1475,10 +1467,6 @@
   },
   {
     "id": "EP032019_Cosme",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190706",
@@ -1988,10 +1976,6 @@
   },
   {
     "id": "EP042019_Four",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190712",
@@ -2361,10 +2345,6 @@
   },
   {
     "id": "EP052019_Dalila",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190722",
@@ -2874,10 +2854,6 @@
   },
   {
     "id": "EP062019_Erick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190727",
@@ -4199,10 +4175,6 @@
   },
   {
     "id": "EP072019_Flossie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190728",
@@ -5300,10 +5272,6 @@
   },
   {
     "id": "EP082019_Gil",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190802",
@@ -5701,10 +5669,6 @@
   },
   {
     "id": "EP092019_Henriette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190811",
@@ -6102,10 +6066,6 @@
   },
   {
     "id": "EP102019_Ivo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190821",
@@ -6783,10 +6743,6 @@
   },
   {
     "id": "EP112019_Juliette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190901",
@@ -7772,10 +7728,6 @@
   },
   {
     "id": "EP122019_Akoni",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190903",
@@ -8201,10 +8153,6 @@
   },
   {
     "id": "EP132019_Kiko",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190912",
@@ -9862,10 +9810,6 @@
   },
   {
     "id": "EP142019_Mario",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190916",
@@ -10823,10 +10767,6 @@
   },
   {
     "id": "EP152019_Lorena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190917",
@@ -11476,10 +11416,6 @@
   },
   {
     "id": "EP162019_Narda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190928",
@@ -11849,10 +11785,6 @@
   },
   {
     "id": "CP012019_Ema",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191011",
@@ -12418,10 +12350,6 @@
   },
   {
     "id": "EP182019_Octave",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191017",
@@ -12931,10 +12859,6 @@
   },
   {
     "id": "EP192019_Priscilla",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191019",
@@ -13164,10 +13088,6 @@
   },
   {
     "id": "EP202019_Raymond",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191113",
@@ -13705,10 +13625,6 @@
   },
   {
     "id": "EP212019_Twentyone",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191115",

@@ -1,10 +1,6 @@
 [
   {
     "id": "AL031969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690608",
@@ -70,10 +66,6 @@
   },
   {
     "id": "AL051969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690725",
@@ -149,10 +141,6 @@
   },
   {
     "id": "AL061969_Anna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690725",
@@ -588,10 +576,6 @@
   },
   {
     "id": "AL071969_Blanche",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690810",
@@ -767,10 +751,6 @@
   },
   {
     "id": "AL081969_Debbie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690814",
@@ -1306,10 +1286,6 @@
   },
   {
     "id": "AL091969_Camille",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690814",
@@ -1685,10 +1661,6 @@
   },
   {
     "id": "AL121969_Eve",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690824",
@@ -1804,10 +1776,6 @@
   },
   {
     "id": "AL131969_Francelia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690829",
@@ -2093,10 +2061,6 @@
   },
   {
     "id": "AL151969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690907",
@@ -2212,10 +2176,6 @@
   },
   {
     "id": "AL161969_Gerda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690907",
@@ -2451,10 +2411,6 @@
   },
   {
     "id": "AL171969_Holly",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690913",
@@ -2670,10 +2626,6 @@
   },
   {
     "id": "AL191969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690919",
@@ -2849,10 +2801,6 @@
   },
   {
     "id": "AL201969_Inga",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690920",
@@ -3868,10 +3816,6 @@
   },
   {
     "id": "AL211969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690921",
@@ -4217,10 +4161,6 @@
   },
   {
     "id": "AL221969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690923",
@@ -4496,10 +4436,6 @@
   },
   {
     "id": "AL231969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690929",
@@ -4665,10 +4601,6 @@
   },
   {
     "id": "AL241969_Jenny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19691001",
@@ -4834,10 +4766,6 @@
   },
   {
     "id": "AL251969_Kara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19691007",
@@ -5323,10 +5251,6 @@
   },
   {
     "id": "AL261969_Laurie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19691017",
@@ -5752,10 +5676,6 @@
   },
   {
     "id": "AL271969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19691028",
@@ -5941,10 +5861,6 @@
   },
   {
     "id": "AL281969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19691028",
@@ -6420,10 +6336,6 @@
   },
   {
     "id": "AL291969_Martha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19691120",
@@ -6639,10 +6551,6 @@
   },
   {
     "id": "AL301969_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690807",

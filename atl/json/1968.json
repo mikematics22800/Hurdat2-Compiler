@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011968_Abby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680601",
@@ -530,10 +526,6 @@
   },
   {
     "id": "AL021968_Brenda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680618",
@@ -889,10 +881,6 @@
   },
   {
     "id": "AL031968_Candy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680622",
@@ -1098,10 +1086,6 @@
   },
   {
     "id": "AL051968_Dolly",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680810",
@@ -1387,10 +1371,6 @@
   },
   {
     "id": "AL061968_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680826",
@@ -1616,10 +1596,6 @@
   },
   {
     "id": "AL081968_Edna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680913",
@@ -1795,10 +1771,6 @@
   },
   {
     "id": "AL091968_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680914",
@@ -2234,10 +2206,6 @@
   },
   {
     "id": "AL101968_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680918",
@@ -2343,10 +2311,6 @@
   },
   {
     "id": "AL121968_Frances",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680923",
@@ -2612,10 +2576,6 @@
   },
   {
     "id": "AL131968_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680925",
@@ -2731,10 +2691,6 @@
   },
   {
     "id": "AL141968_Gladys",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19681013",
@@ -3100,10 +3056,6 @@
   },
   {
     "id": "AL151968_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19681124",
@@ -3139,10 +3091,6 @@
   },
   {
     "id": "AL161968_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19680910",

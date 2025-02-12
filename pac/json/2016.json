@@ -1,10 +1,6 @@
 [
   {
     "id": "CP012016_Pali",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160106",
@@ -1018,10 +1014,6 @@
   },
   {
     "id": "EP012016_One",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160606",
@@ -1279,10 +1271,6 @@
   },
   {
     "id": "EP022016_Agatha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160701",
@@ -2100,10 +2088,6 @@
   },
   {
     "id": "EP032016_Blas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160702",
@@ -3145,10 +3129,6 @@
   },
   {
     "id": "EP042016_Celia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160706",
@@ -4918,10 +4898,6 @@
   },
   {
     "id": "EP052016_Darby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160711",
@@ -6635,10 +6611,6 @@
   },
   {
     "id": "EP062016_Estelle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160715",
@@ -7708,10 +7680,6 @@
   },
   {
     "id": "EP072016_Frank",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160721",
@@ -8809,10 +8777,6 @@
   },
   {
     "id": "EP082016_Georgette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160721",
@@ -9854,10 +9818,6 @@
   },
   {
     "id": "EP092016_Howard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160731",
@@ -10675,10 +10635,6 @@
   },
   {
     "id": "EP102016_Ivette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160803",
@@ -11608,10 +11564,6 @@
   },
   {
     "id": "EP112016_Javier",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160806",
@@ -12093,10 +12045,6 @@
   },
   {
     "id": "EP122016_Kay",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160817",
@@ -13166,10 +13114,6 @@
   },
   {
     "id": "EP132016_Lester",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160824",
@@ -14855,10 +14799,6 @@
   },
   {
     "id": "EP142016_Madeline",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160826",
@@ -15788,10 +15728,6 @@
   },
   {
     "id": "EP152016_Newton",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160904",
@@ -16329,10 +16265,6 @@
   },
   {
     "id": "EP162016_Orlene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160910",
@@ -17122,10 +17054,6 @@
   },
   {
     "id": "EP172016_Paine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160918",
@@ -17551,10 +17479,6 @@
   },
   {
     "id": "EP182016_Roslyn",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160925",
@@ -18176,10 +18100,6 @@
   },
   {
     "id": "EP192016_Ulika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20160925",
@@ -19053,10 +18973,6 @@
   },
   {
     "id": "EP202016_Seymour",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20161022",
@@ -19986,10 +19902,6 @@
   },
   {
     "id": "EP212016_Tina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20161113",
@@ -20611,10 +20523,6 @@
   },
   {
     "id": "EP222016_Otto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20161117",

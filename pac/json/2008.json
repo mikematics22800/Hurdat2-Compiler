@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012008_Alma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080529",
@@ -234,10 +230,6 @@
   },
   {
     "id": "EP022008_Boris",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080627",
@@ -1279,10 +1271,6 @@
   },
   {
     "id": "EP032008_Cristina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080627",
@@ -1904,10 +1892,6 @@
   },
   {
     "id": "EP042008_Douglas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080701",
@@ -2445,10 +2429,6 @@
   },
   {
     "id": "EP052008_Five",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080705",
@@ -2650,10 +2630,6 @@
   },
   {
     "id": "EP062008_Elida",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080711",
@@ -3807,10 +3783,6 @@
   },
   {
     "id": "EP072008_Fausto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080716",
@@ -4740,10 +4712,6 @@
   },
   {
     "id": "EP082008_Genevieve",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080721",
@@ -5869,10 +5837,6 @@
   },
   {
     "id": "EP092008_Hernan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080806",
@@ -7026,10 +6990,6 @@
   },
   {
     "id": "CP012008_Kika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080804",
@@ -8379,10 +8339,6 @@
   },
   {
     "id": "EP102008_Iselle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080813",
@@ -9536,10 +9492,6 @@
   },
   {
     "id": "EP112008_Julio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080823",
@@ -9993,10 +9945,6 @@
   },
   {
     "id": "EP122008_Karina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080902",
@@ -10198,10 +10146,6 @@
   },
   {
     "id": "EP132008_Lowell",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080906",
@@ -10823,10 +10767,6 @@
   },
   {
     "id": "EP142008_Marie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081001",
@@ -12904,10 +12844,6 @@
   },
   {
     "id": "EP152008_Norbert",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081004",
@@ -13977,10 +13913,6 @@
   },
   {
     "id": "EP162008_Odile",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081008",
@@ -14574,10 +14506,6 @@
   },
   {
     "id": "EP172008_Seventeen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081023",
@@ -15115,10 +15043,6 @@
   },
   {
     "id": "EP182008_Polo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081102",

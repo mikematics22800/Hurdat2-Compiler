@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011997_Andres",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970601",
@@ -270,10 +266,6 @@
   },
   {
     "id": "EP021997_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970609",
@@ -389,10 +381,6 @@
   },
   {
     "id": "EP031997_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970621",
@@ -498,10 +486,6 @@
   },
   {
     "id": "EP041997_Carlos",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970625",
@@ -627,10 +611,6 @@
   },
   {
     "id": "EP051997_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970629",
@@ -826,10 +806,6 @@
   },
   {
     "id": "EP061997_Dolores",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970705",
@@ -1135,10 +1111,6 @@
   },
   {
     "id": "EP071997_Enrique",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970712",
@@ -1334,10 +1306,6 @@
   },
   {
     "id": "EP081997_Felicia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970714",
@@ -1673,10 +1641,6 @@
   },
   {
     "id": "CP011997_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970726",
@@ -1742,10 +1706,6 @@
   },
   {
     "id": "EP091997_Guillermo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970730",
@@ -2741,10 +2701,6 @@
   },
   {
     "id": "EP101997_Hilda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970810",
@@ -2960,10 +2916,6 @@
   },
   {
     "id": "EP111997_Ignacio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970817",
@@ -3109,10 +3061,6 @@
   },
   {
     "id": "EP121997_Jimena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970825",
@@ -3318,10 +3266,6 @@
   },
   {
     "id": "CP021997_Oliwa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970828",
@@ -4137,10 +4081,6 @@
   },
   {
     "id": "EP131997_Kevin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970903",
@@ -4286,10 +4226,6 @@
   },
   {
     "id": "EP141997_Linda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970909",
@@ -4635,10 +4571,6 @@
   },
   {
     "id": "EP151997_Marty",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970912",
@@ -4804,10 +4736,6 @@
   },
   {
     "id": "EP161997_Nora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970916",
@@ -5243,10 +5171,6 @@
   },
   {
     "id": "EP171997_Olaf",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970926",
@@ -5912,10 +5836,6 @@
   },
   {
     "id": "CP031997_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19971005",
@@ -6021,10 +5941,6 @@
   },
   {
     "id": "EP181997_Pauline",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19971005",
@@ -6230,10 +6146,6 @@
   },
   {
     "id": "CP041997_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19971030",
@@ -6319,10 +6231,6 @@
   },
   {
     "id": "EP191997_Rick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19971107",
@@ -6498,10 +6406,6 @@
   },
   {
     "id": "CP051997_Paka",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19971128",

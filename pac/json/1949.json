@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011949_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19490611",
@@ -80,10 +76,6 @@
   },
   {
     "id": "EP021949_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19490617",
@@ -339,10 +331,6 @@
   },
   {
     "id": "EP031949_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19490903",
@@ -598,10 +586,6 @@
   },
   {
     "id": "EP041949_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19490909",
@@ -697,10 +681,6 @@
   },
   {
     "id": "EP051949_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19490917",
@@ -796,10 +776,6 @@
   },
   {
     "id": "EP061949_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19490929",

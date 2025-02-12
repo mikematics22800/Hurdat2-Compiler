@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012002_Alma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020524",
@@ -330,10 +326,6 @@
   },
   {
     "id": "EP022002_Boris",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020608",
@@ -489,10 +481,6 @@
   },
   {
     "id": "EP032002_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020627",
@@ -578,10 +566,6 @@
   },
   {
     "id": "EP042002_Cristina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020709",
@@ -887,10 +871,6 @@
   },
   {
     "id": "EP052002_Douglas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020720",
@@ -1166,10 +1146,6 @@
   },
   {
     "id": "EP062002_Elida",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020723",
@@ -1525,10 +1501,6 @@
   },
   {
     "id": "EP072002_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020806",
@@ -1624,10 +1596,6 @@
   },
   {
     "id": "EP082002_Fausto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020821",
@@ -2143,10 +2111,6 @@
   },
   {
     "id": "CP012002_Alika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020821",
@@ -2422,10 +2386,6 @@
   },
   {
     "id": "CP022002_Ele",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020825",
@@ -2641,10 +2601,6 @@
   },
   {
     "id": "EP092002_Genevieve",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020826",
@@ -2910,10 +2866,6 @@
   },
   {
     "id": "EP102002_Hernan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020830",
@@ -3229,10 +3181,6 @@
   },
   {
     "id": "EP112002_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020905",
@@ -3418,10 +3366,6 @@
   },
   {
     "id": "EP122002_Iselle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020915",
@@ -3647,10 +3591,6 @@
   },
   {
     "id": "EP132002_Julio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020925",
@@ -3726,10 +3666,6 @@
   },
   {
     "id": "EP142002_Kenna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20021022",
@@ -3915,10 +3851,6 @@
   },
   {
     "id": "EP152002_Lowell",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20021022",
@@ -4264,10 +4196,6 @@
   },
   {
     "id": "CP032002_Huko",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20021023",
@@ -4703,10 +4631,6 @@
   },
   {
     "id": "EP162002_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20021114",

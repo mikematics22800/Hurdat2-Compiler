@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011988_Alberto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880805",
@@ -140,10 +136,6 @@
   },
   {
     "id": "AL021988_Beryl",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880808",
@@ -269,10 +261,6 @@
   },
   {
     "id": "AL031988_Chris",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880821",
@@ -668,10 +656,6 @@
   },
   {
     "id": "AL041988_Debby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880831",
@@ -1007,10 +991,6 @@
   },
   {
     "id": "AL051988_Ernesto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880903",
@@ -1106,10 +1086,6 @@
   },
   {
     "id": "AL061988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880907",
@@ -1245,10 +1221,6 @@
   },
   {
     "id": "AL071988_Florence",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880907",
@@ -1454,10 +1426,6 @@
   },
   {
     "id": "AL081988_Gilbert",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880908",
@@ -1953,10 +1921,6 @@
   },
   {
     "id": "AL091988_Helene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880919",
@@ -2402,10 +2366,6 @@
   },
   {
     "id": "AL101988_Isaac",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880928",
@@ -2531,10 +2491,6 @@
   },
   {
     "id": "AL111988_Joan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19881010",
@@ -3070,10 +3026,6 @@
   },
   {
     "id": "AL121988_Keith",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19881117",
@@ -3469,10 +3421,6 @@
   },
   {
     "id": "AL131988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880531",
@@ -3568,10 +3516,6 @@
   },
   {
     "id": "AL141988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880813",
@@ -3647,10 +3591,6 @@
   },
   {
     "id": "AL151988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880820",
@@ -4106,10 +4046,6 @@
   },
   {
     "id": "AL161988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880820",
@@ -4275,10 +4211,6 @@
   },
   {
     "id": "AL171988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880904",
@@ -4304,10 +4236,6 @@
   },
   {
     "id": "AL181988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880927",
@@ -4373,10 +4301,6 @@
   },
   {
     "id": "AL191988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19881019",

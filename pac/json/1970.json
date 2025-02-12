@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011970_Adele",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700530",
@@ -320,10 +316,6 @@
   },
   {
     "id": "EP021970_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700610",
@@ -439,10 +431,6 @@
   },
   {
     "id": "EP031970_Connie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700617",
@@ -618,10 +606,6 @@
   },
   {
     "id": "EP041970_Eileen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700626",
@@ -777,10 +761,6 @@
   },
   {
     "id": "EP051970_Francesca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700701",
@@ -1136,10 +1116,6 @@
   },
   {
     "id": "EP061970_Gretchen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700714",
@@ -1435,10 +1411,6 @@
   },
   {
     "id": "EP071970_Helga",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700716",
@@ -1594,10 +1566,6 @@
   },
   {
     "id": "EP081970_Ione-2",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700722",
@@ -1773,10 +1741,6 @@
   },
   {
     "id": "EP091970_Ione-1",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700724",
@@ -1832,10 +1796,6 @@
   },
   {
     "id": "EP101970_Joyce",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700729",
@@ -2091,10 +2051,6 @@
   },
   {
     "id": "EP111970_Kristen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700805",
@@ -2250,10 +2206,6 @@
   },
   {
     "id": "EP121970_Lorraine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700816",
@@ -2729,10 +2681,6 @@
   },
   {
     "id": "EP131970_Maggie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700820",
@@ -3008,10 +2956,6 @@
   },
   {
     "id": "EP141970_Norma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700831",
@@ -3267,10 +3211,6 @@
   },
   {
     "id": "CP011970_Dot",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700901",
@@ -3416,10 +3356,6 @@
   },
   {
     "id": "EP151970_Orlene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19700907",
@@ -3515,10 +3451,6 @@
   },
   {
     "id": "EP161970_Patricia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19701004",
@@ -3834,10 +3766,6 @@
   },
   {
     "id": "EP171970_Rosalie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19701021",
@@ -3953,10 +3881,6 @@
   },
   {
     "id": "EP181970_Selma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19701101",

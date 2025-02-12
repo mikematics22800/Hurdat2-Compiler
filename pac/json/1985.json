@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011985_Andres",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850605",
@@ -280,10 +276,6 @@
   },
   {
     "id": "EP021985_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850606",
@@ -699,10 +691,6 @@
   },
   {
     "id": "EP031985_Carlos",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850607",
@@ -838,10 +826,6 @@
   },
   {
     "id": "EP041985_Dolores",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850626",
@@ -1237,10 +1221,6 @@
   },
   {
     "id": "EP051985_Enrique",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850627",
@@ -1596,10 +1576,6 @@
   },
   {
     "id": "EP061985_Fefa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850702",
@@ -1785,10 +1761,6 @@
   },
   {
     "id": "EP071985_Guillermo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850707",
@@ -1974,10 +1946,6 @@
   },
   {
     "id": "EP081985_Hilda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850718",
@@ -2093,10 +2061,6 @@
   },
   {
     "id": "EP091985_Ignacio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850721",
@@ -2352,10 +2316,6 @@
   },
   {
     "id": "EP101985_Jimena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850720",
@@ -2731,10 +2691,6 @@
   },
   {
     "id": "EP111985_Kevin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850729",
@@ -3100,10 +3056,6 @@
   },
   {
     "id": "EP121985_Linda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850729",
@@ -3529,10 +3481,6 @@
   },
   {
     "id": "EP131985_Marty",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850806",
@@ -3828,10 +3776,6 @@
   },
   {
     "id": "EP141985_Nora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850819",
@@ -3997,10 +3941,6 @@
   },
   {
     "id": "EP151985_Olaf",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850822",
@@ -4386,10 +4326,6 @@
   },
   {
     "id": "EP161985_Pauline",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850827",
@@ -4925,10 +4861,6 @@
   },
   {
     "id": "EP171985_Rick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850901",
@@ -5384,10 +5316,6 @@
   },
   {
     "id": "EP181985_Sandra",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850905",
@@ -5853,10 +5781,6 @@
   },
   {
     "id": "EP191985_Terry",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850915",
@@ -6232,10 +6156,6 @@
   },
   {
     "id": "EP201985_Vivian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850918",
@@ -6391,10 +6311,6 @@
   },
   {
     "id": "EP211985_Waldo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19851007",
@@ -6510,10 +6426,6 @@
   },
   {
     "id": "CP011985_Nele",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19851023",
@@ -6789,10 +6701,6 @@
   },
   {
     "id": "EP221985_Xina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19851025",

@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011965_Victoria",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650604",
@@ -160,10 +156,6 @@
   },
   {
     "id": "EP021965_Wallie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650617",
@@ -239,10 +231,6 @@
   },
   {
     "id": "EP031965_Ava",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650629",
@@ -498,10 +486,6 @@
   },
   {
     "id": "EP041965_Bernice",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650630",
@@ -817,10 +801,6 @@
   },
   {
     "id": "EP051965_Claudia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650807",
@@ -996,10 +976,6 @@
   },
   {
     "id": "EP061965_Doreen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650821",
@@ -1415,10 +1391,6 @@
   },
   {
     "id": "EP071965_Emily",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650830",
@@ -1734,10 +1706,6 @@
   },
   {
     "id": "EP081965_Florence",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650908",
@@ -2053,10 +2021,6 @@
   },
   {
     "id": "EP091965_Glenda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650913",
@@ -2432,10 +2396,6 @@
   },
   {
     "id": "EP101965_Hazel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19650924",

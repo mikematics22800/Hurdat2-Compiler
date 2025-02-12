@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011990_Alma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900512",
@@ -250,10 +246,6 @@
   },
   {
     "id": "EP021990_Boris",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900602",
@@ -499,10 +491,6 @@
   },
   {
     "id": "EP031990_Cristina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900608",
@@ -828,10 +816,6 @@
   },
   {
     "id": "EP041990_Douglas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900619",
@@ -1037,10 +1021,6 @@
   },
   {
     "id": "EP051990_Elida",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900626",
@@ -1306,10 +1286,6 @@
   },
   {
     "id": "EP061990_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900629",
@@ -1485,10 +1461,6 @@
   },
   {
     "id": "EP071990_Fausto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900706",
@@ -1774,10 +1746,6 @@
   },
   {
     "id": "EP081990_Genevieve",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900710",
@@ -2133,10 +2101,6 @@
   },
   {
     "id": "EP091990_Hernan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900719",
@@ -2612,10 +2576,6 @@
   },
   {
     "id": "EP101990_Iselle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900720",
@@ -3031,10 +2991,6 @@
   },
   {
     "id": "CP011990_Aka",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900807",
@@ -3360,10 +3316,6 @@
   },
   {
     "id": "EP111990_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900724",
@@ -3469,10 +3421,6 @@
   },
   {
     "id": "EP121990_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900816",
@@ -3618,10 +3566,6 @@
   },
   {
     "id": "EP131990_Julio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900817",
@@ -3947,10 +3891,6 @@
   },
   {
     "id": "EP141990_Kenna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900821",
@@ -4316,10 +4256,6 @@
   },
   {
     "id": "EP151990_Lowell",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900823",
@@ -4685,10 +4621,6 @@
   },
   {
     "id": "EP161990_Marie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900907",
@@ -5244,10 +5176,6 @@
   },
   {
     "id": "EP171990_Norbert",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900910",
@@ -5643,10 +5571,6 @@
   },
   {
     "id": "EP181990_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900909",
@@ -5782,10 +5706,6 @@
   },
   {
     "id": "EP191990_Odile",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900923",
@@ -6141,10 +6061,6 @@
   },
   {
     "id": "EP201990_Polo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900928",
@@ -6280,10 +6196,6 @@
   },
   {
     "id": "EP211990_Rachel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900927",
@@ -6549,10 +6461,6 @@
   },
   {
     "id": "EP221990_Simon",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19901009",
@@ -6798,10 +6706,6 @@
   },
   {
     "id": "EP231990_Trudy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19901016",
@@ -7477,10 +7381,6 @@
   },
   {
     "id": "EP241990_Vance",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19901021",

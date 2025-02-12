@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011986_Andrew",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19860605",
@@ -170,10 +166,6 @@
   },
   {
     "id": "AL021986_Bonnie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19860623",
@@ -389,10 +381,6 @@
   },
   {
     "id": "AL031986_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19860723",
@@ -608,10 +596,6 @@
   },
   {
     "id": "AL041986_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19860804",
@@ -687,10 +671,6 @@
   },
   {
     "id": "AL051986_Charley",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19860813",
@@ -1376,10 +1356,6 @@
   },
   {
     "id": "AL061986_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19860830",
@@ -1595,10 +1571,6 @@
   },
   {
     "id": "AL071986_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19860901",
@@ -1734,10 +1706,6 @@
   },
   {
     "id": "AL081986_Danielle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19860907",
@@ -1883,10 +1851,6 @@
   },
   {
     "id": "AL091986_Earl",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19860910",
@@ -2272,10 +2236,6 @@
   },
   {
     "id": "AL101986_Frances",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19861118",

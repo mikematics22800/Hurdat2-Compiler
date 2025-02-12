@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012009_One",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090526",
@@ -430,10 +426,6 @@
   },
   {
     "id": "AL022009_Ana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090810",
@@ -1167,10 +1159,6 @@
   },
   {
     "id": "AL032009_Bill",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090815",
@@ -2464,10 +2452,6 @@
   },
   {
     "id": "AL042009_Claudette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090816",
@@ -2697,10 +2681,6 @@
   },
   {
     "id": "AL052009_Danny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090826",
@@ -3042,10 +3022,6 @@
   },
   {
     "id": "AL062009_Erika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090901",
@@ -3387,10 +3363,6 @@
   },
   {
     "id": "AL072009_Fred",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090907",
@@ -4740,10 +4712,6 @@
   },
   {
     "id": "AL082009_Eight",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090925",
@@ -4945,10 +4913,6 @@
   },
   {
     "id": "AL092009_Grace",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090927",
@@ -5990,10 +5954,6 @@
   },
   {
     "id": "AL102009_Henri",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20091006",
@@ -6643,10 +6603,6 @@
   },
   {
     "id": "AL112009_Ida",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20091104",

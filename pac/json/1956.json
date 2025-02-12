@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560518",
@@ -60,10 +56,6 @@
   },
   {
     "id": "EP021956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560530",
@@ -259,10 +251,6 @@
   },
   {
     "id": "EP031956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560609",
@@ -338,10 +326,6 @@
   },
   {
     "id": "EP041956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560612",
@@ -417,10 +401,6 @@
   },
   {
     "id": "EP051956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560709",
@@ -556,10 +536,6 @@
   },
   {
     "id": "EP061956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560714",
@@ -655,10 +631,6 @@
   },
   {
     "id": "EP071956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560822",
@@ -794,10 +766,6 @@
   },
   {
     "id": "EP081956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560903",
@@ -843,10 +811,6 @@
   },
   {
     "id": "EP091956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560904",
@@ -962,10 +926,6 @@
   },
   {
     "id": "EP101956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19560912",
@@ -1161,10 +1121,6 @@
   },
   {
     "id": "EP111956_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19561016",

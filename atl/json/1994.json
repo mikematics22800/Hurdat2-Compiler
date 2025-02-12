@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011994_Alberto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940630",
@@ -330,10 +326,6 @@
   },
   {
     "id": "AL021994_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940720",
@@ -399,10 +391,6 @@
   },
   {
     "id": "AL031994_Beryl",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940814",
@@ -608,10 +596,6 @@
   },
   {
     "id": "AL041994_Chris",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940816",
@@ -917,10 +901,6 @@
   },
   {
     "id": "AL051994_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940829",
@@ -1016,10 +996,6 @@
   },
   {
     "id": "AL061994_Debby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940909",
@@ -1105,10 +1081,6 @@
   },
   {
     "id": "AL071994_Ernesto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940921",
@@ -1294,10 +1266,6 @@
   },
   {
     "id": "AL081994_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940924",
@@ -1403,10 +1371,6 @@
   },
   {
     "id": "AL091994_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940927",
@@ -1482,10 +1446,6 @@
   },
   {
     "id": "AL101994_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940929",
@@ -1561,10 +1521,6 @@
   },
   {
     "id": "AL111994_Florence",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19941102",
@@ -1850,10 +1806,6 @@
   },
   {
     "id": "AL121994_Gordon",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19941108",

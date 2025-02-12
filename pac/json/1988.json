@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011988_Aletta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880616",
@@ -210,10 +206,6 @@
   },
   {
     "id": "EP021988_Bud",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880620",
@@ -309,10 +301,6 @@
   },
   {
     "id": "EP031988_Carlotta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880708",
@@ -598,10 +586,6 @@
   },
   {
     "id": "EP041988_Daniel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880719",
@@ -907,10 +891,6 @@
   },
   {
     "id": "EP051988_Emilia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880727",
@@ -1166,10 +1146,6 @@
   },
   {
     "id": "EP061988_Fabio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880728",
@@ -1665,10 +1641,6 @@
   },
   {
     "id": "EP071988_Gilma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880728",
@@ -1924,10 +1896,6 @@
   },
   {
     "id": "EP081988_Hector",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880730",
@@ -2343,10 +2311,6 @@
   },
   {
     "id": "EP091988_Iva",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880805",
@@ -2712,10 +2676,6 @@
   },
   {
     "id": "EP101988_John",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880816",
@@ -2911,10 +2871,6 @@
   },
   {
     "id": "CP011988_Uleki",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880828",
@@ -3550,10 +3506,6 @@
   },
   {
     "id": "EP111988_Kristy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880829",
@@ -3909,10 +3861,6 @@
   },
   {
     "id": "CP021988_Wila",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880921",
@@ -4118,10 +4066,6 @@
   },
   {
     "id": "EP121988_Lane",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880921",
@@ -4507,10 +4451,6 @@
   },
   {
     "id": "EP131988_Miriam",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19881023",
@@ -4936,10 +4876,6 @@
   },
   {
     "id": "EP141988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880615",
@@ -5085,10 +5021,6 @@
   },
   {
     "id": "EP151988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880702",
@@ -5194,10 +5126,6 @@
   },
   {
     "id": "EP161988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880728",
@@ -5253,10 +5181,6 @@
   },
   {
     "id": "EP171988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880814",
@@ -5382,10 +5306,6 @@
   },
   {
     "id": "EP181988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880827",
@@ -5481,10 +5401,6 @@
   },
   {
     "id": "EP191988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19880912",
@@ -5620,10 +5536,6 @@
   },
   {
     "id": "EP201988_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19881011",

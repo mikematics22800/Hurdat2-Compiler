@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012010_Alex",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100624",
@@ -906,10 +902,6 @@
   },
   {
     "id": "AL022010_Two",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100707",
@@ -1279,10 +1271,6 @@
   },
   {
     "id": "AL032010_Bonnie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100722",
@@ -1792,10 +1780,6 @@
   },
   {
     "id": "AL042010_Colin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100802",
@@ -2501,10 +2485,6 @@
   },
   {
     "id": "AL052010_Five",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100810",
@@ -3406,10 +3386,6 @@
   },
   {
     "id": "AL062010_Danielle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100821",
@@ -4843,10 +4819,6 @@
   },
   {
     "id": "AL072010_Earl",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100824",
@@ -6392,10 +6364,6 @@
   },
   {
     "id": "AL082010_Fiona",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100830",
@@ -7073,10 +7041,6 @@
   },
   {
     "id": "AL092010_Gaston",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100901",
@@ -7922,10 +7886,6 @@
   },
   {
     "id": "AL102010_Hermine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100904",
@@ -8575,10 +8535,6 @@
   },
   {
     "id": "AL112010_Igor",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100908",
@@ -10292,10 +10248,6 @@
   },
   {
     "id": "AL122010_Julia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100912",
@@ -11729,10 +11681,6 @@
   },
   {
     "id": "AL132010_Karl",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100913",
@@ -12354,10 +12302,6 @@
   },
   {
     "id": "AL142010_Lisa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100920",
@@ -13427,10 +13371,6 @@
   },
   {
     "id": "AL152010_Matthew",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100923",
@@ -13884,10 +13824,6 @@
   },
   {
     "id": "AL162010_Nicole",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100928",
@@ -14229,10 +14165,6 @@
   },
   {
     "id": "AL172010_Otto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20101006",
@@ -15554,10 +15486,6 @@
   },
   {
     "id": "AL182010_Paula",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20101011",
@@ -16151,10 +16079,6 @@
   },
   {
     "id": "AL192010_Richard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20101019",
@@ -16972,10 +16896,6 @@
   },
   {
     "id": "AL202010_Shary",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20101028",
@@ -17233,10 +17153,6 @@
   },
   {
     "id": "AL212010_Tomas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20101029",

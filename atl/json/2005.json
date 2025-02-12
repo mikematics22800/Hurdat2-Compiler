@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012005_Arlene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050608",
@@ -738,10 +734,6 @@
   },
   {
     "id": "AL022005_Bret",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050628",
@@ -943,10 +935,6 @@
   },
   {
     "id": "AL032005_Cindy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050703",
@@ -1904,10 +1892,6 @@
   },
   {
     "id": "AL042005_Dennis",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050704",
@@ -3565,10 +3549,6 @@
   },
   {
     "id": "AL052005_Emily",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050711",
@@ -4834,10 +4814,6 @@
   },
   {
     "id": "AL062005_Franklin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050721",
@@ -5907,10 +5883,6 @@
   },
   {
     "id": "AL072005_Gert",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050723",
@@ -6168,10 +6140,6 @@
   },
   {
     "id": "AL082005_Harvey",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050802",
@@ -7465,10 +7433,6 @@
   },
   {
     "id": "AL092005_Irene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050804",
@@ -9042,10 +9006,6 @@
   },
   {
     "id": "AL102005_Ten",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050813",
@@ -9639,10 +9599,6 @@
   },
   {
     "id": "AL112005_Jose",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050822",
@@ -9816,10 +9772,6 @@
   },
   {
     "id": "AL122005_Katrina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050823",
@@ -10777,10 +10729,6 @@
   },
   {
     "id": "AL132005_Lee",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050828",
@@ -11514,10 +11462,6 @@
   },
   {
     "id": "AL142005_Maria",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050901",
@@ -12951,10 +12895,6 @@
   },
   {
     "id": "AL152005_Nate",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050905",
@@ -13772,10 +13712,6 @@
   },
   {
     "id": "AL162005_Ophelia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050906",
@@ -15713,10 +15649,6 @@
   },
   {
     "id": "AL172005_Philippe",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050917",
@@ -16506,10 +16438,6 @@
   },
   {
     "id": "AL182005_Rita",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050918",
@@ -17523,10 +17451,6 @@
   },
   {
     "id": "AL192005_Nineteen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20050930",
@@ -17784,10 +17708,6 @@
   },
   {
     "id": "AL202005_Stan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051001",
@@ -18269,10 +18189,6 @@
   },
   {
     "id": "AL212005_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051004",
@@ -18474,10 +18390,6 @@
   },
   {
     "id": "AL222005_Tammy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051005",
@@ -18735,10 +18647,6 @@
   },
   {
     "id": "AL232005_Twenty-two",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051008",
@@ -19500,10 +19408,6 @@
   },
   {
     "id": "AL242005_Vince",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051008",
@@ -19929,10 +19833,6 @@
   },
   {
     "id": "AL252005_Wilma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051015",
@@ -21282,10 +21182,6 @@
   },
   {
     "id": "AL262005_Alpha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051022",
@@ -21599,10 +21495,6 @@
   },
   {
     "id": "AL272005_Beta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051026",
@@ -22112,10 +22004,6 @@
   },
   {
     "id": "AL282005_Gamma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051114",
@@ -23045,10 +22933,6 @@
   },
   {
     "id": "AL292005_Delta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051119",
@@ -24230,10 +24114,6 @@
   },
   {
     "id": "AL302005_Epsilon",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051129",
@@ -25443,10 +25323,6 @@
   },
   {
     "id": "AL312005_Zeta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20051230",

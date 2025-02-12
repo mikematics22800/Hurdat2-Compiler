@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530825",
@@ -100,10 +96,6 @@
   },
   {
     "id": "EP021953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530909",
@@ -159,10 +151,6 @@
   },
   {
     "id": "EP031953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530914",
@@ -298,10 +286,6 @@
   },
   {
     "id": "EP041953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19531002",

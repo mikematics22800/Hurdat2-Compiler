@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012021_Ana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210520",
@@ -486,10 +482,6 @@
   },
   {
     "id": "AL022021_Bill",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210613",
@@ -775,10 +767,6 @@
   },
   {
     "id": "AL032021_Claudette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210617",
@@ -1428,10 +1416,6 @@
   },
   {
     "id": "AL042021_Danny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210627",
@@ -1633,10 +1617,6 @@
   },
   {
     "id": "AL052021_Elsa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210630",
@@ -2846,10 +2826,6 @@
   },
   {
     "id": "AL062021_Fred",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210809",
@@ -4115,10 +4091,6 @@
   },
   {
     "id": "AL072021_Grace",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210813",
@@ -5188,10 +5160,6 @@
   },
   {
     "id": "AL082021_Henri",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210815",
@@ -6373,10 +6341,6 @@
   },
   {
     "id": "AL092021_Ida",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210826",
@@ -7502,10 +7466,6 @@
   },
   {
     "id": "AL102021_Kate",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210827",
@@ -8099,10 +8059,6 @@
   },
   {
     "id": "AL112021_Julian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210828",
@@ -8472,10 +8428,6 @@
   },
   {
     "id": "AL122021_Larry",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210831",
@@ -9769,10 +9721,6 @@
   },
   {
     "id": "AL132021_Mindy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210908",
@@ -10058,10 +10006,6 @@
   },
   {
     "id": "AL142021_Nicholas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210912",
@@ -10655,10 +10599,6 @@
   },
   {
     "id": "AL152021_Odette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210916",
@@ -11868,10 +11808,6 @@
   },
   {
     "id": "AL162021_Peter",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210919",
@@ -12325,10 +12261,6 @@
   },
   {
     "id": "AL172021_Rose",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210919",
@@ -12950,10 +12882,6 @@
   },
   {
     "id": "AL182021_Sam",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210922",
@@ -14611,10 +14539,6 @@
   },
   {
     "id": "AL192021_Teresa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210924",
@@ -14900,10 +14824,6 @@
   },
   {
     "id": "AL202021_Victor",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210929",
@@ -15525,10 +15445,6 @@
   },
   {
     "id": "AL212021_Wanda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20211025",

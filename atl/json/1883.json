@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011883_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18830818",
@@ -450,10 +446,6 @@
   },
   {
     "id": "AL021883_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18830824",
@@ -859,10 +851,6 @@
   },
   {
     "id": "AL031883_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18830904",
@@ -1258,10 +1246,6 @@
   },
   {
     "id": "AL041883_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18831022",

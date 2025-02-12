@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011983_Adolph",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830521",
@@ -320,10 +316,6 @@
   },
   {
     "id": "EP021983_Barbara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830609",
@@ -709,10 +701,6 @@
   },
   {
     "id": "EP031983_Cosme",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830702",
@@ -868,10 +856,6 @@
   },
   {
     "id": "EP041983_Dalilia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830705",
@@ -1137,10 +1121,6 @@
   },
   {
     "id": "EP051983_Erick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830712",
@@ -1336,10 +1316,6 @@
   },
   {
     "id": "EP061983_Flossie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830717",
@@ -1535,10 +1511,6 @@
   },
   {
     "id": "EP071983_Gil",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830723",
@@ -2054,10 +2026,6 @@
   },
   {
     "id": "EP081983_Henriette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830727",
@@ -2483,10 +2451,6 @@
   },
   {
     "id": "EP091983_Ismael",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830808",
@@ -2732,10 +2696,6 @@
   },
   {
     "id": "EP101983_Juliette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830824",
@@ -3051,10 +3011,6 @@
   },
   {
     "id": "EP111983_Kiko",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830831",
@@ -3420,10 +3376,6 @@
   },
   {
     "id": "EP121983_Lorena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830906",
@@ -3769,10 +3721,6 @@
   },
   {
     "id": "EP131983_Manuel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830912",
@@ -4118,10 +4066,6 @@
   },
   {
     "id": "EP141983_Narda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830921",
@@ -4537,10 +4481,6 @@
   },
   {
     "id": "EP151983_Octave",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830927",
@@ -4746,10 +4686,6 @@
   },
   {
     "id": "EP161983_Priscilla",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19830930",
@@ -5015,10 +4951,6 @@
   },
   {
     "id": "EP171983_Raymond",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19831008",
@@ -5534,10 +5466,6 @@
   },
   {
     "id": "EP181983_Sonia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19831009",
@@ -5753,10 +5681,6 @@
   },
   {
     "id": "EP191983_Tico",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19831011",
@@ -6102,10 +6026,6 @@
   },
   {
     "id": "EP201983_Velma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19831101",
@@ -6181,10 +6101,6 @@
   },
   {
     "id": "EP211983_Winnie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19831204",

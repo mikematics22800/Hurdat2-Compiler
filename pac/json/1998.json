@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011998_Agatha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980611",
@@ -230,10 +226,6 @@
   },
   {
     "id": "EP021998_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980619",
@@ -339,10 +331,6 @@
   },
   {
     "id": "EP031998_Blas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980622",
@@ -708,10 +696,6 @@
   },
   {
     "id": "EP041998_Celia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980717",
@@ -887,10 +871,6 @@
   },
   {
     "id": "EP051998_Darby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980723",
@@ -1266,10 +1246,6 @@
   },
   {
     "id": "EP061998_Estelle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980729",
@@ -1685,10 +1661,6 @@
   },
   {
     "id": "EP071998_Frank",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980806",
@@ -1844,10 +1816,6 @@
   },
   {
     "id": "EP081998_Georgette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980811",
@@ -2113,10 +2081,6 @@
   },
   {
     "id": "CP011998_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980816",
@@ -2252,10 +2216,6 @@
   },
   {
     "id": "EP091998_Howard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980820",
@@ -2661,10 +2621,6 @@
   },
   {
     "id": "EP101998_Isis",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980901",
@@ -2790,10 +2746,6 @@
   },
   {
     "id": "EP111998_Javier",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19980906",
@@ -3129,10 +3081,6 @@
   },
   {
     "id": "EP121998_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19981001",
@@ -3218,10 +3166,6 @@
   },
   {
     "id": "EP131998_Kay",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19981013",
@@ -3397,10 +3341,6 @@
   },
   {
     "id": "EP141998_Lester",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19981015",
@@ -3876,10 +3816,6 @@
   },
   {
     "id": "EP151998_Madeline",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19981016",

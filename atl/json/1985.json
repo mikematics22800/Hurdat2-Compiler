@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011985_Ana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850715",
@@ -170,10 +166,6 @@
   },
   {
     "id": "AL021985_Bob",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850721",
@@ -389,10 +381,6 @@
   },
   {
     "id": "AL031985_Claudette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850809",
@@ -698,10 +686,6 @@
   },
   {
     "id": "AL041985_Danny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850812",
@@ -1077,10 +1061,6 @@
   },
   {
     "id": "AL051985_Elena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850828",
@@ -1416,10 +1396,6 @@
   },
   {
     "id": "AL061985_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850908",
@@ -1635,10 +1611,6 @@
   },
   {
     "id": "AL071985_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850911",
@@ -1744,10 +1716,6 @@
   },
   {
     "id": "AL081985_Fabian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850915",
@@ -1913,10 +1881,6 @@
   },
   {
     "id": "AL091985_Gloria",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850916",
@@ -2572,10 +2536,6 @@
   },
   {
     "id": "AL101985_Henri",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19850921",
@@ -2731,10 +2691,6 @@
   },
   {
     "id": "AL111985_Isabel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19851007",
@@ -3100,10 +3056,6 @@
   },
   {
     "id": "AL121985_Juan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19851026",
@@ -3399,10 +3351,6 @@
   },
   {
     "id": "AL131985_Kate",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19851115",
@@ -3748,10 +3696,6 @@
   },
   {
     "id": "AL141985_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19851207",

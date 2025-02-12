@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18700730",
@@ -20,10 +16,6 @@
   },
   {
     "id": "AL021870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18700830",
@@ -269,10 +261,6 @@
   },
   {
     "id": "AL031870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18700901",
@@ -438,10 +426,6 @@
   },
   {
     "id": "AL041870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18700909",
@@ -647,10 +631,6 @@
   },
   {
     "id": "AL051870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18700917",
@@ -816,10 +796,6 @@
   },
   {
     "id": "AL061870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18701005",
@@ -1225,10 +1201,6 @@
   },
   {
     "id": "AL071870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18701007",
@@ -1244,10 +1216,6 @@
   },
   {
     "id": "AL081870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18701010",
@@ -1313,10 +1281,6 @@
   },
   {
     "id": "AL091870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18701019",
@@ -1502,10 +1466,6 @@
   },
   {
     "id": "AL101870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18701023",
@@ -1521,10 +1481,6 @@
   },
   {
     "id": "AL111870_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "18701030",

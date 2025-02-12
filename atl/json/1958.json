@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011958_Alma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580614",
@@ -110,10 +106,6 @@
   },
   {
     "id": "AL021958_Becky",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580808",
@@ -489,10 +481,6 @@
   },
   {
     "id": "AL031958_Cleo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580811",
@@ -968,10 +956,6 @@
   },
   {
     "id": "AL041958_Daisy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580823",
@@ -1277,10 +1261,6 @@
   },
   {
     "id": "AL051958_Ella",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580830",
@@ -1636,10 +1616,6 @@
   },
   {
     "id": "AL061958_Fifi",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580904",
@@ -1945,10 +1921,6 @@
   },
   {
     "id": "AL071958_Gerda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580914",
@@ -2294,10 +2266,6 @@
   },
   {
     "id": "AL081958_Helene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580921",
@@ -2843,10 +2811,6 @@
   },
   {
     "id": "AL091958_Ilsa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580924",
@@ -3112,10 +3076,6 @@
   },
   {
     "id": "AL101958_Janice",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19581004",
@@ -3511,10 +3471,6 @@
   },
   {
     "id": "AL111958_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19580525",
@@ -3700,10 +3656,6 @@
   },
   {
     "id": "AL121958_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19581015",

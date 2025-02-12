@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520529",
@@ -100,10 +96,6 @@
   },
   {
     "id": "EP021952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520612",
@@ -279,10 +271,6 @@
   },
   {
     "id": "EP031952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520719",
@@ -378,10 +366,6 @@
   },
   {
     "id": "EP041952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520724",
@@ -517,10 +501,6 @@
   },
   {
     "id": "EP051952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520915",
@@ -816,10 +796,6 @@
   },
   {
     "id": "EP061952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520926",
@@ -915,10 +891,6 @@
   },
   {
     "id": "EP071952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19521013",

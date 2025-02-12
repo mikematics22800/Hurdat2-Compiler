@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011987_Adrian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870607",
@@ -90,10 +86,6 @@
   },
   {
     "id": "EP021987_Beatriz",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870703",
@@ -249,10 +241,6 @@
   },
   {
     "id": "EP031987_Calvin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870705",
@@ -448,10 +436,6 @@
   },
   {
     "id": "EP041987_Dora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870715",
@@ -667,10 +651,6 @@
   },
   {
     "id": "EP051987_Eugene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870722",
@@ -866,10 +846,6 @@
   },
   {
     "id": "EP061987_Fernanda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870724",
@@ -1175,10 +1151,6 @@
   },
   {
     "id": "EP071987_Greg",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870728",
@@ -1464,10 +1436,6 @@
   },
   {
     "id": "EP081987_Hilary",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870731",
@@ -1823,10 +1791,6 @@
   },
   {
     "id": "EP091987_Irwin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870803",
@@ -2062,10 +2026,6 @@
   },
   {
     "id": "EP101987_Jova",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870813",
@@ -2411,10 +2371,6 @@
   },
   {
     "id": "CP011987_Oka",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870826",
@@ -2580,10 +2536,6 @@
   },
   {
     "id": "EP111987_Knut",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870828",
@@ -2679,10 +2631,6 @@
   },
   {
     "id": "EP121987_Lidia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870829",
@@ -2898,10 +2846,6 @@
   },
   {
     "id": "EP131987_Max",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870909",
@@ -3197,10 +3141,6 @@
   },
   {
     "id": "EP141987_Norma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870914",
@@ -3456,10 +3396,6 @@
   },
   {
     "id": "EP151987_Otis",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870920",
@@ -3745,10 +3681,6 @@
   },
   {
     "id": "CP021987_Peke",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870921",
@@ -4004,10 +3936,6 @@
   },
   {
     "id": "EP161987_Pilar",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19870930",
@@ -4063,10 +3991,6 @@
   },
   {
     "id": "EP171987_Ramon",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19871005",
@@ -4342,10 +4266,6 @@
   },
   {
     "id": "EP181987_Selma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19871027",

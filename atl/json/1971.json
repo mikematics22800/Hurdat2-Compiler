@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011971_Arlene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710704",
@@ -160,10 +156,6 @@
   },
   {
     "id": "AL021971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710707",
@@ -219,10 +211,6 @@
   },
   {
     "id": "AL031971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710710",
@@ -278,10 +266,6 @@
   },
   {
     "id": "AL041971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710803",
@@ -457,10 +441,6 @@
   },
   {
     "id": "AL051971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710806",
@@ -596,10 +576,6 @@
   },
   {
     "id": "AL061971_Beth",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710810",
@@ -895,10 +871,6 @@
   },
   {
     "id": "AL071971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710812",
@@ -1074,10 +1046,6 @@
   },
   {
     "id": "AL081971_Chloe",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710818",
@@ -1373,10 +1341,6 @@
   },
   {
     "id": "AL091971_Doria",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710820",
@@ -1742,10 +1706,6 @@
   },
   {
     "id": "AL101971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710828",
@@ -1921,10 +1881,6 @@
   },
   {
     "id": "AL111971_Fern",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710903",
@@ -2320,10 +2276,6 @@
   },
   {
     "id": "AL121971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710903",
@@ -2549,10 +2501,6 @@
   },
   {
     "id": "AL131971_Edith",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710905",
@@ -3068,10 +3016,6 @@
   },
   {
     "id": "AL141971_Ginger",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710906",
@@ -4257,10 +4201,6 @@
   },
   {
     "id": "AL151971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710908",
@@ -4396,10 +4336,6 @@
   },
   {
     "id": "AL161971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710910",
@@ -4575,10 +4511,6 @@
   },
   {
     "id": "AL171971_Heidi",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710911",
@@ -4754,10 +4686,6 @@
   },
   {
     "id": "AL181971_Irene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710911",
@@ -5133,10 +5061,6 @@
   },
   {
     "id": "AL191971_Janice",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19710921",
@@ -5292,10 +5216,6 @@
   },
   {
     "id": "AL201971_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19711006",
@@ -5631,10 +5551,6 @@
   },
   {
     "id": "AL211971_Kristy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19711018",
@@ -5800,10 +5716,6 @@
   },
   {
     "id": "AL221971_Laura",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19711112",

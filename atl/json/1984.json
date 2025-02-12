@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011984_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840611",
@@ -120,10 +116,6 @@
   },
   {
     "id": "AL021984_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840618",
@@ -209,10 +201,6 @@
   },
   {
     "id": "AL031984_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840724",
@@ -328,10 +316,6 @@
   },
   {
     "id": "AL041984_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840806",
@@ -437,10 +421,6 @@
   },
   {
     "id": "AL051984_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840818",
@@ -586,10 +566,6 @@
   },
   {
     "id": "AL061984_Arthur",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840828",
@@ -925,10 +901,6 @@
   },
   {
     "id": "AL071984_Bertha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840830",
@@ -1154,10 +1126,6 @@
   },
   {
     "id": "AL081984_Cesar",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840831",
@@ -1283,10 +1251,6 @@
   },
   {
     "id": "AL091984_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840906",
@@ -1372,10 +1336,6 @@
   },
   {
     "id": "AL101984_Diana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840908",
@@ -1711,10 +1671,6 @@
   },
   {
     "id": "AL111984_Edouard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840914",
@@ -1790,10 +1746,6 @@
   },
   {
     "id": "AL121984_Fran",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840915",
@@ -2009,10 +1961,6 @@
   },
   {
     "id": "AL131984_Gustav",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840916",
@@ -2128,10 +2076,6 @@
   },
   {
     "id": "AL141984_Hortense",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840923",
@@ -2537,10 +2481,6 @@
   },
   {
     "id": "AL151984_Isidore",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19840925",
@@ -2796,10 +2736,6 @@
   },
   {
     "id": "AL161984_Josephine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19841007",
@@ -3365,10 +3301,6 @@
   },
   {
     "id": "AL171984_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19841025",
@@ -3494,10 +3426,6 @@
   },
   {
     "id": "AL181984_Klaus",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19841105",
@@ -3833,10 +3761,6 @@
   },
   {
     "id": "AL191984_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19841123",
@@ -4042,10 +3966,6 @@
   },
   {
     "id": "AL201984_Lili",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19841212",

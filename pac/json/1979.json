@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011979_Andres",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19790531",
@@ -180,10 +176,6 @@
   },
   {
     "id": "EP021979_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19790621",
@@ -369,10 +361,6 @@
   },
   {
     "id": "EP031979_Carlos",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19790714",
@@ -448,10 +436,6 @@
   },
   {
     "id": "EP041979_Dolores",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19790717",
@@ -727,10 +711,6 @@
   },
   {
     "id": "EP051979_Enrique",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19790817",
@@ -1026,10 +1006,6 @@
   },
   {
     "id": "EP061979_Fefa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19790821",
@@ -1205,10 +1181,6 @@
   },
   {
     "id": "EP071979_Guillermo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19790908",
@@ -1414,10 +1386,6 @@
   },
   {
     "id": "EP081979_Hilda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19791004",
@@ -1543,10 +1511,6 @@
   },
   {
     "id": "EP091979_Ignacio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19791023",
@@ -1842,10 +1806,6 @@
   },
   {
     "id": "EP101979_Jimena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19791115",

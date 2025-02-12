@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011996_Arthur",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960617",
@@ -230,10 +226,6 @@
   },
   {
     "id": "AL021996_Bertha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960705",
@@ -749,10 +741,6 @@
   },
   {
     "id": "AL031996_Cesar",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960724",
@@ -938,10 +926,6 @@
   },
   {
     "id": "AL041996_Dolly",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960819",
@@ -1197,10 +1181,6 @@
   },
   {
     "id": "AL051996_Edouard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960819",
@@ -1936,10 +1916,6 @@
   },
   {
     "id": "AL061996_Fran",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960823",
@@ -2665,10 +2641,6 @@
   },
   {
     "id": "AL071996_Gustav",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960826",
@@ -2964,10 +2936,6 @@
   },
   {
     "id": "AL081996_Hortense",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960903",
@@ -3503,10 +3471,6 @@
   },
   {
     "id": "AL091996_Isidore",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19960924",
@@ -3842,10 +3806,6 @@
   },
   {
     "id": "AL101996_Josephine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19961004",
@@ -4321,10 +4281,6 @@
   },
   {
     "id": "AL111996_Kyle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19961011",
@@ -4400,10 +4356,6 @@
   },
   {
     "id": "AL121996_Lili",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19961014",
@@ -5009,10 +4961,6 @@
   },
   {
     "id": "AL131996_Marco",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19961113",

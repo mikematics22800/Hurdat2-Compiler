@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011982_Alberto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19820602",
@@ -180,10 +176,6 @@
   },
   {
     "id": "AL021982_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19820618",
@@ -309,10 +301,6 @@
   },
   {
     "id": "AL031982_Beryl",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19820828",
@@ -688,10 +676,6 @@
   },
   {
     "id": "AL041982_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19820906",
@@ -847,10 +831,6 @@
   },
   {
     "id": "AL051982_Chris",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19820909",
@@ -1016,10 +996,6 @@
   },
   {
     "id": "AL061982_Debby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19820913",
@@ -1325,10 +1301,6 @@
   },
   {
     "id": "AL071982_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19820924",
@@ -1484,10 +1456,6 @@
   },
   {
     "id": "AL081982_Ernesto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19820930",

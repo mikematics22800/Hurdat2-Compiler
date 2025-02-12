@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011953_Alice",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530525",
@@ -540,10 +536,6 @@
   },
   {
     "id": "AL021953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530711",
@@ -729,10 +721,6 @@
   },
   {
     "id": "AL031953_Barbara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530811",
@@ -998,10 +986,6 @@
   },
   {
     "id": "AL041953_Carol",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530828",
@@ -1527,10 +1511,6 @@
   },
   {
     "id": "AL051953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530829",
@@ -1666,10 +1646,6 @@
   },
   {
     "id": "AL061953_Dolly",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530908",
@@ -2025,10 +2001,6 @@
   },
   {
     "id": "AL071953_Edna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530915",
@@ -2314,10 +2286,6 @@
   },
   {
     "id": "AL081953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530915",
@@ -2553,10 +2521,6 @@
   },
   {
     "id": "AL091953_Florence",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19530923",
@@ -2752,10 +2716,6 @@
   },
   {
     "id": "AL101953_Gail",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19531002",
@@ -3171,10 +3131,6 @@
   },
   {
     "id": "AL111953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19531003",
@@ -3370,10 +3326,6 @@
   },
   {
     "id": "AL121953_Hazel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19531007",
@@ -3779,10 +3731,6 @@
   },
   {
     "id": "AL131953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19531123",
@@ -3938,10 +3886,6 @@
   },
   {
     "id": "AL141953_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19531207",

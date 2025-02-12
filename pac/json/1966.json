@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011966_Adele",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660620",
@@ -200,10 +196,6 @@
   },
   {
     "id": "EP021966_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660803",
@@ -579,10 +571,6 @@
   },
   {
     "id": "EP031966_Connie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660808",
@@ -978,10 +966,6 @@
   },
   {
     "id": "EP041966_Dolores",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660816",
@@ -1367,10 +1351,6 @@
   },
   {
     "id": "EP051966_Eileen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660823",
@@ -1626,10 +1606,6 @@
   },
   {
     "id": "EP061966_Francesca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660906",
@@ -2065,10 +2041,6 @@
   },
   {
     "id": "EP071966_Gretchen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660908",
@@ -2224,10 +2196,6 @@
   },
   {
     "id": "EP081966_Helga",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660909",
@@ -2563,10 +2531,6 @@
   },
   {
     "id": "EP091966_Ione",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660911",
@@ -2682,10 +2646,6 @@
   },
   {
     "id": "EP101966_Joyce",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660915",
@@ -2921,10 +2881,6 @@
   },
   {
     "id": "EP111966_Kirsten",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19660926",
@@ -3080,10 +3036,6 @@
   },
   {
     "id": "EP121966_Lorraine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19661004",
@@ -3159,10 +3111,6 @@
   },
   {
     "id": "EP131966_Maggie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19661016",

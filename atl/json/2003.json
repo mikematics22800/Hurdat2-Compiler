@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012003_Ana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030418",
@@ -400,10 +396,6 @@
   },
   {
     "id": "AL022003_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030611",
@@ -449,10 +441,6 @@
   },
   {
     "id": "AL032003_Bill",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030628",
@@ -668,10 +656,6 @@
   },
   {
     "id": "AL042003_Claudette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030707",
@@ -1127,10 +1111,6 @@
   },
   {
     "id": "AL052003_Danny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030716",
@@ -1576,10 +1556,6 @@
   },
   {
     "id": "AL062003_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030719",
@@ -1665,10 +1641,6 @@
   },
   {
     "id": "AL072003_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030725",
@@ -1744,10 +1716,6 @@
   },
   {
     "id": "AL082003_Erika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030814",
@@ -1863,10 +1831,6 @@
   },
   {
     "id": "AL092003_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030821",
@@ -1912,10 +1876,6 @@
   },
   {
     "id": "AL102003_Fabian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030827",
@@ -2451,10 +2411,6 @@
   },
   {
     "id": "AL112003_Grace",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030830",
@@ -2590,10 +2546,6 @@
   },
   {
     "id": "AL122003_Henri",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030903",
@@ -2819,10 +2771,6 @@
   },
   {
     "id": "AL132003_Isabel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030906",
@@ -3408,10 +3356,6 @@
   },
   {
     "id": "AL142003_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030908",
@@ -3517,10 +3461,6 @@
   },
   {
     "id": "AL152003_Juan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030924",
@@ -3746,10 +3686,6 @@
   },
   {
     "id": "AL162003_Kate",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030925",
@@ -4335,10 +4271,6 @@
   },
   {
     "id": "AL172003_Larry",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030927",
@@ -4764,10 +4696,6 @@
   },
   {
     "id": "AL182003_Mindy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20031010",
@@ -4913,10 +4841,6 @@
   },
   {
     "id": "AL192003_Nicholas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20031013",
@@ -5722,10 +5646,6 @@
   },
   {
     "id": "AL202003_Odette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20031204",
@@ -5961,10 +5881,6 @@
   },
   {
     "id": "AL212003_Peter",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20031207",

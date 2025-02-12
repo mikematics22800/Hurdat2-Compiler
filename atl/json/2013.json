@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012013_Andrea",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130605",
@@ -402,10 +398,6 @@
   },
   {
     "id": "AL022013_Barry",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130616",
@@ -1055,10 +1047,6 @@
   },
   {
     "id": "AL032013_Chantal",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130707",
@@ -1428,10 +1416,6 @@
   },
   {
     "id": "AL042013_Dorian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130722",
@@ -2865,10 +2849,6 @@
   },
   {
     "id": "AL052013_Erin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130815",
@@ -3434,10 +3414,6 @@
   },
   {
     "id": "AL062013_Fernand",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130825",
@@ -3639,10 +3615,6 @@
   },
   {
     "id": "AL072013_Gabrielle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130904",
@@ -4656,10 +4628,6 @@
   },
   {
     "id": "AL082013_Eight",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130906",
@@ -4777,10 +4745,6 @@
   },
   {
     "id": "AL092013_Humberto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130908",
@@ -6074,10 +6038,6 @@
   },
   {
     "id": "AL102013_Ingrid",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130912",
@@ -6699,10 +6659,6 @@
   },
   {
     "id": "AL112013_Jerry",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20130928",
@@ -7632,10 +7588,6 @@
   },
   {
     "id": "AL122013_Karen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20131003",
@@ -8033,10 +7985,6 @@
   },
   {
     "id": "AL132013_Lorenzo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20131021",
@@ -8630,10 +8578,6 @@
   },
   {
     "id": "AL142013_Melissa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20131117",
@@ -9367,10 +9311,6 @@
   },
   {
     "id": "AL152013_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20131203",

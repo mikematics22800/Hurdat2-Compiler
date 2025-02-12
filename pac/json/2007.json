@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012007_Alvin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070527",
@@ -1214,10 +1210,6 @@
   },
   {
     "id": "EP022007_Barbara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070529",
@@ -1727,10 +1719,6 @@
   },
   {
     "id": "EP032007_Three",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070611",
@@ -2156,10 +2144,6 @@
   },
   {
     "id": "EP042007_Four",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070709",
@@ -2417,10 +2401,6 @@
   },
   {
     "id": "EP052007_Five",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070714",
@@ -2622,10 +2602,6 @@
   },
   {
     "id": "EP062007_Cosme",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070714",
@@ -3807,10 +3783,6 @@
   },
   {
     "id": "EP072007_Dalila",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070722",
@@ -4768,10 +4740,6 @@
   },
   {
     "id": "EP082007_Erick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070731",
@@ -4973,10 +4941,6 @@
   },
   {
     "id": "EP092007_Flossie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070808",
@@ -5878,10 +5842,6 @@
   },
   {
     "id": "EP102007_Gil",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070829",
@@ -6419,10 +6379,6 @@
   },
   {
     "id": "EP112007_Henriette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070830",
@@ -7268,10 +7224,6 @@
   },
   {
     "id": "EP122007_Ivo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070918",
@@ -8061,10 +8013,6 @@
   },
   {
     "id": "EP132007_Thirteen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070919",
@@ -8742,10 +8690,6 @@
   },
   {
     "id": "EP142007_Juliette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20070929",
@@ -9451,10 +9395,6 @@
   },
   {
     "id": "EP152007_Kiko",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20071015",

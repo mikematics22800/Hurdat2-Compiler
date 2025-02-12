@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011961_Iva",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610609",
@@ -120,10 +116,6 @@
   },
   {
     "id": "EP021961_Joanne",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610710",
@@ -219,10 +211,6 @@
   },
   {
     "id": "EP031961_Kathleen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610714",
@@ -298,10 +286,6 @@
   },
   {
     "id": "EP041961_Liza",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610715",
@@ -497,10 +481,6 @@
   },
   {
     "id": "EP051961_Naomi",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610804",
@@ -576,10 +556,6 @@
   },
   {
     "id": "EP061961_Orla",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19610906",
@@ -775,10 +751,6 @@
   },
   {
     "id": "EP071961_Pauline",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19611003",
@@ -834,10 +806,6 @@
   },
   {
     "id": "EP081961_Rebecca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19611003",
@@ -893,10 +861,6 @@
   },
   {
     "id": "EP101961_Tara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19611110",

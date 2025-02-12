@@ -76,10 +76,6 @@ def export_hurdat(lines, startYear, basin):
             
             storm = {
                 "id": id,
-                "image": "",
-                "fatalities": 0,
-                "cost_usd": 0,
-                "retired": "false",
                 "data": data
             }
             season.append(storm)

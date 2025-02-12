@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012002_Arthur",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020714",
@@ -210,10 +206,6 @@
   },
   {
     "id": "AL022002_Bertha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020804",
@@ -449,10 +441,6 @@
   },
   {
     "id": "AL032002_Cristobal",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020805",
@@ -588,10 +576,6 @@
   },
   {
     "id": "AL042002_Dolly",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020829",
@@ -857,10 +841,6 @@
   },
   {
     "id": "AL052002_Edouard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020901",
@@ -1076,10 +1056,6 @@
   },
   {
     "id": "AL062002_Fay",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020905",
@@ -1315,10 +1291,6 @@
   },
   {
     "id": "AL072002_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020907",
@@ -1374,10 +1346,6 @@
   },
   {
     "id": "AL082002_Gustav",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020908",
@@ -1683,10 +1651,6 @@
   },
   {
     "id": "AL092002_Hanna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020912",
@@ -1862,10 +1826,6 @@
   },
   {
     "id": "AL102002_Isidore",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020914",
@@ -2421,10 +2381,6 @@
   },
   {
     "id": "AL112002_Josephine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020917",
@@ -2520,10 +2476,6 @@
   },
   {
     "id": "AL122002_Kyle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020920",
@@ -3429,10 +3381,6 @@
   },
   {
     "id": "AL132002_Lili",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20020921",
@@ -4008,10 +3956,6 @@
   },
   {
     "id": "AL142002_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20021014",

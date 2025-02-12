@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011994_Aletta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940618",
@@ -220,10 +216,6 @@
   },
   {
     "id": "EP021994_Bud",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940627",
@@ -339,10 +331,6 @@
   },
   {
     "id": "EP031994_Carlotta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940628",
@@ -638,10 +626,6 @@
   },
   {
     "id": "EP041994_Daniel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940708",
@@ -907,10 +891,6 @@
   },
   {
     "id": "EP051994_Emilia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940716",
@@ -1286,10 +1266,6 @@
   },
   {
     "id": "EP061994_Fabio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940719",
@@ -1505,10 +1481,6 @@
   },
   {
     "id": "EP071994_Gilma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940721",
@@ -1914,10 +1886,6 @@
   },
   {
     "id": "EP081994_Li",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940731",
@@ -2623,10 +2591,6 @@
   },
   {
     "id": "EP091994_Hector",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940807",
@@ -2752,10 +2716,6 @@
   },
   {
     "id": "CP011994_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940809",
@@ -2971,10 +2931,6 @@
   },
   {
     "id": "EP111994_Ileana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940810",
@@ -3160,10 +3116,6 @@
   },
   {
     "id": "EP101994_John",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940811",
@@ -4379,10 +4331,6 @@
   },
   {
     "id": "EP121994_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940812",
@@ -4538,10 +4486,6 @@
   },
   {
     "id": "EP131994_Kristy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940828",
@@ -4847,10 +4791,6 @@
   },
   {
     "id": "EP141994_Lane",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940903",
@@ -5136,10 +5076,6 @@
   },
   {
     "id": "CP021994_Mele",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940906",
@@ -5295,10 +5231,6 @@
   },
   {
     "id": "EP151994_Miriam",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940915",
@@ -5544,10 +5476,6 @@
   },
   {
     "id": "EP161994_Norman",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940919",
@@ -5673,10 +5601,6 @@
   },
   {
     "id": "EP171994_Olivia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940922",
@@ -5992,10 +5916,6 @@
   },
   {
     "id": "EP181994_Paul",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19940924",
@@ -6231,10 +6151,6 @@
   },
   {
     "id": "EP191994_Rosa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19941008",
@@ -6520,10 +6436,6 @@
   },
   {
     "id": "CP031994_Nona",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19941021",

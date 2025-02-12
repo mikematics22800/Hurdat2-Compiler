@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520202",
@@ -140,10 +136,6 @@
   },
   {
     "id": "AL021952_Able",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520818",
@@ -809,10 +801,6 @@
   },
   {
     "id": "AL031952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520827",
@@ -878,10 +866,6 @@
   },
   {
     "id": "AL041952_Baker",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520831",
@@ -1287,10 +1271,6 @@
   },
   {
     "id": "AL051952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520908",
@@ -1566,10 +1546,6 @@
   },
   {
     "id": "AL061952_Charlie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520924",
@@ -1865,10 +1841,6 @@
   },
   {
     "id": "AL071952_Dog",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520924",
@@ -2134,10 +2106,6 @@
   },
   {
     "id": "AL081952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19520925",
@@ -2353,10 +2321,6 @@
   },
   {
     "id": "AL091952_Easy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19521006",
@@ -2572,10 +2536,6 @@
   },
   {
     "id": "AL101952_Fox",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19521020",
@@ -2941,10 +2901,6 @@
   },
   {
     "id": "AL111952_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19521124",

@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011981_Adrian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810530",
@@ -200,10 +196,6 @@
   },
   {
     "id": "EP021981_Beatriz",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810628",
@@ -459,10 +451,6 @@
   },
   {
     "id": "EP031981_Calvin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810704",
@@ -648,10 +636,6 @@
   },
   {
     "id": "EP041981_Dora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810710",
@@ -907,10 +891,6 @@
   },
   {
     "id": "EP051981_Eugene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810716",
@@ -1126,10 +1106,6 @@
   },
   {
     "id": "EP061981_Fernanda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810806",
@@ -1405,10 +1381,6 @@
   },
   {
     "id": "EP071981_Greg",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810813",
@@ -1804,10 +1776,6 @@
   },
   {
     "id": "EP081981_Hilary",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810821",
@@ -2103,10 +2071,6 @@
   },
   {
     "id": "EP091981_Irwin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810827",
@@ -2262,10 +2226,6 @@
   },
   {
     "id": "EP101981_Jova",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810914",
@@ -2541,10 +2501,6 @@
   },
   {
     "id": "EP111981_Knut",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19810919",
@@ -2670,10 +2626,6 @@
   },
   {
     "id": "EP121981_Lidia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19811006",
@@ -2749,10 +2701,6 @@
   },
   {
     "id": "EP131981_Max",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19811007",
@@ -2888,10 +2836,6 @@
   },
   {
     "id": "EP141981_Norma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19811008",
@@ -3057,10 +3001,6 @@
   },
   {
     "id": "EP151981_Otis",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19811024",

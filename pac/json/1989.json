@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011989_Adolph",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890531",
@@ -220,10 +216,6 @@
   },
   {
     "id": "EP021989_Barbara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890615",
@@ -449,10 +441,6 @@
   },
   {
     "id": "EP031989_Cosme",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890618",
@@ -698,10 +686,6 @@
   },
   {
     "id": "EP041989_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890709",
@@ -787,10 +771,6 @@
   },
   {
     "id": "EP051989_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890709",
@@ -996,10 +976,6 @@
   },
   {
     "id": "EP061989_Dalilia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890711",
@@ -1425,10 +1401,6 @@
   },
   {
     "id": "EP071989_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890715",
@@ -1574,10 +1546,6 @@
   },
   {
     "id": "EP081989_Erick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890719",
@@ -1683,10 +1651,6 @@
   },
   {
     "id": "EP091989_Flossie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890723",
@@ -1882,10 +1846,6 @@
   },
   {
     "id": "EP101989_Gil",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890730",
@@ -2161,10 +2121,6 @@
   },
   {
     "id": "EP111989_Henriette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890815",
@@ -2300,10 +2256,6 @@
   },
   {
     "id": "EP121989_Ismael",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890814",
@@ -2759,10 +2711,6 @@
   },
   {
     "id": "EP131989_Juliette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890821",
@@ -2948,10 +2896,6 @@
   },
   {
     "id": "EP141989_Kiko",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890825",
@@ -3137,10 +3081,6 @@
   },
   {
     "id": "EP151989_Lorena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890827",
@@ -3556,10 +3496,6 @@
   },
   {
     "id": "EP161989_Manuel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890828",
@@ -3695,10 +3631,6 @@
   },
   {
     "id": "EP171989_Narda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890903",
@@ -3914,10 +3846,6 @@
   },
   {
     "id": "EP181989_Octave",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890908",
@@ -4253,10 +4181,6 @@
   },
   {
     "id": "EP191989_Priscilla",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890921",
@@ -4452,10 +4376,6 @@
   },
   {
     "id": "EP201989_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890925",
@@ -4541,10 +4461,6 @@
   },
   {
     "id": "EP211989_Raymond",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19890925",
@@ -5010,10 +4926,6 @@
   },
   {
     "id": "EP221989_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19891003",
@@ -5219,10 +5131,6 @@
   },
   {
     "id": "EP231989_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19891014",
@@ -5238,10 +5146,6 @@
   },
   {
     "id": "EP241989_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19891016",

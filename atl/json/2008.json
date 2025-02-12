@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012008_Arthur",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080531",
@@ -290,10 +286,6 @@
   },
   {
     "id": "AL022008_Bertha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080703",
@@ -2371,10 +2363,6 @@
   },
   {
     "id": "AL032008_Cristobal",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080719",
@@ -2884,10 +2872,6 @@
   },
   {
     "id": "AL042008_Dolly",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080720",
@@ -3761,10 +3745,6 @@
   },
   {
     "id": "AL052008_Edouard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080803",
@@ -4162,10 +4142,6 @@
   },
   {
     "id": "AL062008_Fay",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080815",
@@ -5851,10 +5827,6 @@
   },
   {
     "id": "AL072008_Gustav",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080825",
@@ -7260,10 +7232,6 @@
   },
   {
     "id": "AL082008_Hanna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080828",
@@ -8641,10 +8609,6 @@
   },
   {
     "id": "AL092008_Ike",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080901",
@@ -10386,10 +10350,6 @@
   },
   {
     "id": "AL102008_Josephine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080902",
@@ -11319,10 +11279,6 @@
   },
   {
     "id": "AL112008_Kyle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080925",
@@ -11972,10 +11928,6 @@
   },
   {
     "id": "AL122008_Laura",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20080926",
@@ -12933,10 +12885,6 @@
   },
   {
     "id": "AL132008_Marco",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081006",
@@ -13166,10 +13114,6 @@
   },
   {
     "id": "AL142008_Nana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081012",
@@ -13567,10 +13511,6 @@
   },
   {
     "id": "AL152008_Omar",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081013",
@@ -14472,10 +14412,6 @@
   },
   {
     "id": "AL162008_Sixteen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081014",
@@ -14705,10 +14641,6 @@
   },
   {
     "id": "AL172008_Paloma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20081105",

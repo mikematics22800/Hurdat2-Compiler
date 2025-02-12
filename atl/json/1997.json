@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011997_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970531",
@@ -100,10 +96,6 @@
   },
   {
     "id": "AL021997_Ana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970630",
@@ -299,10 +291,6 @@
   },
   {
     "id": "AL031997_Bill",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970711",
@@ -408,10 +396,6 @@
   },
   {
     "id": "AL041997_Claudette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970713",
@@ -577,10 +561,6 @@
   },
   {
     "id": "AL051997_Danny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970716",
@@ -1056,10 +1036,6 @@
   },
   {
     "id": "AL061997_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970717",
@@ -1145,10 +1121,6 @@
   },
   {
     "id": "AL071997_Erika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19970903",
@@ -1824,10 +1796,6 @@
   },
   {
     "id": "AL081997_Fabian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19971004",
@@ -2003,10 +1971,6 @@
   },
   {
     "id": "AL091997_Grace",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19971014",

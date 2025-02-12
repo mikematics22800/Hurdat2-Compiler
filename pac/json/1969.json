@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011969_Ava",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690701",
@@ -290,10 +286,6 @@
   },
   {
     "id": "EP021969_Bernice",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690709",
@@ -629,10 +621,6 @@
   },
   {
     "id": "EP031969_Claudia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690722",
@@ -708,10 +696,6 @@
   },
   {
     "id": "EP041969_Doreen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690804",
@@ -947,10 +931,6 @@
   },
   {
     "id": "EP051969_Emily",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690823",
@@ -1026,10 +1006,6 @@
   },
   {
     "id": "EP061969_Florence",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690902",
@@ -1265,10 +1241,6 @@
   },
   {
     "id": "EP071969_Glenda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690908",
@@ -1444,10 +1416,6 @@
   },
   {
     "id": "EP081969_Heather",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690919",
@@ -1723,10 +1691,6 @@
   },
   {
     "id": "EP091969_Irah",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19690930",
@@ -1882,10 +1846,6 @@
   },
   {
     "id": "EP101969_Jennifer",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19691009",

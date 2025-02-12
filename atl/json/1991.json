@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011991_Ana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19910629",
@@ -260,10 +256,6 @@
   },
   {
     "id": "AL021991_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19910705",
@@ -329,10 +321,6 @@
   },
   {
     "id": "AL031991_Bob",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19910816",
@@ -888,10 +876,6 @@
   },
   {
     "id": "AL041991_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19910824",
@@ -967,10 +951,6 @@
   },
   {
     "id": "AL051991_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19910828",
@@ -1106,10 +1086,6 @@
   },
   {
     "id": "AL061991_Claudette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19910904",
@@ -1545,10 +1521,6 @@
   },
   {
     "id": "AL071991_Danny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19910907",
@@ -1744,10 +1716,6 @@
   },
   {
     "id": "AL081991_Erika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19910908",
@@ -1933,10 +1901,6 @@
   },
   {
     "id": "AL091991_Fabian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19911015",
@@ -2052,10 +2016,6 @@
   },
   {
     "id": "AL101991_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19911024",
@@ -2111,10 +2071,6 @@
   },
   {
     "id": "AL111991_Grace",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19911025",
@@ -2300,10 +2256,6 @@
   },
   {
     "id": "AL121991_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19911028",

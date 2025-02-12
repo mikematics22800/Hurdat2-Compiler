@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012020_One",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200425",
@@ -290,10 +286,6 @@
   },
   {
     "id": "EP022020_Amanda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200530",
@@ -439,10 +431,6 @@
   },
   {
     "id": "EP032020_Boris",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200624",
@@ -1148,10 +1136,6 @@
   },
   {
     "id": "EP042020_Four",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200629",
@@ -1353,10 +1337,6 @@
   },
   {
     "id": "EP052020_Cristina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200706",
@@ -2398,10 +2378,6 @@
   },
   {
     "id": "EP062020_Six",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200713",
@@ -2547,10 +2523,6 @@
   },
   {
     "id": "EP072020_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200719",
@@ -2836,10 +2808,6 @@
   },
   {
     "id": "EP082020_Douglas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200720",
@@ -3993,10 +3961,6 @@
   },
   {
     "id": "EP092020_Elida",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200808",
@@ -4702,10 +4666,6 @@
   },
   {
     "id": "EP102020_Ten",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200812",
@@ -5299,10 +5259,6 @@
   },
   {
     "id": "EP112020_Fausto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200816",
@@ -5560,10 +5516,6 @@
   },
   {
     "id": "EP122020_Genevieve",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200816",
@@ -6241,10 +6193,6 @@
   },
   {
     "id": "EP132020_Hernan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200825",
@@ -6670,10 +6618,6 @@
   },
   {
     "id": "EP142020_Iselle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200825",
@@ -7351,10 +7295,6 @@
   },
   {
     "id": "EP152020_Julio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200904",
@@ -7668,10 +7608,6 @@
   },
   {
     "id": "EP162020_Karina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200912",
@@ -8321,10 +8257,6 @@
   },
   {
     "id": "EP172020_Lowell",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200920",
@@ -9142,10 +9074,6 @@
   },
   {
     "id": "EP182020_Marie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20200927",
@@ -10579,10 +10507,6 @@
   },
   {
     "id": "EP192020_Norbert",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201004",
@@ -11792,10 +11716,6 @@
   },
   {
     "id": "EP202020_Odalys",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201103",
@@ -12277,10 +12197,6 @@
   },
   {
     "id": "EP212020_Polo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20201117",

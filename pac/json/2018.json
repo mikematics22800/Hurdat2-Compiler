@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012018_One",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180510",
@@ -374,10 +370,6 @@
   },
   {
     "id": "EP022018_Aletta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180606",
@@ -1531,10 +1523,6 @@
   },
   {
     "id": "EP032018_Bud",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180609",
@@ -2296,10 +2284,6 @@
   },
   {
     "id": "EP042018_Carlotta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180614",
@@ -2809,10 +2793,6 @@
   },
   {
     "id": "EP052018_Daniel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180623",
@@ -3434,10 +3414,6 @@
   },
   {
     "id": "EP062018_Emilia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180627",
@@ -4227,10 +4203,6 @@
   },
   {
     "id": "EP072018_Fabio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180630",
@@ -5216,10 +5188,6 @@
   },
   {
     "id": "EP082018_Eight",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180726",
@@ -5841,10 +5809,6 @@
   },
   {
     "id": "EP092018_Nine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180726",
@@ -5990,10 +5954,6 @@
   },
   {
     "id": "EP102018_Hector",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180731",
@@ -7847,10 +7807,6 @@
   },
   {
     "id": "EP112018_Ileana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180804",
@@ -8164,10 +8120,6 @@
   },
   {
     "id": "EP122018_John",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180805",
@@ -9125,10 +9077,6 @@
   },
   {
     "id": "EP132018_Kristy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180806",
@@ -9862,10 +9810,6 @@
   },
   {
     "id": "EP142018_Lane",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180813",
@@ -11663,10 +11607,6 @@
   },
   {
     "id": "EP152018_Miriam",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180825",
@@ -12652,10 +12592,6 @@
   },
   {
     "id": "EP162018_Norman",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180827",
@@ -14201,10 +14137,6 @@
   },
   {
     "id": "EP172018_Olivia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180901",
@@ -15750,10 +15682,6 @@
   },
   {
     "id": "EP182018_Paul",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180907",
@@ -16599,10 +16527,6 @@
   },
   {
     "id": "EP192018_Nineteen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180919",
@@ -16748,10 +16672,6 @@
   },
   {
     "id": "EP202018_Rosa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180925",
@@ -17625,10 +17545,6 @@
   },
   {
     "id": "CP012018_Walaka",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180926",
@@ -18950,10 +18866,6 @@
   },
   {
     "id": "EP212018_Sergio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20180929",
@@ -20471,10 +20383,6 @@
   },
   {
     "id": "EP222018_Tara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20181014",
@@ -20760,10 +20668,6 @@
   },
   {
     "id": "EP232018_Vicente",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20181019",
@@ -21329,10 +21233,6 @@
   },
   {
     "id": "EP242018_Willa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20181019",
@@ -21982,10 +21882,6 @@
   },
   {
     "id": "EP252018_Xavier",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20181102",

@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012009_One",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090617",
@@ -234,10 +230,6 @@
   },
   {
     "id": "EP022009_Andres",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090621",
@@ -607,10 +599,6 @@
   },
   {
     "id": "EP032009_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090706",
@@ -1316,10 +1304,6 @@
   },
   {
     "id": "EP042009_Carlos",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090710",
@@ -2081,10 +2065,6 @@
   },
   {
     "id": "EP052009_Dolores",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090714",
@@ -2790,10 +2770,6 @@
   },
   {
     "id": "EP062009_Lana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090730",
@@ -3247,10 +3223,6 @@
   },
   {
     "id": "EP072009_Enrique",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090803",
@@ -3816,10 +3788,6 @@
   },
   {
     "id": "EP082009_Felicia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090803",
@@ -4749,10 +4717,6 @@
   },
   {
     "id": "EP092009_Nine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090809",
@@ -5458,10 +5422,6 @@
   },
   {
     "id": "CP012009_Maka",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090808",
@@ -6559,10 +6519,6 @@
   },
   {
     "id": "EP102009_Guillermo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090812",
@@ -7856,10 +7812,6 @@
   },
   {
     "id": "EP112009_Hilda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090821",
@@ -9041,10 +8993,6 @@
   },
   {
     "id": "EP122009_Ignacio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090824",
@@ -9526,10 +9474,6 @@
   },
   {
     "id": "EP132009_Jimena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090828",
@@ -10627,10 +10571,6 @@
   },
   {
     "id": "CP022009_Two",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090826",
@@ -11420,10 +11360,6 @@
   },
   {
     "id": "EP142009_Kevin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090827",
@@ -12521,10 +12457,6 @@
   },
   {
     "id": "EP152009_Linda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090906",
@@ -13594,10 +13526,6 @@
   },
   {
     "id": "EP162009_Marty",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090915",
@@ -14443,10 +14371,6 @@
   },
   {
     "id": "EP172009_Nora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20090922",
@@ -15320,10 +15244,6 @@
   },
   {
     "id": "EP182009_Olaf",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20091001",
@@ -15693,10 +15613,6 @@
   },
   {
     "id": "EP192009_Patricia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20091011",
@@ -16150,10 +16066,6 @@
   },
   {
     "id": "EP202009_Rick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20091015",
@@ -16915,10 +16827,6 @@
   },
   {
     "id": "CP032009_Neki",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20091018",

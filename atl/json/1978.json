@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780118",
@@ -200,10 +196,6 @@
   },
   {
     "id": "AL021978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780621",
@@ -269,10 +261,6 @@
   },
   {
     "id": "AL031978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780710",
@@ -368,10 +356,6 @@
   },
   {
     "id": "AL041978_Amelia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780730",
@@ -437,10 +421,6 @@
   },
   {
     "id": "AL051978_Bess",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780805",
@@ -576,10 +556,6 @@
   },
   {
     "id": "AL061978_Cora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780807",
@@ -775,10 +751,6 @@
   },
   {
     "id": "AL071978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780807",
@@ -964,10 +936,6 @@
   },
   {
     "id": "AL081978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780809",
@@ -1033,10 +1001,6 @@
   },
   {
     "id": "AL091978_Debra",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780826",
@@ -1182,10 +1146,6 @@
   },
   {
     "id": "AL101978_Ella",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780830",
@@ -1461,10 +1421,6 @@
   },
   {
     "id": "AL111978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780830",
@@ -1560,10 +1516,6 @@
   },
   {
     "id": "AL121978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780903",
@@ -1899,10 +1851,6 @@
   },
   {
     "id": "AL131978_Flossie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780904",
@@ -2408,10 +2356,6 @@
   },
   {
     "id": "AL141978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780908",
@@ -2517,10 +2461,6 @@
   },
   {
     "id": "AL151978_Hope",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780912",
@@ -2916,10 +2856,6 @@
   },
   {
     "id": "AL161978_Greta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780913",
@@ -3185,10 +3121,6 @@
   },
   {
     "id": "AL171978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780918",
@@ -3644,10 +3576,6 @@
   },
   {
     "id": "AL181978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19780921",
@@ -3743,10 +3671,6 @@
   },
   {
     "id": "AL191978_Irma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19781002",
@@ -3892,10 +3816,6 @@
   },
   {
     "id": "AL201978_Juliet",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19781007",
@@ -4061,10 +3981,6 @@
   },
   {
     "id": "AL211978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19781013",
@@ -4250,10 +4166,6 @@
   },
   {
     "id": "AL221978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19781026",
@@ -4389,10 +4301,6 @@
   },
   {
     "id": "AL231978_Kendra",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19781028",
@@ -4638,10 +4546,6 @@
   },
   {
     "id": "AL241978_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19781103",

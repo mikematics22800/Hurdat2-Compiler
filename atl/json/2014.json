@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012014_Arthur",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20140628",
@@ -1326,10 +1322,6 @@
   },
   {
     "id": "AL022014_Two",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20140719",
@@ -1811,10 +1803,6 @@
   },
   {
     "id": "AL032014_Bertha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20140729",
@@ -3136,10 +3124,6 @@
   },
   {
     "id": "AL042014_Cristobal",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20140823",
@@ -4237,10 +4221,6 @@
   },
   {
     "id": "AL052014_Dolly",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20140901",
@@ -4610,10 +4590,6 @@
   },
   {
     "id": "AL062014_Edouard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20140910",
@@ -5935,10 +5911,6 @@
   },
   {
     "id": "AL072014_Fay",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20141010",
@@ -6336,10 +6308,6 @@
   },
   {
     "id": "AL082014_Gonzalo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20141011",
@@ -7437,10 +7405,6 @@
   },
   {
     "id": "AL092014_Hanna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20141021",

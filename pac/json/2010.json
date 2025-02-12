@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012010_Agatha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100528",
@@ -262,10 +258,6 @@
   },
   {
     "id": "EP022010_Two",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100616",
@@ -383,10 +375,6 @@
   },
   {
     "id": "EP032010_Blas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100615",
@@ -1288,10 +1276,6 @@
   },
   {
     "id": "EP042010_Celia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100618",
@@ -2697,10 +2681,6 @@
   },
   {
     "id": "EP052010_Darby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100620",
@@ -3798,10 +3778,6 @@
   },
   {
     "id": "EP062010_Six",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100714",
@@ -4311,10 +4287,6 @@
   },
   {
     "id": "EP072010_Estelle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100804",
@@ -5048,10 +5020,6 @@
   },
   {
     "id": "EP082010_Eight",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100820",
@@ -5393,10 +5361,6 @@
   },
   {
     "id": "EP092010_Frank",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100821",
@@ -6242,10 +6206,6 @@
   },
   {
     "id": "EP102010_Ten",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100903",
@@ -6531,10 +6491,6 @@
   },
   {
     "id": "EP112010_Eleven",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100903",
@@ -6708,10 +6664,6 @@
   },
   {
     "id": "EP122010_Georgette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20100920",
@@ -7053,10 +7005,6 @@
   },
   {
     "id": "CP012010_Omeka",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20101216",

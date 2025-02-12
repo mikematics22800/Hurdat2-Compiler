@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012001_Adolph",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010525",
@@ -300,10 +296,6 @@
   },
   {
     "id": "EP022001_Barbara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010620",
@@ -569,10 +561,6 @@
   },
   {
     "id": "EP032001_Cosme",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010713",
@@ -668,10 +656,6 @@
   },
   {
     "id": "EP042001_Erick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010720",
@@ -817,10 +801,6 @@
   },
   {
     "id": "EP052001_Dalila",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010721",
@@ -1136,10 +1116,6 @@
   },
   {
     "id": "EP062001_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010822",
@@ -1215,10 +1191,6 @@
   },
   {
     "id": "EP072001_Flossie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010826",
@@ -1504,10 +1476,6 @@
   },
   {
     "id": "EP082001_Gil",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010904",
@@ -1743,10 +1711,6 @@
   },
   {
     "id": "EP092001_Henriette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010904",
@@ -1922,10 +1886,6 @@
   },
   {
     "id": "CP012001_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010910",
@@ -2001,10 +1961,6 @@
   },
   {
     "id": "EP102001_Ivo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010910",
@@ -2200,10 +2156,6 @@
   },
   {
     "id": "EP112001_Juliette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010921",
@@ -2689,10 +2641,6 @@
   },
   {
     "id": "EP122001_Kiko",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010921",
@@ -2868,10 +2816,6 @@
   },
   {
     "id": "CP022001_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20010922",
@@ -2997,10 +2941,6 @@
   },
   {
     "id": "EP132001_Lorena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20011002",
@@ -3126,10 +3066,6 @@
   },
   {
     "id": "EP142001_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20011003",
@@ -3185,10 +3121,6 @@
   },
   {
     "id": "EP152001_Manuel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20011010",
@@ -3504,10 +3436,6 @@
   },
   {
     "id": "EP162001_Narda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20011020",
@@ -3713,10 +3641,6 @@
   },
   {
     "id": "EP172001_Octave",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20011031",

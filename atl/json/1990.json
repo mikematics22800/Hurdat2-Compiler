@@ -1,10 +1,6 @@
 [
   {
     "id": "AL011990_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900524",
@@ -80,10 +76,6 @@
   },
   {
     "id": "AL021990_Arthur",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900722",
@@ -309,10 +301,6 @@
   },
   {
     "id": "AL031990_Bertha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900724",
@@ -688,10 +676,6 @@
   },
   {
     "id": "AL041990_Cesar",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900731",
@@ -1007,10 +991,6 @@
   },
   {
     "id": "AL061990_Edouard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900802",
@@ -1456,10 +1436,6 @@
   },
   {
     "id": "AL051990_Diana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900804",
@@ -1715,10 +1691,6 @@
   },
   {
     "id": "AL071990_Fran",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900811",
@@ -1854,10 +1826,6 @@
   },
   {
     "id": "AL081990_Gustav",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900824",
@@ -2273,10 +2241,6 @@
   },
   {
     "id": "AL091990_Hortense",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900825",
@@ -2542,10 +2506,6 @@
   },
   {
     "id": "AL101990_Isidore",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900904",
@@ -3101,10 +3061,6 @@
   },
   {
     "id": "AL111990_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900918",
@@ -3480,10 +3436,6 @@
   },
   {
     "id": "AL121990_Josephine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19900921",
@@ -4109,10 +4061,6 @@
   },
   {
     "id": "AL131990_Klaus",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19901003",
@@ -4368,10 +4316,6 @@
   },
   {
     "id": "AL141990_Lili",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19901006",
@@ -4757,10 +4701,6 @@
   },
   {
     "id": "AL151990_Marco",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19901009",
@@ -4936,10 +4876,6 @@
   },
   {
     "id": "AL161990_Nana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19901016",

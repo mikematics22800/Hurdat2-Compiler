@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012015_Ana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150506",
@@ -794,10 +790,6 @@
   },
   {
     "id": "AL022015_Bill",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150616",
@@ -1419,10 +1411,6 @@
   },
   {
     "id": "AL032015_Claudette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150712",
@@ -1848,10 +1836,6 @@
   },
   {
     "id": "AL042015_Danny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150817",
@@ -2725,10 +2709,6 @@
   },
   {
     "id": "AL052015_Erika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150824",
@@ -3182,10 +3162,6 @@
   },
   {
     "id": "AL062015_Fred",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150830",
@@ -4059,10 +4035,6 @@
   },
   {
     "id": "AL072015_Grace",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150905",
@@ -4544,10 +4516,6 @@
   },
   {
     "id": "AL082015_Henri",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150908",
@@ -4917,10 +4885,6 @@
   },
   {
     "id": "AL092015_Nine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150915",
@@ -5458,10 +5422,6 @@
   },
   {
     "id": "AL102015_Ida",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150915",
@@ -6895,10 +6855,6 @@
   },
   {
     "id": "AL112015_Joaquin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20150926",
@@ -9032,10 +8988,6 @@
   },
   {
     "id": "AL122015_Kate",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20151108",

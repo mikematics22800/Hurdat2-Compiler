@@ -1,10 +1,6 @@
 [
   {
     "id": "EP011980_Agatha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800609",
@@ -290,10 +286,6 @@
   },
   {
     "id": "EP021980_Blas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800616",
@@ -429,10 +421,6 @@
   },
   {
     "id": "EP031980_Celia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800625",
@@ -628,10 +616,6 @@
   },
   {
     "id": "EP041980_Darby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800701",
@@ -757,10 +741,6 @@
   },
   {
     "id": "EP051980_Estelle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800712",
@@ -816,10 +796,6 @@
   },
   {
     "id": "EP061980_Frank",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800718",
@@ -1005,10 +981,6 @@
   },
   {
     "id": "EP071980_Georgette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800728",
@@ -1164,10 +1136,6 @@
   },
   {
     "id": "EP081980_Howard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800731",
@@ -1473,10 +1441,6 @@
   },
   {
     "id": "EP091980_Isis",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800805",
@@ -1722,10 +1686,6 @@
   },
   {
     "id": "EP101980_Javier",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800822",
@@ -1991,10 +1951,6 @@
   },
   {
     "id": "EP111980_Kay",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800916",
@@ -2580,10 +2536,6 @@
   },
   {
     "id": "EP121980_Lester",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19800921",
@@ -2729,10 +2681,6 @@
   },
   {
     "id": "EP131980_Madeline",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19801011",
@@ -2798,10 +2746,6 @@
   },
   {
     "id": "EP141980_Newton",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "19801028",

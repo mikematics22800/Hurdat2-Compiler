@@ -1,10 +1,6 @@
 [
   {
     "id": "AL012019_Andrea",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190520",
@@ -206,10 +202,6 @@
   },
   {
     "id": "AL022019_Barry",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190710",
@@ -915,10 +907,6 @@
   },
   {
     "id": "AL032019_Three",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190722",
@@ -1064,10 +1052,6 @@
   },
   {
     "id": "AL042019_Chantal",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190820",
@@ -1773,10 +1757,6 @@
   },
   {
     "id": "AL052019_Dorian",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190824",
@@ -3742,10 +3722,6 @@
   },
   {
     "id": "AL062019_Erin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190826",
@@ -4143,10 +4119,6 @@
   },
   {
     "id": "AL072019_Fernand",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190903",
@@ -4404,10 +4376,6 @@
   },
   {
     "id": "AL082019_Gabrielle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190903",
@@ -5393,10 +5361,6 @@
   },
   {
     "id": "AL092019_Humberto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190912",
@@ -6354,10 +6318,6 @@
   },
   {
     "id": "AL102019_Jerry",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190917",
@@ -7623,10 +7583,6 @@
   },
   {
     "id": "AL112019_Imelda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190917",
@@ -7884,10 +7840,6 @@
   },
   {
     "id": "AL122019_Karen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190922",
@@ -8593,10 +8545,6 @@
   },
   {
     "id": "AL132019_Lorenzo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20190922",
@@ -9946,10 +9894,6 @@
   },
   {
     "id": "AL142019_Melissa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191008",
@@ -10655,10 +10599,6 @@
   },
   {
     "id": "AL152019_Fifteen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191014",
@@ -11028,10 +10968,6 @@
   },
   {
     "id": "AL162019_Nestor",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191017",
@@ -11457,10 +11393,6 @@
   },
   {
     "id": "AL172019_Olga",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191025",
@@ -11746,10 +11678,6 @@
   },
   {
     "id": "AL182019_Pablo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191023",
@@ -12371,10 +12299,6 @@
   },
   {
     "id": "AL192019_Rebekah",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191027",
@@ -13024,10 +12948,6 @@
   },
   {
     "id": "AL202019_Sebastien",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20191119",

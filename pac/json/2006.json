@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012006_Aletta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060527",
@@ -458,10 +454,6 @@
   },
   {
     "id": "EP022006_Two",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060603",
@@ -663,10 +655,6 @@
   },
   {
     "id": "EP032006_Bud",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060711",
@@ -1428,10 +1416,6 @@
   },
   {
     "id": "EP042006_Carlotta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060712",
@@ -2361,10 +2345,6 @@
   },
   {
     "id": "EP052006_Daniel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060716",
@@ -3714,10 +3694,6 @@
   },
   {
     "id": "EP062006_Emilia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060721",
@@ -4871,10 +4847,6 @@
   },
   {
     "id": "EP072006_Fabio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060731",
@@ -5468,10 +5440,6 @@
   },
   {
     "id": "EP082006_Gilma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060801",
@@ -5953,10 +5921,6 @@
   },
   {
     "id": "EP092006_Hector",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060815",
@@ -6942,10 +6906,6 @@
   },
   {
     "id": "CP012006_Ioke",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060817",
@@ -9275,10 +9235,6 @@
   },
   {
     "id": "EP102006_Ileana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060821",
@@ -10180,10 +10136,6 @@
   },
   {
     "id": "EP112006_John",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060828",
@@ -11085,10 +11037,6 @@
   },
   {
     "id": "EP122006_Kristy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060830",
@@ -12270,10 +12218,6 @@
   },
   {
     "id": "EP132006_Lane",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060913",
@@ -12755,10 +12699,6 @@
   },
   {
     "id": "EP142006_Miriam",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060916",
@@ -13380,10 +13320,6 @@
   },
   {
     "id": "CP022006_Two",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060914",
@@ -14453,10 +14389,6 @@
   },
   {
     "id": "CP032006_Three",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20060925",
@@ -14742,10 +14674,6 @@
   },
   {
     "id": "EP152006_Norman",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20061009",
@@ -15535,10 +15463,6 @@
   },
   {
     "id": "EP162006_Olivia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20061009",
@@ -16132,10 +16056,6 @@
   },
   {
     "id": "CP042006_Four",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20061007",
@@ -17177,10 +17097,6 @@
   },
   {
     "id": "EP172006_Paul",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20061021",
@@ -17802,10 +17718,6 @@
   },
   {
     "id": "EP182006_Eighteen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20061026",
@@ -18119,10 +18031,6 @@
   },
   {
     "id": "EP192006_Rosa",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20061108",
@@ -18436,10 +18344,6 @@
   },
   {
     "id": "EP202006_Twenty",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20061111",
@@ -18529,10 +18433,6 @@
   },
   {
     "id": "EP212006_Sergio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20061113",

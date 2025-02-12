@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012003_Andres",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030519",
@@ -290,10 +286,6 @@
   },
   {
     "id": "EP022003_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030617",
@@ -609,10 +601,6 @@
   },
   {
     "id": "EP032003_Carlos",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030626",
@@ -748,10 +736,6 @@
   },
   {
     "id": "EP042003_Dolores",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030706",
@@ -867,10 +851,6 @@
   },
   {
     "id": "EP052003_Enrique",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030710",
@@ -1106,10 +1086,6 @@
   },
   {
     "id": "EP062003_Felicia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030717",
@@ -1395,10 +1371,6 @@
   },
   {
     "id": "EP072003_Guillermo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030807",
@@ -1644,10 +1616,6 @@
   },
   {
     "id": "EP082003_Hilda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030809",
@@ -1833,10 +1801,6 @@
   },
   {
     "id": "CP012003_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030811",
@@ -2092,10 +2056,6 @@
   },
   {
     "id": "EP092003_Ignacio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030822",
@@ -2321,10 +2281,6 @@
   },
   {
     "id": "EP102003_Jimena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030828",
@@ -2680,10 +2636,6 @@
   },
   {
     "id": "EP112003_Kevin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030903",
@@ -2969,10 +2921,6 @@
   },
   {
     "id": "EP122003_Linda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030913",
@@ -3368,10 +3316,6 @@
   },
   {
     "id": "EP132003_Marty",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20030918",
@@ -3687,10 +3631,6 @@
   },
   {
     "id": "EP142003_Nora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20031001",
@@ -4006,10 +3946,6 @@
   },
   {
     "id": "EP152003_Olaf",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20031003",
@@ -4225,10 +4161,6 @@
   },
   {
     "id": "EP162003_Patricia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20031020",

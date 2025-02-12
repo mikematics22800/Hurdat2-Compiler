@@ -1,10 +1,6 @@
 [
   {
     "id": "EP012021_Andres",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210508",
@@ -486,10 +482,6 @@
   },
   {
     "id": "EP022021_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210530",
@@ -1195,10 +1187,6 @@
   },
   {
     "id": "EP032021_Carlos",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210612",
@@ -1792,10 +1780,6 @@
   },
   {
     "id": "EP042021_Dolores",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210617",
@@ -2109,10 +2093,6 @@
   },
   {
     "id": "EP052021_Enrique",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210625",
@@ -2734,10 +2714,6 @@
   },
   {
     "id": "EP062021_Felicia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210714",
@@ -3723,10 +3699,6 @@
   },
   {
     "id": "EP072021_Guillermo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210717",
@@ -4208,10 +4180,6 @@
   },
   {
     "id": "EP082021_Hilda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210730",
@@ -5085,10 +5053,6 @@
   },
   {
     "id": "EP092021_Jimena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210726",
@@ -6382,10 +6346,6 @@
   },
   {
     "id": "EP102021_Ignacio",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210731",
@@ -6811,10 +6771,6 @@
   },
   {
     "id": "EP112021_Kevin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210806",
@@ -7884,10 +7840,6 @@
   },
   {
     "id": "EP122021_Linda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210809",
@@ -9573,10 +9525,6 @@
   },
   {
     "id": "EP132021_Marty",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210823",
@@ -10086,10 +10034,6 @@
   },
   {
     "id": "EP142021_Nora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210824",
@@ -10879,10 +10823,6 @@
   },
   {
     "id": "EP152021_Olaf",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20210906",
@@ -11532,10 +11472,6 @@
   },
   {
     "id": "EP162021_Pamela",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20211010",
@@ -11989,10 +11925,6 @@
   },
   {
     "id": "EP172021_Rick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20211022",
@@ -12418,10 +12350,6 @@
   },
   {
     "id": "EP182021_Terry",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20211102",
@@ -13323,10 +13251,6 @@
   },
   {
     "id": "EP192021_Sandra",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
     "data": [
       {
         "date": "20211107",
